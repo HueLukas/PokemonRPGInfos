@@ -1,0 +1,30 @@
+.box{
+    width: 300px;
+    border: solid white 1px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.moveTitulo{
+    font-size: 20px;
+}
+
+.info{
+    width: 100%;
+    height: 138px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.description{
+    margin: 5px;
+}
+
+#HLevel{
+    border-top: solid 1px;
+    margin: 0;
+    width: 100%;
+}

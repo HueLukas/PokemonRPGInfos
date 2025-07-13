@@ -1,0 +1,1187 @@
+[
+  {
+    "id": 0,
+    "nome": "Adaptability",
+    "descrição": "Quando este Pokémon usa um Move do seu próprio tipo, ele pode rolar o dano duas vezes e escolher o maior."
+  },
+  {
+    "id": 1,
+    "nome": "Aftermath",
+    "descrição": "Este Pokémon causa dano a um atacante igual à metade do dano recebido caso seja derrotado por um Move corpo a corpo."
+  },
+  {
+    "id": 2,
+    "nome": "Air Lock",
+    "descrição": "Enquanto este Pokémon estiver em batalha, habilidades relacionadas ao clima não têm efeito sobre os Pokémon que as possuem."
+  },
+  {
+    "id": 3,
+    "nome": "Air Slash",
+    "descrição": "Este Pokémon conhece Air Slash como um quinto Move. O Move é esquecido se ele tomar qualquer outra forma."
+  },
+  {
+    "id": 4,
+    "nome": "Analytic",
+    "descrição": "Após este Pokémon errar um ataque, seu próximo ataque é feito com vantagem."
+  },
+  {
+    "id": 5,
+    "nome": "Anger Point",
+    "descrição": "Após sofrer um acerto crítico, este Pokémon dobra os dados de dano para um único Move que ele ativar no próximo turno."
+  },
+  {
+    "id": 6,
+    "nome": "Anticipation",
+    "descrição": "Quando este Pokémon entra na batalha, um oponente deve revelar se tem um Move ao qual o Pokémon é vulnerável. O Move não precisa ser revelado - apenas que existe tal Move."
+  },
+  {
+    "id": 7,
+    "nome": "Arena Trap",
+    "descrição": "Criaturas em contato com o solo dentro de 50 pés (15 metros) deste Pokémon não podem fugir ou trocar, exceto por item, Move ou habilidade."
+  },
+  {
+    "id": 8,
+    "nome": "Aroma Veil",
+    "descrição": "Qualquer aliado dentro de 15 pés (4,5 metros) deste Pokémon passa automaticamente em qualquer teste de SAB que precisem fazer."
+  },
+  {
+    "id": 9,
+    "nome": "Aura Break",
+    "descrição": "Quando este Pokémon está em batalha, o aumento das habilidades Fairy Aura e Dark Aura é revertido. Qualquer tipo de Move ativado dentro de 100 pés (30 metros) causa metade do dano em vez de dobrar."
+  },
+  {
+    "id": 10,
+    "nome": "Bad Dreams",
+    "descrição": "Se um oponente em batalha com este Pokémon adormecer, ele sofre uma quantidade de dano igual ao bônus de proficiência deste Pokémon no final de cada um de seus turnos."
+  },
+  {
+    "id": 11,
+    "nome": "Battery",
+    "descrição": "Aliados que ativam Moves do tipo elétrico dentro de 20 pés (6 metros) deste Pokémon dobram seus dados de dano."
+  },
+  {
+    "id": 12,
+    "nome": "Battle Armor",
+    "descrição": "Este Pokémon é imune a dano extra causado por um acerto crítico."
+  },
+  {
+    "id": 13,
+    "nome": "Beast Boost",
+    "descrição": "Ao fazer um oponente desmaiar, este Pokémon aumenta os valores de habilidade de suas proficiências em testes de resistência em 2 até o final do combate. Isso é acumulável até um máximo de +10 para qualquer valor de habilidade."
+  },
+  {
+    "id": 14,
+    "nome": "Berserk",
+    "descrição": "Quando este Pokémon cai abaixo de 25% de seus pontos de vida máximos, todos os seus ataques são feitos com desvantagem, mas causam o dobro de dano. Se um Move ativado exigir um teste de resistência, o(s) alvo(s) têm vantagem na rolagem."
+  },
+  {
+    "id": 15,
+    "nome": "Big Pecks",
+    "descrição": "A CA deste Pokémon não pode ser reduzida pelos Moves do oponente."
+  },
+  {
+    "id": 16,
+    "nome": "Blaze",
+    "descrição": "Este Pokémon duplica seu bônus de STAB quando tem 25% ou menos de seus pontos de vida máximos."
+  },
+  {
+    "id": 17,
+    "nome": "Blizzard",
+    "descrição": "Este Pokémon conhece Blizzard como um quinto Move. O Move é esquecido se ele tomar qualquer outra forma."
+  },
+  {
+    "id": 18,
+    "nome": "Bulletproof",
+    "descrição": "Este Pokémon é imune a dano causado por Moves com Bullet, Ball, ou Bomb em seu nome."
+  },
+  {
+    "id": 19,
+    "nome": "Burrower",
+    "descrição": "Este Pokémon pode escavar no subsolo, viajando uma distância igual à sua velocidade de movimento antes de reaparecer."
+  },
+  {
+    "id": 20,
+    "nome": "Cacophony",
+    "descrição": "Este Pokémon é imune a Moves baseados em som."
+  },
+  {
+    "id": 21,
+    "nome": "Cheek Pouch",
+    "descrição": "Quando este Pokémon come qualquer tipo de berry, ele se cura por 10% adicionais de seus pontos de vida máximos (arredondados para o número inteiro mais próximo)."
+  },
+  {
+    "id": 22,
+    "nome": "Chlorophyll",
+    "descrição": "A velocidade deste Pokémon é dobrada em luz solar intensa."
+  },
+  {
+    "id": 23,
+    "nome": "Clear Body",
+    "descrição": "Os Moves ou habilidades de outros Pokémon não podem reduzir os atributos ou impor alterações negativas nas rolagens deste Pokémon."
+  },
+  {
+    "id": 24,
+    "nome": "Cloud Nine",
+    "descrição": "Enquanto este Pokémon estiver em batalha, habilidades relacionadas ao clima não têm efeito sobre os Pokémon que as possuem."
+  },
+  {
+    "id": 25,
+    "nome": "Color Change",
+    "descrição": "Quando atingido por um ataque danoso, o tipo deste Pokémon muda para o tipo que o atingiu. Ele assume as resistências, vulnerabilidades e imunidades do novo tipo."
+  },
+  {
+    "id": 26,
+    "nome": "Comatose",
+    "descrição": "Este Pokémon está em um estado contínuo de sonolência. Ele é imune à condição de sono, mas é considerado afetado pelo sono para todos os Moves que requerem que um Pokémon esteja dormindo para usar ou ativar efeitos adicionais (Snore, Sleep Talk, Wake-Up Slap, Dream Eater, etc.)."
+  },
+  {
+    "id": 27,
+    "nome": "Competitive",
+    "descrição": "Este Pokémon adiciona seu bônus de proficiência às rolagens de dano enquanto envenenado, queimado, confuso ou paralisado."
+  },
+  {
+    "id": 28,
+    "nome": "Compound Eyes",
+    "descrição": "Este Pokémon recebe um adicional de +1 nas rolagens de ataque."
+  },
+  {
+    "id": 29,
+    "nome": "Contrary",
+    "descrição": "Moves que aumentam ou diminuem diretamente os atributos deste Pokémon têm o efeito oposto. Esta habilidade não tem efeito sobre Moves que \"trocam\" ou \"medeiam\" atributos com um alvo como Heart Swap, Guard Split, etc."
+  },
+  {
+    "id": 30,
+    "nome": "Corrosion",
+    "descrição": "Os Moves deste Pokémon ignoram a imunidade ao veneno das criaturas concedida pelo tipo de Pokémon delas e podem infligir o status envenenado em criaturas do tipo venenoso e de aço. Se o tipo secundário do alvo o tornar vulnerável ou resistente ao dano, segue o tipo secundário para esse efeito."
+  },
+  {
+    "id": 31,
+    "nome": "Cursed Body",
+    "descrição": "Quando atingido por um ataque corpo a corpo, este Pokémon pode rolar 1d4. Em um resultado de 4, o oponente que fez o ataque não pode usar o mesmo Move em seu próximo turno."
+  },
+  {
+    "id": 32,
+    "nome": "Cute Charm",
+    "descrição": "Uma vez por descanso curto, você pode impor desvantagem em uma rolagem de ataque inimigo de sua escolha."
+  },
+  {
+    "id": 33,
+    "nome": "Damp",
+    "descrição": "Este Pokémon não é afetado pelos Moves Self Destruct e Explosion."
+  },
+  {
+    "id": 34,
+    "nome": "Dancer",
+    "descrição": "Se qualquer criatura à vista deste Pokémon ativar um Move com Dance em seu nome, este Pokémon pode imediatamente usar um de seus Moves como uma reação."
+  },
+  {
+    "id": 35,
+    "nome": "Dark Aura",
+    "descrição": "Quando este Pokémon está em batalha, todos os Moves do tipo sombrio por aliados ou oponentes dentro de 100 pés (30 metros) causam o dobro de seu dano."
+  },
+  {
+    "id": 36,
+    "nome": "Dazzling",
+    "descrição": "Criaturas dentro do campo de visão deste Pokémon não podem usar ações bônus para ativar Moves. Moves que normalmente teriam um Tempo de Execução de \"1 ação bônus\" têm, em vez disso, um Tempo de Execução de \"1 ação\"."
+  },
+  {
+    "id": 37,
+    "nome": "Defeatist",
+    "descrição": "Quando este Pokémon cai abaixo de 25% de seus pontos de vida máximos, todos os seus ataques são feitos com desvantagem."
+  },
+  {
+    "id": 38,
+    "nome": "Defiant",
+    "descrição": "Enquanto este Pokémon estiver sofrendo um efeito de status negativo ou alteração de estatísticas imposta por um oponente, ele ganha +2 em todas as rolagens de ataque."
+  },
+  {
+    "id": 39,
+    "nome": "Disguise",
+    "descrição": "Este Pokémon pode usar seu disfarce para evitar perder PV para o primeiro Move de danoso que o atingir em combate. Após o primeiro golpe, o disfarce é descoberto e o Pokémon sofre dano normalmente. É necessário um descanso curto para reparar o disfarce."
+  },
+  {
+    "id": 40,
+    "nome": "Download",
+    "descrição": "Uma vez por descanso curto, este Pokémon pode escolher um tipo de dano diferente para um de seus ataques normais."
+  },
+  {
+    "id": 41,
+    "nome": "Drizzle",
+    "descrição": "Quando este Pokémon entra em uma batalha ao ar livre, o clima muda imediatamente para chuva leve por 5 rodadas. No caso de outro Pokémon com uma habilidade climática semelhante, a vantagem vai para o Pokémon com o maior valor de DES."
+  },
+  {
+    "id": 42,
+    "nome": "Drought",
+    "descrição": "Quando este Pokémon entra em uma batalha ao ar livre, o clima muda imediatamente para luz solar intensa por 5 rodadas. No caso de outro Pokémon com uma habilidade climática semelhante, a vantagem vai para o Pokémon com o maior valor de DES."
+  },
+  {
+    "id": 43,
+    "nome": "Dry Skin",
+    "descrição": "No final de cada turno deste Pokémon, ele sofre uma quantidade de dano igual ao seu modificador de proficiência caso esteja em luz solar intensa, ou se cura pela mesma quantidade durante a chuva."
+  },
+  {
+    "id": 44,
+    "nome": "Early Bird",
+    "descrição": "Este Pokémon tem vantagem em rolagens para acordar do sono."
+  },
+  {
+    "id": 45,
+    "nome": "Effect Spore",
+    "descrição": "Quando atingido por um ataque corpo a corpo, role um d4. Em um resultado de 4, cause uma quantidade de dano de grama igual ao seu modificador de proficiência ao seu atacante."
+  },
+  {
+    "id": 46,
+    "nome": "Electric Surge",
+    "descrição": "Se o Move for conhecido, este Pokémon pode usar o Move Electric Terrain como uma ação bônus."
+  },
+  {
+    "id": 47,
+    "nome": "Emergency Exit",
+    "descrição": "A qualquer momento em que este Pokémon receba dano quando estiver em 50% ou menos de seus pontos de vida máximos, seu treinador pode trocá-lo como uma Ação Livre."
+  },
+  {
+    "id": 48,
+    "nome": "Fairy Aura",
+    "descrição": "Quando este Pokémon estiver em batalha, todos os Moves do tipo Fada dentro de 100 pés (30 metros) de você causam o dobro de seu dano."
+  },
+  {
+    "id": 49,
+    "nome": "Filter",
+    "descrição": "Quando atingido por um tipo de Move ao qual este Pokémon é vulnerável, ele pode fazer uma rolagem de um d4. Em um resultado de 4, ele não sofre o dano adicional."
+  },
+  {
+    "id": 50,
+    "nome": "Flame Body",
+    "descrição": "As chamas do corpo deste Pokémon emitem uma luz fraca em um raio de 15 pés (4,5 metros). Além disso, quando atingido por um ataque corpo a corpo, role um d10. Em um resultado de 10, o atacante é queimado."
+  },
+  {
+    "id": 51,
+    "nome": "Flare Boost",
+    "descrição": "Este Pokémon adiciona proficiência às suas rolagens de dano enquanto estiver queimado."
+  },
+  {
+    "id": 52,
+    "nome": "Flash Fire",
+    "descrição": "Este Pokémon não sofre dano de fogo ou ataques do tipo fogo. Em vez disso, imediatamente após receber um golpe de um Move do tipo fogo, ou em chamas abertas, dobre o bônus STAB no próximo Move do tipo fogo."
+  },
+  {
+    "id": 53,
+    "nome": "Flower Gift",
+    "descrição": "Durante a luz solar intensa, os Pokémon aliados dentro de 30 pés (9 metros) deste Pokémon adicionam seu bônus de proficiência às rolagens de dano."
+  },
+  {
+    "id": 54,
+    "nome": "Flower Veil",
+    "descrição": "Qualquer aliado do tipo grama dentro de 15 pés (4,5 metros) deste Pokémon é imune a novos efeitos de status."
+  },
+  {
+    "id": 55,
+    "nome": "Fluffy",
+    "descrição": "Este Pokémon é vulnerável a Moves do tipo fogo, mas sofre metade do dano de qualquer ataque corpo a corpo (que não seja do tipo fogo)."
+  },
+  {
+    "id": 56,
+    "nome": "Forecast",
+    "descrição": "Este Pokémon muda de forma de acordo com o clima. Na chuva, torna-se do tipo água; na luz solar intensa, torna-se do tipo fogo; em condições frias e nevadas, torna-se do tipo gelo. Em todas as outras condições, é do tipo normal. Seu STAB, resistências, imunidades e vulnerabilidades mudam para coincidir com a forma que assume."
+  },
+  {
+    "id": 57,
+    "nome": "Forewarn",
+    "descrição": "Quando este Pokémon entra em batalha, ele seleciona um alvo para revelar o Move que conhece com maior potência de dano. Em caso de empate, o alvo pode escolher qual Move revelar."
+  },
+  {
+    "id": 58,
+    "nome": "Friend Guard",
+    "descrição": "Uma vez por descanso longo, quando um aliado dentro de 15 pés (4,5 metros) deste Pokémon é atingido por um ataque, ele pode escolher reduzir pela metade o dano causado."
+  },
+  {
+    "id": 59,
+    "nome": "Frisk",
+    "descrição": "Ao entrar em uma batalha, o item segurado por um único oponente é revelado, caso tenha um."
+  },
+  {
+    "id": 60,
+    "nome": "Full Metal Body",
+    "descrição": "Os Moves ou habilidades de outros Pokémon não podem diminuir as estatísticas deste Pokémon."
+  },
+  {
+    "id": 61,
+    "nome": "Fur Coat",
+    "descrição": "Uma vez por descanso longo, este Pokémon pode reduzir pela metade o dano causado a ele por um único ataque."
+  },
+  {
+    "id": 62,
+    "nome": "Gale Wings",
+    "descrição": "Este Pokémon adiciona +1 nas rolagens de acerto ao usar Moves do tipo voador."
+  },
+  {
+    "id": 63,
+    "nome": "Galvanize",
+    "descrição": "Todos os Moves de ataque do tipo Normal usados por este Pokémon se tornam do tipo Elétrico. Além disso, para estes Moves, role o dado de dano duas vezes e escolha o valor."
+  },
+  {
+    "id": 64,
+    "nome": "Gluttony",
+    "descrição": "Este Pokémon deve comer sua berry segurada quando cair abaixo de 1⁄2 de seus pontos de vida máximos."
+  },
+  {
+    "id": 65,
+    "nome": "Gooey",
+    "descrição": "Quando este Pokémon é atingido por um ataque corpo a corpo, role um d4. Em um resultado de 3 ou 4, a velocidade do atacante é reduzida a 0 até o final do próximo turno dele."
+  },
+  {
+    "id": 66,
+    "nome": "Grass Pelt",
+    "descrição": "Este Pokémon ganha +1 para sua CA enquanto estiver em terreno gramado."
+  },
+  {
+    "id": 67,
+    "nome": "Grassy Surge",
+    "descrição": "Se o Move for conhecido, este Pokémon pode usar o Move Grassy Surge como uma ação bônus."
+  },
+  {
+    "id": 68,
+    "nome": "Guts",
+    "descrição": "Quando este Pokémon está queimado ou envenenado, ele não é afetado pelas desvantagens ou efeitos de dano reduzido. Ainda assim, sofre dano ao final de cada um de seus turnos."
+  },
+  {
+    "id": 69,
+    "nome": "Harvest",
+    "descrição": "No final do turno deste Pokémon, se ele usou uma berry, role um d4. Em um resultado de 3 ou 4, ele recupera essa berry como um item segurado."
+  },
+  {
+    "id": 70,
+    "nome": "Healer",
+    "descrição": "Como uma ação, este Pokémon pode tocar uma criatura para curar veneno, queimadura ou paralisia. Quando usa essa habilidade, role um d4. Em um resultado de 1 ou 2, o efeito de status é transferido para si mesmo."
+  },
+  {
+    "id": 71,
+    "nome": "Healing Rain",
+    "descrição": "Durante a chuva, este Pokémon pode usar sua ação para curar pontos de vida iguais ao seu nível."
+  },
+  {
+    "id": 72,
+    "nome": "Heatproof",
+    "descrição": "Este Pokémon recebe metade do dano que normalmente receberia de ataques de fogo e é imune à condição de queimado."
+  },
+  {
+    "id": 73,
+    "nome": "Heavy Metal",
+    "descrição": "Este Pokémon é especialmente pesado. Uma vez por descanso longo, após ser alvo de um ataque, ele pode aumentar sua CA em 2 se isso fizer com que um ataque erre."
+  },
+  {
+    "id": 74,
+    "nome": "Honey Gather",
+    "descrição": "No final de cada batalha, este Pokémon pode rolar um d20 + seu bônus de proficiência. Em um resultado de 20 ou mais, seu treinador adiciona uma Honey ao seu inventário."
+  },
+  {
+    "id": 75,
+    "nome": "Huge Power",
+    "descrição": "Uma vez por descanso curto, este Pokémon pode dobrar os dados de dano para uma única rolagem de dano. O jogador deve anunciar que está usando essa habilidade antes da rolagem de ataque."
+  },
+  {
+    "id": 76,
+    "nome": "Hustle",
+    "descrição": "Quando você obtém um acerto crítico, você pode imediatamente ganhar uma ação adicional em seu turno. Se esta ação for usada para fazer um ataque, você tem desvantagem na rolagem. Você só pode ter uma ação adicional por rodada."
+  },
+  {
+    "id": 77,
+    "nome": "Hydration",
+    "descrição": "Este Pokémon não é afetado por condições negativas em água ou durante condições de chuva."
+  },
+  {
+    "id": 78,
+    "nome": "Hydro Pump",
+    "descrição": "Este Pokémon conhece Hydro Pump como um quinto Move. O Move é esquecido se ele assumir qualquer outra forma."
+  },
+  {
+    "id": 79,
+    "nome": "Hyper Cutter",
+    "descrição": "Os bônus de ataque ou dano deste Pokémon não podem ser reduzidos pelos Moves do oponente."
+  },
+  {
+    "id": 80,
+    "nome": "Ice Body",
+    "descrição": "Enquanto estiver nevando ou granizando, este Pokémon se cura em uma quantidade de PV iguais ao seu modificador de proficiência no final de cada um de seus turnos."
+  },
+  {
+    "id": 81,
+    "nome": "Illuminate",
+    "descrição": "Este Pokémon conhece o truque Luz (LDJ) e pode lançá-lo à vontade."
+  },
+  {
+    "id": 82,
+    "nome": "Illusion",
+    "descrição": "Este Pokémon pode assumir a forma visual de qualquer Pokémon que ele possa ver. Ele pode fazer isso um número de vezes por descanso longo igual ao seu nível. Essa ilusão dura uma hora ou até o Pokémon ser atingido por um Move que cause dano."
+  },
+  {
+    "id": 83,
+    "nome": "Immunity",
+    "descrição": "Este Pokémon é imune a envenenamento."
+  },
+  {
+    "id": 84,
+    "nome": "Imposter",
+    "descrição": "Este Pokémon pode usar Transform como uma ação bônus."
+  },
+  {
+    "id": 85,
+    "nome": "Infiltrator",
+    "descrição": "Este Pokémon contorna Light Screen, Reflect, Substitute, Mist, Safeguard e Aurora Veil."
+  },
+  {
+    "id": 86,
+    "nome": "Innards Out",
+    "descrição": "Quando este Pokémon é derrotado por um Move que causa dano, qualquer criatura dentro de 5 pés (1,5 metros) dele sofre uma quantidade de dano sem tipo igual à quantidade de PV perdidos."
+  },
+  {
+    "id": 87,
+    "nome": "Inner Focus",
+    "descrição": "Este Pokémon é imune ao status Atordoado."
+  },
+  {
+    "id": 88,
+    "nome": "Insomnia",
+    "descrição": "Este Pokémon é imune ao status Dormindo."
+  },
+  {
+    "id": 89,
+    "nome": "Intimidate",
+    "descrição": "Uma vez por descanso curto, você pode impor desvantagem em uma rolagem de ataque inimiga de sua escolha."
+  },
+  {
+    "id": 90,
+    "nome": "Iron Barbs",
+    "descrição": "Quando este Pokémon é atingido por um ataque corpo a corpo, ele pode rolar um d4. Em um resultado de 4, cause uma quantidade de dano de aço igual ao seu modificador de proficiência ao seu atacante."
+  },
+  {
+    "id": 91,
+    "nome": "Iron Fist",
+    "descrição": "Ao atacar com um Move baseado em soco (Mega Punch, Dynamic Punch, Ice/Fire/Thunder Punch, etc.), este Pokémon pode rolar o dano duas vezes e escolher o valor. Também estão incluídos os Moves: Double Iron Bash, Hammer Arm, Ice Hammer, Meteor Mash, Plasma Fists e Sky Uppercut."
+  },
+  {
+    "id": 92,
+    "nome": "Justified",
+    "descrição": "Quando este Pokémon é atingido por um Move do tipo sombrio, ele ganha vantagem em seu próximo ataque."
+  },
+  {
+    "id": 93,
+    "nome": "Keen Eye",
+    "descrição": "Este Pokémon ignora desvantagens relacionadas à visão."
+  },
+  {
+    "id": 94,
+    "nome": "Klutz",
+    "descrição": "Este Pokémon não pode segurar um item."
+  },
+  {
+    "id": 95,
+    "nome": "Leaf Guard",
+    "descrição": "Este Pokémon não sofre de quaisquer condições negativas em luz solar intensa."
+  },
+  {
+    "id": 96,
+    "nome": "Leaf Storm",
+    "descrição": "Este Pokémon conhece Leaf Storm como um quinto Move. O Move é esquecido se ele assumir qualquer outra forma."
+  },
+  {
+    "id": 97,
+    "nome": "Levitate",
+    "descrição": "Este Pokémon é imune a Moves de terra."
+  },
+  {
+    "id": 98,
+    "nome": "Light Metal",
+    "descrição": "Este Pokémon é especialmente leve para sua espécie. Uma vez por descanso longo, ele pode impor desvantagem em uma rolagem de ataque contra ele."
+  },
+  {
+    "id": 99,
+    "nome": "Lightning Rod",
+    "descrição": "Se este Pokémon ou um aliado dentro de 30 pés (9 metros) for alvo de um Move elétrico direto que causa dano, o Pokémon pode usar uma reação para redirecionar o alvo para si mesmo e sofrer metade do dano se o ataque acertar."
+  },
+  {
+    "id": 100,
+    "nome": "Limber",
+    "descrição": "Este Pokémon é imune ao status Paralisado."
+  },
+  {
+    "id": 101,
+    "nome": "Liquid Ooze",
+    "descrição": "Caso seja atingido por um Move de leech or absorb, o inimigo deve fazer um teste de CON CD 12 ou ficará envenenado."
+  },
+  {
+    "id": 102,
+    "nome": "Liquid Voice",
+    "descrição": "Qualquer Move baseado em som ativado por este Pokémon é do tipo água."
+  },
+  {
+    "id": 103,
+    "nome": "Long Reach",
+    "descrição": "Este Pokémon tem mais 5 pés (1,5 metros) de alcance com todos os ataques corpo a corpo e Ataques de Oportunidade."
+  },
+  {
+    "id": 104,
+    "nome": "Magic Bounce",
+    "descrição": "Uma vez por descanso longo, ao sucumbir a um efeito de status negativo, este Pokémon pode refletir o efeito de volta ao atacante."
+  },
+  {
+    "id": 105,
+    "nome": "Magic Guard",
+    "descrição": "Se este Pokémon for alvo de um Move que o force a fazer um teste de resistência para receber apenas metade do dano, ele não sofre nenhum dano em caso de sucesso no teste."
+  },
+  {
+    "id": 106,
+    "nome": "Magician",
+    "descrição": "Se ainda não estiver segurando um item, este Pokémon rouba o item segurado de qualquer Pokémon atingido por um ataque corpo a corpo."
+  },
+  {
+    "id": 107,
+    "nome": "Magma Armor",
+    "descrição": "Este Pokémon é imune ao status Congelado."
+  },
+  {
+    "id": 108,
+    "nome": "Magnet Pull",
+    "descrição": "Oponentes de aço em batalha com este Pokémon não podem trocar ou fugir."
+  },
+  {
+    "id": 109,
+    "nome": "Marvel Scale",
+    "descrição": "A CA deste Pokémon aumenta em 2 ao sofrer de uma condição negativa."
+  },
+  {
+    "id": 110,
+    "nome": "Mega Launcher",
+    "descrição": "Moves de Aura e Pulse feitos por este Pokémon causam dano/cura adicional igual ao bônus de proficiência deste Pokémon."
+  },
+  {
+    "id": 111,
+    "nome": "Merciless",
+    "descrição": "Quando este Pokémon faz uma rolagem de ataque bem-sucedida contra um Pokémon envenenado, trate esse ataque como um acerto crítico."
+  },
+  {
+    "id": 112,
+    "nome": "Minus",
+    "descrição": "Este Pokémon aumenta suas rolagens de ataque e dano em 2 se um aliado também tiver a habilidade Plus ou Minus."
+  },
+  {
+    "id": 113,
+    "nome": "Misty Surge",
+    "descrição": "Se o Move for conhecido, este Pokémon pode usar o Move Misty Terrain como uma ação bônus."
+  },
+  {
+    "id": 114,
+    "nome": "Mold Breaker",
+    "descrição": "Os Moves deste Pokémon ignoram quaisquer habilidades que reduzam seu efeito ou a capacidade de atingir um oponente (devido a coisas como Water Absorb, Snow Cloak, Thick Fat, Sturdy, etc.)."
+  },
+  {
+    "id": 115,
+    "nome": "Moody",
+    "descrição": "No final de cada descanso longo, este Pokémon rola na tabela de naturezas, substituindo sua natureza pelo resultado até o próximo descanso longo."
+  },
+  {
+    "id": 116,
+    "nome": "Motor Drive",
+    "descrição": "Ao ser atingido por um Move elétrico, se não for imune, a velocidade deste Pokémon aumenta em 10 pés (3 metros) até o final do combate (até um máximo de 50 pés / 15 metros adicionais)."
+  },
+  {
+    "id": 117,
+    "nome": "Moxie",
+    "descrição": "Ao fazer um oponente desmaiar, este Pokémon pode imediatamente realizar outra ação."
+  },
+  {
+    "id": 118,
+    "nome": "Multiscale",
+    "descrição": "Se este Pokémon estiver com a saúde completa, o primeiro dano causado a ele é reduzido pela metade."
+  },
+  {
+    "id": 119,
+    "nome": "Multitype",
+    "descrição": "O tipo e forma deste Pokémon mudam para coincidir com o tipo da Arceus Plate que este Pokémon segura. A Placa não pode ser afetada por nenhuma habilidade ou Move que remova itens."
+  },
+  {
+    "id": 120,
+    "nome": "Mummy",
+    "descrição": "Quando este Pokémon é atingido por um ataque corpo a corpo, a habilidade passiva de seu atacante muda para Mummy pelo resto do encontro."
+  },
+  {
+    "id": 121,
+    "nome": "Natural Cure",
+    "descrição": "Este Pokémon é curado de condições negativas ao retornar para sua Pokébola."
+  },
+  {
+    "id": 122,
+    "nome": "Neuroforce",
+    "descrição": "Quando este Pokémon causa dano a uma criatura com um Move super efetivo, ele pode rolar os dados de dano duas vezes e usar o resultado mais alto."
+  },
+  {
+    "id": 123,
+    "nome": "No Guard",
+    "descrição": "Qualquer ataque feito por ou contra este Pokémon tem vantagem."
+  },
+  {
+    "id": 124,
+    "nome": "Normalize",
+    "descrição": "Todo Move ativado por este Pokémon é do tipo Normal."
+  },
+  {
+    "id": 125,
+    "nome": "Oblivious",
+    "descrição": "Este Pokémon é imune a Moves que tentam encantar ou provocá-lo."
+  },
+  {
+    "id": 126,
+    "nome": "Overcoat",
+    "descrição": "Este Pokémon não recebe dano de Moves relacionados ao clima ou fenômenos como Hail, Weather Ball, etc."
+  },
+  {
+    "id": 127,
+    "nome": "Overgrow",
+    "descrição": "Este Pokémon dobra seu bônus de STAB quando tem 25% ou menos de seus pontos de vida máximos."
+  },
+  {
+    "id": 128,
+    "nome": "Overheat",
+    "descrição": "Este Pokémon conhece o Move Overheat como um quinto Move. O Move é esquecido se ele assumir outra forma."
+  },
+  {
+    "id": 129,
+    "nome": "Own Tempo",
+    "descrição": "Este Pokémon é imune ao status Confuso."
+  },
+  {
+    "id": 130,
+    "nome": "Paper Thin",
+    "descrição": "Este Pokémon sempre tem um máximo de 1 PV. (Apenas Shedinja. Não pode ser passado ou trocado)"
+  },
+  {
+    "id": 131,
+    "nome": "Pickpocket",
+    "descrição": "Quando atingido por um ataque corpo a corpo, este Pokémon pode usar uma reação para tentar roubar o item segurado da criatura com um teste de Prestidigitação contestado pela Percepção Passiva do alvo. Após a primeira tentativa, todas as outras tentativas contra o mesmo oponente são realizadas com desvantagem."
+  },
+  {
+    "id": 132,
+    "nome": "Pickup",
+    "descrição": "Se um oponente usar um item consumível em batalha, este Pokémon ganha uma cópia dele se não estiver segurando um item atualmente."
+  },
+  {
+    "id": 133,
+    "nome": "Pixilate",
+    "descrição": "Todos os Moves de ataque do tipo Normal usados por este Pokémon se tornam do tipo Fada. Além disso, para estes Moves, role o dado de dano duas vezes e escolha o valor."
+  },
+  {
+    "id": 134,
+    "nome": "Plus",
+    "descrição": "Este Pokémon aumenta suas rolagens de ataque e dano em 2 se um aliado também tiver a habilidade Plus ou Minus."
+  },
+  {
+    "id": 135,
+    "nome": "Poison Heal",
+    "descrição": "Este Pokémon não sofre os efeitos de desvantagem da condição envenenado. Além disso, este Pokémon recupera metade de todo o dano venenoso que receberia, incluindo o dano no final de cada um de seus turnos."
+  },
+  {
+    "id": 136,
+    "nome": "Poison Point",
+    "descrição": "Quando este Pokémon é atingido por um ataque corpo a corpo, role um d4. Em um resultado de 4, o atacante recebe uma quantidade de dano por veneno igual ao modificador de proficiência deste Pokémon."
+  },
+  {
+    "id": 137,
+    "nome": "Poison Touch",
+    "descrição": "Em ataques corpo a corpo feitos por este Pokémon, role um d10 em um acerto. Em um resultado de 10, o alvo é envenenado."
+  },
+  {
+    "id": 138,
+    "nome": "Power of Alchemy",
+    "descrição": "Quando entra na batalha após um aliado desmaiar, este Pokémon copia a habilidade passiva não oculta do aliado desmaiado até ser retirado da batalha."
+  },
+  {
+    "id": 139,
+    "nome": "Prankster",
+    "descrição": "Uma vez por descanso curto, este Pokémon pode se mover para o topo da ordem de iniciativa em uma rodada, mas deve usar um Move que afete status em seu turno."
+  },
+  {
+    "id": 140,
+    "nome": "Pressure",
+    "descrição": "Qualquer Move que mira diretamente este Pokémon (Moves que não sejam de área de efeito) reduz seu PP em dois quando ativado."
+  },
+  {
+    "id": 141,
+    "nome": "Prism Armor",
+    "descrição": "Quando este Pokémon sofre dano em sua lista de vulnerabilidades, role os dados de dano duas vezes e use o resultado mais baixo para o cálculo do dano."
+  },
+  {
+    "id": 142,
+    "nome": "Protean",
+    "descrição": "O tipo deste Pokémon muda para o tipo do Move que ele usa, logo antes do uso do Move. Ele assume as resistências, vulnerabilidades e imunidades do novo tipo."
+  },
+  {
+    "id": 143,
+    "nome": "Psychic Surge",
+    "descrição": "Se o Move for conhecido, este Pokémon pode usar o Move Psychic Terrain como uma ação bônus."
+  },
+  {
+    "id": 144,
+    "nome": "Pure Power",
+    "descrição": "Uma vez por descanso curto, este Pokémon pode dobrar os dados de dano para uma única rolagem de dano. O jogador deve anunciar que está usando esta habilidade antes da rolagem de ataque."
+  },
+  {
+    "id": 145,
+    "nome": "Queenly Majesty",
+    "descrição": "Criaturas dentro do campo de visão deste Pokémon não podem usar ações bônus para ativar Moves. Moves que normalmente teriam um Tempo de Execução de \"1 ação bônus\" têm um Tempo de Execução de \"1 ação\"."
+  },
+  {
+    "id": 146,
+    "nome": "Quick Feet",
+    "descrição": "Quando sofrendo de uma condição negativa, a velocidade deste Pokémon aumenta em 15 pés (4,5 metros)."
+  },
+  {
+    "id": 147,
+    "nome": "Rain Dish",
+    "descrição": "Em condições de chuva, este Pokémon se cura em uma quantidade de PV igual ao seu bônus de proficiência no final de cada um de seus turnos."
+  },
+  {
+    "id": 148,
+    "nome": "Rattled",
+    "descrição": "Quando este Pokémon é atingido por um Move de dano do tipo Sombrio, Inseto ou Fantasma, ele faz seu próximo ataque com vantagem."
+  },
+  {
+    "id": 149,
+    "nome": "Receiver",
+    "descrição": "Quando entra na batalha após um aliado desmaiar, este Pokémon copia a habilidade passiva não oculta do aliado desmaiado até ser retirado da batalha."
+  },
+  {
+    "id": 150,
+    "nome": "Reckless",
+    "descrição": "Ao atacar com Moves que causam dano de recuo, este Pokémon dobra seu bônus de STAB."
+  },
+  {
+    "id": 151,
+    "nome": "Refrigerate",
+    "descrição": "Todos os Moves de ataque do tipo Normal usados por este Pokémon se tornam do tipo Gelo. Além disso, para estes Moves, role o dado de dano duas vezes e escolha o valor."
+  },
+  {
+    "id": 152,
+    "nome": "Regenerator",
+    "descrição": "Uma vez por descanso longo, este Pokémon recupera pontos de vida iguais ao seu nível quando retorna à sua Pokébola."
+  },
+  {
+    "id": 153,
+    "nome": "Rivalry",
+    "descrição": "Este Pokémon adiciona seu bônus de proficiência ao dano ao atacar um Pokémon do mesmo tipo."
+  },
+  {
+    "id": 154,
+    "nome": "RKS System",
+    "descrição": "O tipo deste Pokémon é determinado pelo Memory Disc que ele segura. Se não estiver segurando um Memory Disc, o tipo deste Pokémon é Normal."
+  },
+  {
+    "id": 155,
+    "nome": "Rock Head",
+    "descrição": "Este Pokémon não sofre dano de recuo."
+  },
+  {
+    "id": 156,
+    "nome": "Rough Skin",
+    "descrição": "Quando este Pokémon é atingido por um ataque corpo a corpo, ele pode rolar um d4. Em um resultado de 4, causa uma quantidade de dano sem tipo igual ao seu modificador de proficiência ao seu atacante."
+  },
+  {
+    "id": 157,
+    "nome": "Run Away",
+    "descrição": "Este Pokémon não pode ser alvo de um ataque de oportunidade."
+  },
+  {
+    "id": 158,
+    "nome": "Sand Force",
+    "descrição": "Durante uma Tempestade de Areia, este Pokémon pode dobrar seu STAB ao atingir um oponente."
+  },
+  {
+    "id": 159,
+    "nome": "Sand Rush",
+    "descrição": "Este Pokémon é imune ao dano da Tempestade de Areia, e sua velocidade é dobrada em terrenos desertos ou durante uma Tempestade de Areia."
+  },
+  {
+    "id": 160,
+    "nome": "Sand Stream",
+    "descrição": "Quando este Pokémon entra em uma batalha ao ar livre, o clima muda imediatamente para uma Tempestade de Areia por 5 rodadas. No caso de outro Pokémon com uma habilidade climática semelhante, o desempate vai para o Pokémon com a pontuação de DES mais alta."
+  },
+  {
+    "id": 161,
+    "nome": "Sand Veil",
+    "descrição": "Este Pokémon é imune ao dano da Tempestade de Areia. Além disso, sua CA aumenta em 2 em terrenos desertos, ou durante uma Tempestade de Areia."
+  },
+  {
+    "id": 162,
+    "nome": "Sap Sipper",
+    "descrição": "Este Pokémon não recebe dano de ataques do tipo Grama. Se atingido por um Move do tipo Grama, não recebe dano e, em vez disso, absorve a energia, concedendo vantagem em seu próximo ataque."
+  },
+  {
+    "id": 163,
+    "nome": "Schooling",
+    "descrição": "A partir do nível 5, este Pokémon pode mudar para a School Form como uma ação livre quando começar seu turno acima de 25% de seus pontos de vida máximos. Na School Form, o Pokémon adiciona 5 à sua CA e aos seus atributos de Força, Destreza e Constituição (CON adicional não altera os PV deste Pokémon nesta forma). O Pokémon volta à Solo Form quando cai abaixo de 25% dos pontos de vida máximos e deve completar um descanso curto antes de ativar esta habilidade novamente."
+  },
+  {
+    "id": 164,
+    "nome": "Scrappy",
+    "descrição": "Os Moves de tipo Normal e Lutador deste Pokémon atingem Pokémon de tipo Fantasma."
+  },
+  {
+    "id": 165,
+    "nome": "Serene Grace",
+    "descrição": "A CD do Move para passar em um teste de resistência contra um dos Moves deste Pokémon é aumentado em 1."
+  },
+  {
+    "id": 166,
+    "nome": "Shadow Shield",
+    "descrição": "Se este Pokémon estiver com PV completos, o primeiro dano causado a ele é reduzido pela metade."
+  },
+  {
+    "id": 167,
+    "nome": "Shadow Tag",
+    "descrição": "Criaturas dentro de 50 pés (15 metros) deste Pokémon não podem fugir ou serem trocadas, exceto por item, Move ou habilidade."
+  },
+  {
+    "id": 168,
+    "nome": "Shed Skin",
+    "descrição": "Se este Pokémon estiver afetado por uma condição negativa, ele pode rolar um d4 no final de cada um de seus turnos. Em um resultado de 4, ele é curado."
+  },
+  {
+    "id": 169,
+    "nome": "Sheer Force",
+    "descrição": "Ao ativar um Move que tem chance de impor uma mudança de status ou infligir uma condição, esta criatura em vez disso dobra seu modificador de MOVE para o dano, sem chance de causar o efeito adicional."
+  },
+  {
+    "id": 170,
+    "nome": "Shell Armor",
+    "descrição": "Este Pokémon é imune a danos extras causados por um Acerto Crítico."
+  },
+  {
+    "id": 171,
+    "nome": "Shield Dust",
+    "descrição": "Uma vez por descanso longo, este Pokémon pode ignorar uma condição negativa resultante de um Move inimigo."
+  },
+  {
+    "id": 172,
+    "nome": "Shields Down",
+    "descrição": "Este Pokémon é imune a efeitos de status não voláteis enquanto estiver na Forma Meteoro. Quando este Pokémon cai abaixo de 50% de seus pontos de vida máximos, sua casca externa quebra e ele muda para a Forma Núcleo. Na Forma Núcleo, ele adiciona 6 pontos à sua DES, mas reduz sua CA em 4. O Pokémon deve completar um descanso curto para se restaurar à Forma Meteoro."
+  },
+  {
+    "id": 173,
+    "nome": "Simple",
+    "descrição": "Uma vez por descanso curto, você pode dobrar o modificador de MOVE deste Pokémon para um único ataque ou rolagem de dano."
+  },
+  {
+    "id": 174,
+    "nome": "Skill Link",
+    "descrição": "Moves em combo que têm a capacidade de atingir mais de uma vez, após a mesma rolagem de ataque, é garantido acertar pelo menos mais duas vezes. (Fury Swipes, Double Slap, Water Shuriken, etc.)."
+  },
+  {
+    "id": 175,
+    "nome": "Slow Start",
+    "descrição": "A velocidade deste Pokémon é reduzida pela metade e seus ataques são feitos com desvantagem durante as duas primeiras rodadas de cada combate."
+  },
+  {
+    "id": 176,
+    "nome": "Slush Rush",
+    "descrição": "Este Pokémon é imune ao dano de Hail, e sua velocidade é dobrada em condições árticas, ou durante uma tempestade de granizo."
+  },
+  {
+    "id": 177,
+    "nome": "Sniper",
+    "descrição": "Em um acerto crítico feito por este Pokémon, triplique a rolagem de dados em vez de dobrá-la."
+  },
+  {
+    "id": 178,
+    "nome": "Snow Cloak",
+    "descrição": "Este Pokémon é imune ao dano de Hail. Sua CA é aumentada em 2 em condições árticas, ou quando está nevando ou granizando."
+  },
+  {
+    "id": 179,
+    "nome": "Snow Warning",
+    "descrição": "Quando este Pokémon entra em uma batalha externa, o clima muda imediatamente para granizo por 5 rodadas. No caso de outro Pokémon com uma habilidade climática semelhante, o desempate vai para o Pokémon com a pontuação de DES mais alta."
+  },
+  {
+    "id": 180,
+    "nome": "Solar Power",
+    "descrição": "As rolagens de dano para este Pokémon recebem um adicional de +2 durante a luz solar intensa."
+  },
+  {
+    "id": 181,
+    "nome": "Solid Rock",
+    "descrição": "Este Pokémon não sofre nenhum dano adicional de um acerto crítico."
+  },
+  {
+    "id": 182,
+    "nome": "Soul-Heart",
+    "descrição": "Ao ver um aliado desmaiar, este Pokémon aumenta os valores dos atributos de suas proficiências em testes de resistência em 2 até o final do combate. Isso é acumulável até um máximo de +10 para qualquer valor de atributo."
+  },
+  {
+    "id": 183,
+    "nome": "Soundproof",
+    "descrição": "Este Pokémon é imune a Moves baseados em som."
+  },
+  {
+    "id": 184,
+    "nome": "Speed Boost",
+    "descrição": "A velocidade deste Pokémon é aumentada em 5 pés (1,5 metros) ao final de cada turno em combate, até o máximo de 30 pés (9 metros)."
+  },
+  {
+    "id": 185,
+    "nome": "Stakeout",
+    "descrição": "Quando um oponente é trocado na batalha, este Pokémon dobra o dano causado se ele atingir o substituto no primeiro turno imediatamente após a troca."
+  },
+  {
+    "id": 186,
+    "nome": "Stall",
+    "descrição": "Este Pokémon é sempre o último na ordem de iniciativa."
+  },
+  {
+    "id": 187,
+    "nome": "Stamina",
+    "descrição": "Quando este Pokémon recebe dano por um Move, aumente sua CA em 2 por uma rodada após o dano. Esta habilidade não se acumula e permanecerá em efeito se o Pokémon for atacado com sucesso em múltiplos turnos seguidos."
+  },
+  {
+    "id": 188,
+    "nome": "Stance Change",
+    "descrição": "Aegislash tem duas formas. Quando Aegislash usa King's Shield, ele muda para a Forma Escudo, trocando suas estatísticas de CA e DES. Quando ele usa um Move de dano, Aegislash imediatamente volta para a Forma Lâmina, retornando suas estatísticas ao normal."
+  },
+  {
+    "id": 189,
+    "nome": "Static",
+    "descrição": "Quando este Pokémon é atingido por um ataque corpo a corpo, role um d4. Em um resultado de 4, o atacante sofre uma quantidade de dano elétrico igual ao bônus de proficiência deste Pokémon."
+  },
+  {
+    "id": 190,
+    "nome": "Steadfast",
+    "descrição": "Uma vez por descanso longo, quando este Pokémon falha em um teste de resistência contra uma condição de status negativa, ele pode escolher passar em vez disso."
+  },
+  {
+    "id": 191,
+    "nome": "Steelworker",
+    "descrição": "Este Pokémon adiciona seu bônus de proficiência ao dano causado por Moves do tipo Aço."
+  },
+  {
+    "id": 192,
+    "nome": "Stench",
+    "descrição": "Quando este Pokémon é atingido por um ataque corpo a corpo, role um d10. Em um resultado de 10, o atacante fica atordoado."
+  },
+  {
+    "id": 193,
+    "nome": "Sticky Hold",
+    "descrição": "Itens segurados não podem ser roubados ou removidos deste Pokémon."
+  },
+  {
+    "id": 194,
+    "nome": "Stone Veil",
+    "descrição": "A CA deste Pokémon é aumentada em 2 em terrenos rochosos, ou durante uma tempestade de areia."
+  },
+  {
+    "id": 195,
+    "nome": "Storm Drain",
+    "descrição": "Se este Pokémon ou um aliado dentro de 30 pés (9 metros) for alvo de um Move direto do tipo água que cause dano, o Pokémon pode usar uma reação para redirecionar o alvo para si mesmo e receber metade do dano dele se atingir."
+  },
+  {
+    "id": 196,
+    "nome": "Strong Jaw",
+    "descrição": "Quando este Pokémon usa Bite, Crunch, Fire Fang, Hyper Fang, Ice Fang, Poison Fang, Psychic Fangs ou Thunder Fang, ele pode rolar os dados de dano duas vezes e escolher o resultado mais alto."
+  },
+  {
+    "id": 197,
+    "nome": "Sturdy",
+    "descrição": "Quando receber dano igual à metade ou mais de seus pontos de vida atuais, role um d4. Em um resultado de 3 ou 4, reduza pela metade o dano recebido."
+  },
+  {
+    "id": 198,
+    "nome": "Suction Cups",
+    "descrição": "Este Pokémon não pode ser forçado a sair da batalha por Moves de um oponente."
+  },
+  {
+    "id": 199,
+    "nome": "Super Luck",
+    "descrição": "Este Pokémon aumenta sua margem de acerto crítico em 1 (de 20 para 19+, etc.)."
+  },
+  {
+    "id": 200,
+    "nome": "Surge Surfer",
+    "descrição": "Quando este Pokémon começa seu turno na área de efeito do Electric Terrain, sua velocidade é dobrada."
+  },
+  {
+    "id": 201,
+    "nome": "Swarm",
+    "descrição": "Este Pokémon dobra seu bônus de STAB quando tem 25% ou menos de seus pontos de vida máximos."
+  },
+  {
+    "id": 202,
+    "nome": "Sweet Veil",
+    "descrição": "Qualquer aliado dentro de 15 pés (4,5 metros) deste Pokémon (incluindo ele próprio) é imune à condição de sono."
+  },
+  {
+    "id": 203,
+    "nome": "Swift Swim",
+    "descrição": "A velocidade deste Pokémon é dobrada em condições chuvosas."
+  },
+  {
+    "id": 204,
+    "nome": "Symbiosis",
+    "descrição": "Este Pokémon pode trocar itens segurados com um aliado como uma ação livre, desde que estejam dentro de 15 pés (4,5 metros) um do outro."
+  },
+  {
+    "id": 205,
+    "nome": "Synchronize",
+    "descrição": "Se este Pokémon ficar queimado, paralisado ou envenenado, seu atacante receberá a condição negativa também (se não for imune)."
+  },
+  {
+    "id": 206,
+    "nome": "Tangled Feet",
+    "descrição": "Ataques contra este Pokémon têm desvantagem quando ele está confuso."
+  },
+  {
+    "id": 207,
+    "nome": "Tangling Hair",
+    "descrição": "Quando este Pokémon é atingido por um ataque corpo a corpo, role 1d4. Em um resultado de 3 ou 4, a velocidade do atacante é reduzida a 0 até o final do próximo turno dele."
+  },
+  {
+    "id": 208,
+    "nome": "Technician",
+    "descrição": "Para Moves de dano ativados por este Pokémon com 15 PP máximos ou mais, eles podem rolar o dano duas vezes e escolher o valor desejado."
+  },
+  {
+    "id": 209,
+    "nome": "Telepathy",
+    "descrição": "Este Pokémon não pode receber dano pelos ataques de seus aliados."
+  },
+  {
+    "id": 210,
+    "nome": "Teravolt",
+    "descrição": "Os Moves deste Pokémon ignoram completamente qualquer habilidade que prejudicaria ou impediria seu efeito no alvo ou a capacidade do usuário de atingir o alvo."
+  },
+  {
+    "id": 211,
+    "nome": "Thick Fat",
+    "descrição": "Este Pokémon recebe apenas metade do dano de Moves de tipo Fogo e Gelo."
+  },
+  {
+    "id": 212,
+    "nome": "Tinted Lens",
+    "descrição": "Os Moves deste Pokémon ignoram resistências."
+  },
+  {
+    "id": 213,
+    "nome": "Torrent",
+    "descrição": "Este Pokémon dobra seu bônus de STAB quando tem 25% ou menos de seus pontos de vida máximos."
+  },
+  {
+    "id": 214,
+    "nome": "Tough Claws",
+    "descrição": "Este Pokémon pode adicionar seu bônus de proficiência ao dano de todos os Moves de ataque corpo a corpo."
+  },
+  {
+    "id": 215,
+    "nome": "Toxic Boost",
+    "descrição": "Quando este Pokémon é atingido por um ataque do tipo veneno, seu próximo ataque é rolado com vantagem."
+  },
+  {
+    "id": 216,
+    "nome": "Trace",
+    "descrição": "Este Pokémon copia uma habilidade aleatória de um oponente ao entrar na batalha. A habilidade não pode ser Flower Gift, Forecast, Illusion, Imposter, Multitype, Trace, Wonder Guard ou Zen Mode."
+  },
+  {
+    "id": 217,
+    "nome": "Transformer",
+    "descrição": "Este Pokémon tem uma forma normal padrão da qual todos os atributos são baseados, mas pode mudar de forma como uma ação bônus para mudar drasticamente suas habilidades. As formas que ele pode assumir são Ataque, Defesa e Velocidade. • Na forma de Ataque, adiciona +5 em suas rolagens de ataque, mas todos os ataques contra ele têm vantagem. • Na forma de Defesa, sua CA aumenta em 3, mas seus ataques são rolados com desvantagem. Se o Move ativado exigir um teste de resistência, os alvos têm vantagem. • Na forma de Velocidade, ele ganha uma ação adicional de ataque a cada turno, mas o ataque é feito com desvantagem. Se for um Move que requer um teste de resistência, os alvos têm vantagem."
+  },
+  {
+    "id": 218,
+    "nome": "Triage",
+    "descrição": "Os Moves de cura ou drenagem deste Pokémon têm um tempo de execução de 1 ação bônus."
+  },
+  {
+    "id": 219,
+    "nome": "Truant",
+    "descrição": "Este Pokémon não pode usar o mesmo Move em rodadas consecutivas."
+  },
+  {
+    "id": 220,
+    "nome": "Turboblaze",
+    "descrição": "Os Moves deste Pokémon ignoram completamente qualquer habilidade que possa atrapalhar ou impedir seu efeito no alvo ou a capacidade do usuário de atingir o alvo."
+  },
+  {
+    "id": 221,
+    "nome": "Unaware",
+    "descrição": "Quando este Pokémon ataca um oponente, ele ignora quaisquer aumentos de estatísticas que o oponente tenha recebido após o início da batalha. Isso inclui aumentos na CA ou em testes de resistência que o Pokémon tenha que fazer."
+  },
+  {
+    "id": 222,
+    "nome": "Unburden",
+    "descrição": "Enquanto este Pokémon não estiver segurando um item, ele ganha 10 pés (3 metros) extras em sua velocidade."
+  },
+  {
+    "id": 223,
+    "nome": "Unnerve",
+    "descrição": "Oponentes em combate com este Pokémon não podem comer berries seguradas."
+  },
+  {
+    "id": 224,
+    "nome": "Victory Star",
+    "descrição": "Enquanto este Pokémon estiver em batalha, todos os Pokémon aliados adicionam um adicional +1 em suas rolagens de ataque."
+  },
+  {
+    "id": 225,
+    "nome": "Vital Spirit",
+    "descrição": "Este Pokémon não pode ser colocado para dormir."
+  },
+  {
+    "id": 226,
+    "nome": "Volt Absorb",
+    "descrição": "Este Pokémon não recebe danos de eletricidade ou ataques do tipo elétrico. Em vez disso, metade de qualquer dano elétrico causado é absorvido, restaurando os pontos de vida do Pokémon."
+  },
+  {
+    "id": 227,
+    "nome": "Water Absorb",
+    "descrição": "Este Pokémon não recebe danos de água ou ataques do tipo água. Em vez disso, metade de qualquer dano de água causado é absorvido, restaurando os pontos de vida do Pokémon."
+  },
+  {
+    "id": 228,
+    "nome": "Water Bubble",
+    "descrição": "Este Pokémon é resistente a danos do tipo fogo e imune à condição de queimado."
+  },
+  {
+    "id": 229,
+    "nome": "Water Compaction",
+    "descrição": "Após receber dano por um Move do tipo água, qualquer outro dano causado a este Pokémon até o início de seu próximo turno é reduzido pela metade."
+  },
+  {
+    "id": 230,
+    "nome": "Water Veil",
+    "descrição": "Este Pokémon é imune ao status Queimado."
+  },
+  {
+    "id": 231,
+    "nome": "Weak Armor",
+    "descrição": "Quando um ataque atinge este Pokémon, sua velocidade aumenta em 5 pés (1,5 metros), mas sua CA é temporariamente reduzida em 1 até o final da batalha (com uma redução máxima de -5)."
+  },
+  {
+    "id": 232,
+    "nome": "White Smoke",
+    "descrição": "Os Moves ou habilidades de outros Pokémon não podem diminuir as estatísticas deste Pokémon."
+  },
+  {
+    "id": 233,
+    "nome": "Wimp Out",
+    "descrição": "Quando um Move de dano faz com que este Pokémon caia abaixo de 50% de seus pontos de vida máximos, ele DEVE desengajar e mover-se até sua velocidade em linha reta em direção ao seu treinador como uma ação livre. Se isso colocaria o Pokémon dentro do alcance de troca, ele deve fazê-lo como outra ação livre se outro Pokémon estiver disponível para substituí-lo."
+  },
+  {
+    "id": 234,
+    "nome": "Wonder Guard",
+    "descrição": "Este Pokémon é imune a ataques de dano de tipos que não estão em sua lista de vulnerabilidades. (Apenas Shedinja. Não pode ser transferido ou trocado)"
+  },
+  {
+    "id": 235,
+    "nome": "Wonder Skin",
+    "descrição": "Este Pokémon tem vantagem em todos os testes de resistência contra queimadura, congelamento, envenenamento ou paralisia."
+  },
+  {
+    "id": 236,
+    "nome": "Zen Mode",
+    "descrição": "Quando Darmanitan está abaixo de 50% de seus PV, ele entra no Modo Zen. No Modo Zen, Darmanitan se transforma na forma de uma estátua sólida. Seu tipo muda para Fogo/Psíquico, ele ganha +4 em sua CA, e seus atributos de Força e Sabedoria são trocados."
+  }
+]
