@@ -1,0 +1,23 @@
+.mascoteTitulo {
+    display: flex;
+    align-items: center;
+}
+.mascoteTitulo img{
+    width: 140px;
+    image-rendering: pixelated;
+}
+
+.home h2{
+    border: solid 1px;
+    padding: 10px;
+    border-radius: 15px;
+} 
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+a h2:active{
+    background-color: green;
+}

@@ -1,10 +1,11 @@
+import React from "react";
 import { useState, useEffect } from "react"
 import { Link } from "react-router-dom"
 import { NumberInput } from "../NumberInput"
 import "./barraLateral.css"
 
 const BarraLateral = ({ onFontSize, onResult }) => {
-    const [size, setSize] = useState(10)
+    const [size, setSize] = useState(15)
     const [result, setResult] = useState(20)
     const [recolher, setRecolher] = useState(false)
 
@@ -26,23 +27,28 @@ const BarraLateral = ({ onFontSize, onResult }) => {
     }
 
     return (
-        <nav id="barraLateral">
+        <nav className="barraLateral" id={recolher == true ? "expanted" : ""}>
             <div id="icon" onClick={changeRecolher}>
                 <div className="bar" />
                 <div className="bar" />
                 <div className="bar" />
             </div>
-            {recolher == true ? <div>
-                <h1 id='barraLateralTitulo'>config</h1>
+            {recolher == true ? <div className="barraMenu" style={{ height: `100%` }}>
+                <h1 id='barraLateralTitulo'>Config</h1>
                 <NumberInput onValue={FontCallback} textI={'Tamanho da fonte (pixels)'} />
-                <p/>
+                <p />
                 <NumberInput onValue={ResultCallback} textI={'Numero de Moves (20)'} posicao={30} />
-                <p>Pagina inicial/Moves</p>
-                <Link to={`/`}>moves</Link>
-                <p>Habilidades</p>
-                <Link to={`/Habilidades`}>Habilidades</Link>
+                <Link to={`/`}>
+                    <h2>Home Page</h2>
+                </Link>
+                <Link to={`/Moves`}>
+                    <h2>Moves</h2>
+                </Link>
+                <Link to={`/Habilidades`}>
+                    <h2>Habilidades</h2>
+                </Link>
             </div> : ''}
-            
+
 
 
         </nav>

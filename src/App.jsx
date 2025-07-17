@@ -1,5 +1,5 @@
 import './App.css'
-import { AppRouted } from './components/routes/routes' 
+import { AppRouted } from './components/Routes' 
 
 function App() {
   

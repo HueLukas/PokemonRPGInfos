@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 import "./fremePequeno.css"
 
 const Freme = (props) => {
@@ -10,4 +10,4 @@ const Freme = (props) => {
     )
 }
 
-export default Freme
+export { Freme } 

@@ -1,11 +1,12 @@
+import React from "react";
 import { useState, useEffect } from 'react'
-import './moves.css'
-import Move from '../../move'
-import dados from "../../../dados"
 import { BarraLateral } from '../../BarraLateral'
+import { Move } from '../../Move'
+import dados from "../../../dados/baseMoves"
+import './moves.css'
 
 function PageMoves() {
-  const [fontSize, setFontSize] = useState(10);
+  const [fontSize, setFontSize] = useState(15);
   const [search, setSearch] = useState('')
   const [filter, setFilter] = useState([])
   const [quantMoves, setQuantMoves] = useState(20)

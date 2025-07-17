@@ -1,10 +1,11 @@
+import React from "react";
 import { useState, useEffect } from "react"
-import dados from "../../../dados/Habilidades"
 import { BarraLateral } from "../../BarraLateral";
+import dados from "../../../dados/baseHabilidades"
 import "./Habilidades.css"
 
 const Habilidades = () => {
-    const [fontSize, setFontSize] = useState(10);
+    const [fontSize, setFontSize] = useState(15);
     const [search, setSearch] = useState('')
     const [filter, setFilter] = useState([])
     const [quantHabili, setQuantHabili] = useState(20)

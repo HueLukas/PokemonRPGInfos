@@ -1,7 +1,7 @@
-import "./move.css"
 import React from "react";
-import Freme from "../fremePequeno";
-import dados from "../../dados"
+import { Freme } from "../FremePequeno";
+import dados from "../../dados/baseMoves"
+import "./move.css"
 
 const Move = (props) => {
     const move = dados[props.id]
@@ -24,4 +24,4 @@ const Move = (props) => {
     )
 }
 
-export default Move
+export { Move }
