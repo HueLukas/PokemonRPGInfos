@@ -5,7 +5,7 @@ import { Habilidades } from "../pages/Habilidades";
 
 const AppRouted = () => {
     return(
-        <BrowserRouter>
+        <BrowserRouter basename="/PokemonRPGInfos">
             <Routes>
                 <Route exact path="/" element={<HomePage/>}/>
                 <Route exact path="/Moves" element={<PageMoves/>}/>
