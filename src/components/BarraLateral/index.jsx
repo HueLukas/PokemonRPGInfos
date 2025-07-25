@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 import { NumberInput } from "../NumberInput"
 import "./barraLateral.css"
 
-const BarraLateral = ({ onFontSize, onResult }) => {
+const BarraLateral = ({ onFontSize, onResult = () => {}}) => {
     const [size, setSize] = useState(15)
     const [result, setResult] = useState(20)
     const [recolher, setRecolher] = useState(false)
@@ -46,6 +46,9 @@ const BarraLateral = ({ onFontSize, onResult }) => {
                 </Link>
                 <Link to={`/Habilidades`}>
                     <h2>Habilidades</h2>
+                </Link>
+                <Link to={`/Natures`}>
+                    <h2>Naturesas</h2>
                 </Link>
             </div> : ''}
 

@@ -1,0 +1,182 @@
+[
+    {
+        "id": 0,
+        "name": "Reckless",
+        "nome": "Rebelde*Imprudente",
+        "bonus": "Força",
+        "bonusValor": 2,
+        "onus": "Destreza",
+        "onusValor": 2
+    },
+    {
+        "id": 1,
+        "name": "Rash",
+        "nome": "Impulsivo",
+        "bonus": "Força",
+        "bonusValor": 2,
+        "onus": "Constituição",
+        "onusValor": 2
+    },
+    {
+        "id": 2,
+        "name": "Brave",
+        "nome": "Corajoso",
+        "bonus": "Força",
+        "bonusValor": 2,
+        "onus": "Sabedoria",
+        "onusValor": 2
+    },
+    {
+        "id": 3,
+        "name": "Arrogant",
+        "nome": "Arrogante",
+        "bonus": "Força",
+        "bonusValor": 2,
+        "onus": "Carisma",
+        "onusValor": 2
+    },
+    {
+        "id": 4,
+        "name": "Skittish",
+        "nome": "Arisco",
+        "bonus": "Destreza",
+        "bonusValor": 2,
+        "onus": "Força",
+        "onusValor": 2
+    },
+    {
+        "id": 5,
+        "name": "Hasty",
+        "nome": "Apressado",
+        "bonus": "Destreza",
+        "bonusValor": 2,
+        "onus": "Constituição",
+        "onusValor": 2
+    },
+    {
+        "id": 6,
+        "name": "Energetic",
+        "nome": "Energético",
+        "bonus": "Destreza",
+        "bonusValor": 2,
+        "onus": "Carisma",
+        "onusValor": 2
+    },
+    {
+        "id": 7,
+        "name": "Clumsy",
+        "nome": "Desajeitado",
+        "bonus": "Destreza",
+        "bonusValor": 2,
+        "onus": "Sabedoria",
+        "onusValor": 2
+    },
+    {
+        "id": 8,
+        "name": "Apathetic",
+        "nome": "Apático",
+        "bonus": "Constituição",
+        "bonusValor": 2,
+        "onus": "Destreza",
+        "onusValor": 2
+    },
+    {
+        "id": 9,
+        "name": "Stubborn",
+        "nome": "Teimoso",
+        "bonus": "Constituição",
+        "bonusValor": 2,
+        "onus": "Sabedoria",
+        "onusValor": 2
+    },
+    {
+        "id": 10,
+        "name": "Grumpy",
+        "nome": "Ranzinza",
+        "bonus": "Constituição",
+        "bonusValor": 2,
+        "onus": "Carisma",
+        "onusValor": 2
+    },
+    {
+        "id": 11,
+        "name": "Relaxed",
+        "nome": "Relaxado",
+        "bonus": "Constituição",
+        "bonusValor": 2,
+        "onus": "Força",
+        "onusValor": 2
+    },
+    {
+        "id": 12,
+        "name": "Careful",
+        "nome": "Cuidadoso",
+        "bonus": "Sabedoria",
+        "bonusValor": 2,
+        "onus": "Força",
+        "onusValor": 2
+    },
+    {
+        "id": 13,
+        "name": "Curious",
+        "nome": "Curioso",
+        "bonus": "Sabedoria",
+        "bonusValor": 2,
+        "onus": "Constituição",
+        "onusValor": 2
+    },
+    {
+        "id": 14,
+        "name": "Naughty",
+        "nome": "Travesso",
+        "bonus": "Sabedoria",
+        "bonusValor": 2,
+        "onus": "Carisma",
+        "onusValor": 2
+    },
+    {
+        "id": 15,
+        "name": "Cheerful",
+        "nome": "Alegre",
+        "bonus": "Carisma",
+        "bonusValor": 2,
+        "onus": "Força",
+        "onusValor": 2
+    },
+    {
+        "id": 16,
+        "name": "Sassy",
+        "nome": "Atrevido",
+        "bonus": "Carisma",
+        "bonusValor": 2,
+        "onus": "Destreza",
+        "onusValor": 2
+    },
+    {
+        "id": 17,
+        "name": "Innocent",
+        "nome": "Inocente",
+        "bonus": "Carisma",
+        "bonusValor": 2,
+        "onus": "Sabedoria",
+        "onusValor": 2
+    },
+    {
+        "id": 18,
+        "name": "Hardy",
+        "nome": "Resistente*Resiliente",
+        "bonus": "CA",
+        "bonusValor": 1,
+        "onus": "Destreza",
+        "onusValor": 2
+    },
+    {
+        "id": 19,
+        "name": "Nimble",
+        "nome": "Esperto*Ligeiro*Ágil",
+        "bonus": "CA",
+        "bonusValor": 1,
+        "onus": "Força",
+        "onusValor": 2
+    }
+]

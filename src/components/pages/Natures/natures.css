@@ -1,0 +1,18 @@
+.ativo{
+    background-color: green;
+}
+
+.naturesListe {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(20, auto);
+    width: 90vw;
+    font-size: 10px;
+    height: 100%;
+}
+
+
+.naturesItem {
+    display: grid;
+    grid-template-columns: 15% repeat(5, 15%) ;
+}

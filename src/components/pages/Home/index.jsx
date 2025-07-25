@@ -10,12 +10,15 @@ const HomePage = () => {
                 <img src={mascote} alt="Icone do Mascote Rotom"></img>
                 <h1>PokeInfoRPG</h1>
             </div>
-            
+
             <Link to={`/Moves`}>
                 <h2>Moves</h2>
             </Link>
             <Link to={`/Habilidades`}>
                 <h2>Habilidades</h2>
+            </Link>
+            <Link to={`/Natures`}>
+                <h2>Naturesas</h2>
             </Link>
         </div>
     )
