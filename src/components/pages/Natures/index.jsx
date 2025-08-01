@@ -8,12 +8,14 @@ const Natures = () => {
     const [fontSize, setFontSize] = useState(15);
     const [search, setSearch] = useState('')
     const [filter, setFilter] = useState([])
+    const [filterOrdem, setFilterOrdem] = useState('id')
+    const [ordem, setOrdem] = useState([])
 
     useEffect(() => {
-         if (search === '') {
+        if (search === '') {
             setFilter([]);
             return
-         }
+        }
 
         const results = dados.filter(item => {
             return Object.values(item).some(value =>
@@ -23,6 +25,17 @@ const Natures = () => {
         setFilter(results.map(item => item.id))
     }, [search]);
 
+    useEffect(() => {
+        const novaLista = [...dados].sort((a, b) => {
+            if (filterOrdem == 'id') {
+                return a - b;
+            } else {
+                return a[filterOrdem].localeCompare(b[filterOrdem])
+            }
+        })
+        setOrdem(novaLista)
+    }, [filterOrdem])
+
     const handleSearchChange = (event) => {
         setSearch(event.target.value);
     };
@@ -30,6 +43,14 @@ const Natures = () => {
 
     const fontCallback = (font) => {
         setFontSize(font)
+    }
+
+    const valorOrdem = (valor) => {
+        if (valor == filterOrdem) {
+            setFilterOrdem('id')
+        } else {
+            setFilterOrdem(valor)
+        }
     }
 
     return (
@@ -42,14 +63,22 @@ const Natures = () => {
 
             <div>
                 <ul className="naturesListe">
-                    {dados.map(item => (
+                    <li key='hud' className={`naturesItem`}>
+                        <h1 onClick={() => { valorOrdem('name') }}>Nome</h1>
+                        <p onClick={() => { valorOrdem('nome') }} style={{ fontSize: fontSize }}>Tradução</p>
+                        <p onClick={() => { valorOrdem('bonus') }} style={{ fontSize: fontSize }}>Bonus →</p>
+                        <p style={{ fontSize: fontSize }}>Valor</p>
+                        <p onClick={() => { valorOrdem('onus') }}style={{ fontSize: fontSize }}>Onus →</p>
+                        <p style={{ fontSize: fontSize }}>Valor</p>
+                    </li>
+                    {ordem.map(item => (
                         <li key={item.id} className={`naturesItem ${filter.includes(item.id) ? "ativo" : ""}`}>
                             <h1>{item.name}</h1>
                             <p style={{ fontSize: fontSize }}>{item.nome}</p>
-                            <p>{item.bonus} → </p>
-                            <p>{item.bonusValor}</p>
-                            <p>{item.onus} → </p>
-                            <p>{item.onusValor}</p>
+                            <p style={{ fontSize: fontSize }}>{item.bonus} → </p>
+                            <p style={{ fontSize: fontSize }}>{item.bonusValor}</p>
+                            <p style={{ fontSize: fontSize }}>{item.onus} → </p>
+                            <p style={{ fontSize: fontSize }}>{item.onusValor}</p>
                         </li>
                     ))}
                 </ul>

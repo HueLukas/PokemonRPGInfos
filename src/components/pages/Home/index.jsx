@@ -20,6 +20,9 @@ const HomePage = () => {
             <Link to={`/Natures`}>
                 <h2>Naturesas</h2>
             </Link>
+            <Link to={`/Usuario`}>
+                <h2>Usuario</h2>
+            </Link>
         </div>
     )
 }
