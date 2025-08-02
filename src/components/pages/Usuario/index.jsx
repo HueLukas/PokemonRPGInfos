@@ -12,6 +12,12 @@ const Usuario = () => {
         setValor({ ...valor, [id]: value })
     }
 
+    const onDelete = (nomeParaRemover) => {
+        const { [nomeParaRemover]: _, ...novasInfos } = infos;
+        setInfos(novasInfos);
+        localStorage.setItem("save", JSON.stringify(novasInfos));
+    };
+
     const nomeSetar = (event) => {
         setNome(event.target.value)
     }
@@ -25,13 +31,25 @@ const Usuario = () => {
     const onLoad = () => {
         const load = JSON.parse(localStorage.getItem('save'))
         if (load && load[nome]) {
-            if (Object.keys(load[nome]).length != 8) {
+            if (Object.keys(load[nome]).length > 8) {
                 setNumInputs(Object.keys(load[nome]).length)
             }
             setValor(load[nome])
         } else {
             setValor({})
         }
+    }
+
+    const onAdd = () => {
+        setNumInputs(numInputs + 1)
+    }
+
+    const onRemove = () => {
+        setNumInputs(numInputs - 1)
+    }
+
+    const changeName = (newNome) => {
+        setNome(newNome)
     }
 
     useEffect(() => {
@@ -43,7 +61,7 @@ const Usuario = () => {
 
     const renderInputs = () => {
         const inputs = []
-        for (let i = 0; i < numInputs; i++){
+        for (let i = 0; i < numInputs; i++) {
             inputs.push(
                 <InputInfo key={i} info={i} valor={valor} onValor={valorSetar} />
             )
@@ -62,11 +80,14 @@ const Usuario = () => {
             {renderInputs()}
             <button onClick={onSave}>save</button>
             <button onClick={onLoad}>load</button>
+            <button onClick={onAdd}>+</button>
+            {numInputs > 8 ? (<button onClick={onRemove}>-</button>) : ''}
+            <button onClick={() => onDelete(nome)}>remover perfil</button>
             {Object.keys(infos).length > 0 ? (
                 <ul>
                     {Object.entries(infos).map(([key, value], index) => (
                         <li key={index}>
-                            <h1>{key}</h1>
+                            <h1 onClick={() => { changeName(key) }}>{key}</h1>
                             {Object.entries(value).map(([key, value]) => (
                                 <p key={key} >{value}</p>
                             ))}
