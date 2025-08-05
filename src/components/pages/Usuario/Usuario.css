@@ -1,0 +1,48 @@
+.registro {
+    display: flex;
+}
+
+.nomes {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 5px;
+    gap: 16px;
+}
+
+.nomes p {
+    margin: 0px;
+}
+
+.inputsStatus {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 5px;
+}
+
+.inputsStatus input {
+    margin: 0px;
+    margin-bottom: 3px;
+}
+
+.botoes{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin: 5px;
+}
+
+.ficha{
+    margin: 0px;
+    border: solid 1px;
+    padding: 15px;
+}
+
+.ficha h1{
+    margin-top: 0px;
+}
+
+.ficha p{
+    margin: 5%;
+}
