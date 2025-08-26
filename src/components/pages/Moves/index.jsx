@@ -6,7 +6,6 @@ import dados from "../../../dados/baseMoves"
 import './moves.css'
 
 function PageMoves() {
-  const [fontSize, setFontSize] = useState(15);
   const [search, setSearch] = useState('')
   const [filter, setFilter] = useState([])
   const [quantMoves, setQuantMoves] = useState(20)
@@ -24,10 +23,6 @@ function PageMoves() {
     setSearch(event.target.value);
   };
 
-  const fontCallback = (font) => {
-    setFontSize(font)
-  }
-
   const quantMovesCallback = (quant) => {
     setQuantMoves(quant)
   }
@@ -36,7 +31,7 @@ function PageMoves() {
   return (
     <div id='AreaMoves'>
       <h1 className='tituloSite'>Moves dos Pokemon</h1>
-      <BarraLateral onResult={quantMovesCallback} onFontSize={fontCallback} />
+      <BarraLateral onResult={quantMovesCallback} />
       <div id='pesquisa'>
         <input value={search} onChange={handleSearchChange} />
         <p>{quantMoves}/518</p>
@@ -47,8 +42,7 @@ function PageMoves() {
           <ul>
             {filter.map(item => (
               <li key={item.id}>
-                <Move id={item.id} font={fontSize} />
-
+                <Move id={item.id} />
               </li>
             ))}
           </ul>

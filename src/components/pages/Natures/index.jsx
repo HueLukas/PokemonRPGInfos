@@ -5,7 +5,6 @@ import dados from "../../../dados/baseNatureza"
 import "./natures.css"
 
 const Natures = () => {
-    const [fontSize, setFontSize] = useState(15);
     const [search, setSearch] = useState('')
     const [filter, setFilter] = useState([])
     const [filterOrdem, setFilterOrdem] = useState('id')
@@ -40,11 +39,6 @@ const Natures = () => {
         setSearch(event.target.value);
     };
 
-
-    const fontCallback = (font) => {
-        setFontSize(font)
-    }
-
     const valorOrdem = (valor) => {
         if (valor == filterOrdem) {
             setFilterOrdem('id')
@@ -56,7 +50,7 @@ const Natures = () => {
     return (
         <div>
             <h1 className='tituloSite'>Natureza dos Pokemon</h1>
-            <BarraLateral onFontSize={fontCallback} />
+            <BarraLateral/>
             <div id='pesquisa'>
                 <input value={search} onChange={handleSearchChange} />
             </div>
@@ -65,20 +59,20 @@ const Natures = () => {
                 <ul className="naturesListe">
                     <li key='hud' className={`naturesItem`}>
                         <h1 onClick={() => { valorOrdem('name') }}>Nome</h1>
-                        <p onClick={() => { valorOrdem('nome') }} style={{ fontSize: fontSize }}>Tradução</p>
-                        <p onClick={() => { valorOrdem('bonus') }} style={{ fontSize: fontSize }}>Bonus →</p>
-                        <p style={{ fontSize: fontSize }}>Valor</p>
-                        <p onClick={() => { valorOrdem('onus') }}style={{ fontSize: fontSize }}>Onus →</p>
-                        <p style={{ fontSize: fontSize }}>Valor</p>
+                        <p onClick={() => { valorOrdem('nome') }} className="pAdapitavel">Tradução</p>
+                        <p onClick={() => { valorOrdem('bonus') }} className="pAdapitavel">Bonus →</p>
+                        <p className="pAdapitavel">Valor</p>
+                        <p onClick={() => { valorOrdem('onus') }} className="pAdapitavel">Onus →</p>
+                        <p className="pAdapitavel">Valor</p>
                     </li>
                     {ordem.map(item => (
                         <li key={item.id} className={`naturesItem ${filter.includes(item.id) ? "ativo" : ""}`}>
                             <h1>{item.name}</h1>
-                            <p style={{ fontSize: fontSize }}>{item.nome}</p>
-                            <p style={{ fontSize: fontSize }}>{item.bonus} → </p>
-                            <p style={{ fontSize: fontSize }}>{item.bonusValor}</p>
-                            <p style={{ fontSize: fontSize }}>{item.onus} → </p>
-                            <p style={{ fontSize: fontSize }}>{item.onusValor}</p>
+                            <p className="pAdapitavel">{item.nome}</p>
+                            <p className="pAdapitavel">{item.bonus} → </p>
+                            <p className="pAdapitavel">{item.bonusValor}</p>
+                            <p className="pAdapitavel">{item.onus} → </p>
+                            <p className="pAdapitavel">{item.onusValor}</p>
                         </li>
                     ))}
                 </ul>

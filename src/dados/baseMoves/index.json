@@ -80,7 +80,7 @@
         "pp": 20,
         "duration": "1 minuto",
         "range": "Pessoal",
-        "description": "Você aplica pressão em diferentes pontos de estresse em seu corpo, aumentando aleatoriamente uma habilidade pela duração. Ao ativar esse Move, role um d6 e ganhe o seguinte aumento com base no resultado. Ao ativar em turnos subsequentes, qualquer efeito anterior termina. d6 Efeito 1 +1 nas rolagens de ataque 2 +2 nas rolagens de dano 3 +10 de vida temporária 4 +1 em testes de resistência 5 +1 na margem de acerto crítico 6 +1 na CA  40",
+        "description": "Você aplica pressão em diferentes pontos de estresse em seu corpo, aumentando aleatoriamente uma habilidade pela duração. Ao ativar esse Move, role um d6 e ganhe o seguinte aumento com base no resultado. Ao ativar em turnos subsequentes, qualquer efeito anterior termina. d6 Efeito 1 = +1 nas rolagens de ataque; 2 = +2 nas rolagens de dano; 3 = +10 de vida temporária; 4 = +1 em testes de resistência; 5 = +1 na margem de acerto crítico; 6 = +1 na CA  40",
         "highLevel": ""
     },
     {
@@ -733,7 +733,7 @@
     },
     {
         "id": 61,
-        "name": "Swing (Balanço Violento)",
+        "name": "Brutal Swing (Balanço Violento)",
         "type": "Sombrio",
         "move": "FOR",
         "casting": "1 ação",
@@ -757,7 +757,7 @@
     },
     {
         "id": 63,
-        "name": "Beam (Rajada de Bolhas)",
+        "name": "Bubble Beam (Rajada de Bolhas)",
         "type": "Água",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -769,7 +769,7 @@
     },
     {
         "id": 64,
-        "name": "Bite (Mordida de Inseto)",
+        "name": "Bug Bite (Mordida de Inseto)",
         "type": "Inseto",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -781,7 +781,7 @@
     },
     {
         "id": 65,
-        "name": "Buzz (Zumbido)",
+        "name": "Bug Buzz (Zumbido)",
         "type": "Inseto",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -793,7 +793,7 @@
     },
     {
         "id": 66,
-        "name": "Up (Força Bruta)",
+        "name": "Bulk Up (Força Bruta)",
         "type": "Lutador",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -817,7 +817,7 @@
     },
     {
         "id": 68,
-        "name": "Punch (Soco Projétil)",
+        "name": "Bullet Punch (Soco Projétil)",
         "type": "Aço",
         "move": "FOR/DES",
         "casting": "1 ação bônus",
@@ -829,7 +829,7 @@
     },
     {
         "id": 69,
-        "name": "Seed (Projétil de Semente)",
+        "name": "Bullet Seed (Projétil de Semente)",
         "type": "Grama",
         "move": "DES",
         "casting": "1 ação",
@@ -841,7 +841,7 @@
     },
     {
         "id": 70,
-        "name": "Up (Queimar)",
+        "name": "Burn Up (Queimar)",
         "type": "Fogo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -853,7 +853,7 @@
     },
     {
         "id": 71,
-        "name": "Mind (Mente Calma)",
+        "name": "Calm Mind (Mente Calma)",
         "type": "Psíquico",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -901,7 +901,7 @@
     },
     {
         "id": 75,
-        "name": "Beam (Raio de Ataque)",
+        "name": "Charge Beam (Raio de Ataque)",
         "type": "Elétrico",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -937,7 +937,7 @@
     },
     {
         "id": 78,
-        "name": "Away (Lapidar)",
+        "name": "Chip Away (Lapidar)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -949,7 +949,7 @@
     },
     {
         "id": 79,
-        "name": "Throw (Lançamento Circular)",
+        "name": "Circle Throw (Lançamento Circular)",
         "type": "Lutador",
         "move": "FOR",
         "casting": "1 ação",
@@ -973,7 +973,7 @@
     },
     {
         "id": 81,
-        "name": "Scales (Batida de Escamas)",
+        "name": "Clanging Scales (Batida de Escamas)",
         "type": "Dragão",
         "move": "FOR/SAB",
         "casting": "1 ação",
@@ -985,7 +985,7 @@
     },
     {
         "id": 82,
-        "name": "Smog (Fumaça limpa)",
+        "name": "Clear Smog (Fumaça limpa)",
         "type": "Venenoso",
         "move": "DES/CON",
         "casting": "1 ação",
@@ -997,7 +997,7 @@
     },
     {
         "id": 83,
-        "name": "Combat (Corpo-a-Corpo)",
+        "name": "Close Combat (Corpo-a-Corpo)",
         "type": "Lutador",
         "move": "FOR",
         "casting": "1 ação",
@@ -1021,7 +1021,7 @@
     },
     {
         "id": 85,
-        "name": "Punch (Soco de Cometa)",
+        "name": "Cumet Punch (Soco de Cometa)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1045,7 +1045,7 @@
     },
     {
         "id": 87,
-        "name": "Ray (Raio da Confusão)",
+        "name": "Confuse Ray (Raio da Confusão)",
         "type": "Fantasma",
         "move": "INT/SAB",
         "casting": "1 ação",
@@ -1117,7 +1117,7 @@
     },
     {
         "id": 93,
-        "name": "Enforcer (Núcleo Executor)",
+        "name": "Core Enforcer (Núcleo Executor)",
         "type": "Dragão",
         "move": "FOR/SAB",
         "casting": "1 ação",
@@ -1129,7 +1129,7 @@
     },
     {
         "id": 94,
-        "name": "Power (Poder Cósmico)",
+        "name": "Cosmic Power (Poder Cósmico)",
         "type": "Psíquico",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -1141,19 +1141,19 @@
     },
     {
         "id": 95,
-        "name": "Guard (Proteção de Algodão)",
+        "name": "Cotton Guard (Proteção de Algodão)",
         "type": "Grama",
         "move": "Nenhum",
         "casting": "1 ação",
         "pp": 5,
         "duration": "1 minuto, Concentração",
         "range": "Pessoal",
-        "description": "Você se protege, envolvendo seu corpo em algodão grosso e macio. Durante a duração, aumente sua CA em +2.  51..........",
+        "description": "Você se protege, envolvendo seu corpo em algodão grosso e macio. Durante a duração, aumente sua CA em +2.",
         "highLevel": ""
     },
     {
         "id": 96,
-        "name": "Spore (Esporos de Algodão)",
+        "name": "Cotton Spore (Esporos de Algodão)",
         "type": "Grama",
         "move": "DES/CON",
         "casting": "1 ação",
@@ -1201,7 +1201,7 @@
     },
     {
         "id": 100,
-        "name": "Shield (Escudo Astuto)",
+        "name": "Crafty Shield (Escudo Astuto)",
         "type": "Fada",
         "move": "Nenhum",
         "casting": "1 reação",
@@ -1213,7 +1213,7 @@
     },
     {
         "id": 101,
-        "name": "Chop (Golpe Cruzado)",
+        "name": "Cross Chop (Golpe Cruzado)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1225,7 +1225,7 @@
     },
     {
         "id": 102,
-        "name": "Poison (Veneno-Cruzado)",
+        "name": "Cross Poison (Veneno-Cruzado)",
         "type": "Venenoso",
         "move": "DES",
         "casting": "1 ação",
@@ -1249,7 +1249,7 @@
     },
     {
         "id": 104,
-        "name": "Claw (Garra Esmagadora)",
+        "name": "Crush Claw (Garra Esmagadora)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação",
@@ -1261,7 +1261,7 @@
     },
     {
         "id": 105,
-        "name": "Grip (Aperto Esmagador)",
+        "name": "Crush Grip (Aperto Esmagador)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação",
@@ -1297,7 +1297,7 @@
     },
     {
         "id": 108,
-        "name": "Pulse (Pulso Sombrio)",
+        "name": "Dark Pulse (Pulso Sombrio)",
         "type": "Sombrio",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -1309,7 +1309,7 @@
     },
     {
         "id": 109,
-        "name": "Void (Vácuo Negro)",
+        "name": "Dark Void (Vácuo Negro)",
         "type": "Sombrio",
         "move": "SAB",
         "casting": "1 ação",
@@ -1321,7 +1321,7 @@
     },
     {
         "id": 110,
-        "name": "Lariat (Lariat Escuro)",
+        "name": "Darkest Lariat (Lariat Escuro)",
         "type": "Sombrio",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1333,7 +1333,7 @@
     },
     {
         "id": 111,
-        "name": "Gleam (Clarão Deslumbrante)",
+        "name": "Dazzling Gleam (Clarão Deslumbrante)",
         "type": "Fada",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -1345,7 +1345,7 @@
     },
     {
         "id": 112,
-        "name": "Order (Ordem de Defesa)",
+        "name": "Defend Order (Ordem de Defesa)",
         "type": "Inseto",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -1357,7 +1357,7 @@
     },
     {
         "id": 113,
-        "name": "Curl (Espiral de Defesa)",
+        "name": "Defense Curl (Espiral de Defesa)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -1381,7 +1381,7 @@
     },
     {
         "id": 115,
-        "name": "Bond (Vínculo do Destino)",
+        "name": "Destiny Bond (Vínculo do Destino)",
         "type": "Fantasma",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -1405,7 +1405,7 @@
     },
     {
         "id": 117,
-        "name": "Storm (Tempestade Diamante)",
+        "name": "Diamond Storm (Tempestade Diamante)",
         "type": "Pedra",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -1441,7 +1441,7 @@
     },
     {
         "id": 120,
-        "name": "Voice (Voz Desarmante)",
+        "name": "Disarming Voice (Voz Desarmante)",
         "type": "Fada",
         "move": "CAR",
         "casting": "1 ação",
@@ -1477,7 +1477,7 @@
     },
     {
         "id": 123,
-        "name": "Punch (Soco Atordoante)",
+        "name": "Dizzy Punch (Soco Atordoante)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1489,7 +1489,7 @@
     },
     {
         "id": 124,
-        "name": "Desire (Desejo Cruel)",
+        "name": "Doom Desire (Desejo Cruel)",
         "type": "Aço",
         "move": "FOR",
         "casting": "1 ação",
@@ -1501,7 +1501,7 @@
     },
     {
         "id": 125,
-        "name": "Hit (Golpe Duplo)",
+        "name": "Double Hit (Golpe Duplo)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1513,7 +1513,7 @@
     },
     {
         "id": 126,
-        "name": "Bash (Pancada de Ferro Dupla)",
+        "name": "Double Iron Bash (Pancada de Ferro Dupla)",
         "type": "Aço",
         "move": "FOR",
         "casting": "1 ação",
@@ -1525,7 +1525,7 @@
     },
     {
         "id": 127,
-        "name": "Kick (Chute Duplo)",
+        "name": "Double Kick (Chute Duplo)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1537,7 +1537,7 @@
     },
     {
         "id": 128,
-        "name": "Slap (Tapa Duplo)",
+        "name": "Double Slap (Tapa Duplo)",
         "type": "Normal",
         "move": "FOR/DES/CAR",
         "casting": "1 ação",
@@ -1549,7 +1549,7 @@
     },
     {
         "id": 129,
-        "name": "Team (Multiplicar)",
+        "name": "Double Team (Multiplicar)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação bônus",
@@ -1561,7 +1561,7 @@
     },
     {
         "id": 130,
-        "name": "Edge (Corte Duplo)",
+        "name": "Double-Edge (Corte Duplo)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1573,7 +1573,7 @@
     },
     {
         "id": 131,
-        "name": "Meteor (Meteoro do Dragão)",
+        "name": "Draco Meteor (Meteoro do Dragão)",
         "type": "Dragão",
         "move": "FOR",
         "casting": "1 ação",
@@ -1585,7 +1585,7 @@
     },
     {
         "id": 132,
-        "name": "Ascent (Ascensão do Dragão)",
+        "name": "Dragon Ascent (Ascensão do Dragão)",
         "type": "Voador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1597,7 +1597,7 @@
     },
     {
         "id": 133,
-        "name": "Breath (Sopro do Dragão)",
+        "name": "Dragon Breath (Sopro do Dragão)",
         "type": "Dragão",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1609,7 +1609,7 @@
     },
     {
         "id": 134,
-        "name": "Claw (Garra do Dragão)",
+        "name": "Dragon Claw (Garra do Dragão)",
         "type": "Dragão",
         "move": "FOR",
         "casting": "1 ação",
@@ -1621,7 +1621,7 @@
     },
     {
         "id": 135,
-        "name": "Dance (Dança do Dragão)",
+        "name": "Dragon Dance (Dança do Dragão)",
         "type": "Dragão",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -1633,7 +1633,7 @@
     },
     {
         "id": 136,
-        "name": "Hammer (Martelo Dragão)",
+        "name": "Dragon Hammer (Martelo Dragão)",
         "type": "Dragão",
         "move": "FOR",
         "casting": "1 ação",
@@ -1645,7 +1645,7 @@
     },
     {
         "id": 137,
-        "name": "Pulse (Pulso do Dragão)",
+        "name": "Dragon Pulse (Pulso do Dragão)",
         "type": "Dragão",
         "move": "DES",
         "casting": "1 ação",
@@ -1657,7 +1657,7 @@
     },
     {
         "id": 138,
-        "name": "Rage (Fúria do dragão)",
+        "name": "Dragon Rage (Fúria do dragão)",
         "type": "Dragão",
         "move": "FOR",
         "casting": "1 ação",
@@ -1669,7 +1669,7 @@
     },
     {
         "id": 139,
-        "name": "Rush (Investida do Dragão)",
+        "name": "Dragon Rush (Investida do Dragão)",
         "type": "Dragão",
         "move": "FOR",
         "casting": "1 ação",
@@ -1681,7 +1681,7 @@
     },
     {
         "id": 140,
-        "name": "Tail (Cauda do Dragão)",
+        "name": "Dragon Tail (Cauda do Dragão)",
         "type": "Dragão",
         "move": "FOR",
         "casting": "1 ação",
@@ -1693,7 +1693,7 @@
     },
     {
         "id": 141,
-        "name": "Punch (Soco Dreno)",
+        "name": "Drain Punch (Soco Dreno)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1705,7 +1705,7 @@
     },
     {
         "id": 142,
-        "name": "Kiss (Beijo Drenante)",
+        "name": "Draining Kiss (Beijo Drenante)",
         "type": "Fada",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -1717,7 +1717,7 @@
     },
     {
         "id": 143,
-        "name": "Eater (Devorador de Sonhos)",
+        "name": "Dream Eater (Devorador de Sonhos)",
         "type": "Psíquico",
         "move": "SAB",
         "casting": "1 ação",
@@ -1729,7 +1729,7 @@
     },
     {
         "id": 144,
-        "name": "Peck (Bicada Perfurante)",
+        "name": "Drill Peck (Bicada Perfurante)",
         "type": "Voador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1741,7 +1741,7 @@
     },
     {
         "id": 145,
-        "name": "Run (Broca Veloz)",
+        "name": "Drill Run (Broca Veloz)",
         "type": "Terra",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1753,7 +1753,7 @@
     },
     {
         "id": 146,
-        "name": "Chop (Pancada Dupla)",
+        "name": "Dual Chop (Pancada Dupla)",
         "type": "Dragão",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1765,7 +1765,7 @@
     },
     {
         "id": 147,
-        "name": "Punch (Soco Dinâmico)",
+        "name": "Dynamic Punch (Soco Dinâmico)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -1777,7 +1777,7 @@
     },
     {
         "id": 148,
-        "name": "Power (Geoforça)",
+        "name": "Earth Power (Geoforça)",
         "type": "Terra",
         "move": "FOR",
         "casting": "1 ação",
@@ -1801,7 +1801,7 @@
     },
     {
         "id": 150,
-        "name": "Voice (Voz Ecoante)",
+        "name": "Echoed Voice (Voz Ecoante)",
         "type": "Normal",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -1813,7 +1813,7 @@
     },
     {
         "id": 151,
-        "name": "Impulse (Impulso Misterioso)",
+        "name": "Eerie Impulse (Impulso Misterioso)",
         "type": "Elétrico",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -1825,7 +1825,7 @@
     },
     {
         "id": 152,
-        "name": "Bomb (Ovo Bomba)",
+        "name": "Egg Bomb (Ovo Bomba)",
         "type": "Normal",
         "move": "DES",
         "casting": "1 ação",
@@ -1837,7 +1837,7 @@
     },
     {
         "id": 153,
-        "name": "Terrain (Terreno Elétrico)",
+        "name": "Electric Terrain (Terreno Elétrico)",
         "type": "Elétrico",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -1861,7 +1861,7 @@
     },
     {
         "id": 155,
-        "name": "Ball (Bola Elétrica)",
+        "name": "Electro Ball (Bola Elétrica)",
         "type": "Elétrico",
         "move": "DES",
         "casting": "1 ação",
@@ -1945,7 +1945,7 @@
     },
     {
         "id": 162,
-        "name": "Ball (Bola de Energia)",
+        "name": "Energy Ball (Bola de Energia)",
         "type": "Grama",
         "move": "DES",
         "casting": "1 ação",
@@ -2005,7 +2005,7 @@
     },
     {
         "id": 167,
-        "name": "Speed (Velocidade Extrema)",
+        "name": "Extreme Speed (Velocidade Extrema)",
         "type": "Normal",
         "move": "DES",
         "casting": "1 ação bônus",
@@ -2029,7 +2029,7 @@
     },
     {
         "id": 169,
-        "name": "Lock (Aprisionamento de Fada)",
+        "name": "Fairy Lock (Aprisionamento de Fada)",
         "type": "Fada",
         "move": "Nenhum",
         "casting": "1 ação bônus",
@@ -2041,7 +2041,7 @@
     },
     {
         "id": 170,
-        "name": "Wind (Vento Encantado)",
+        "name": "Fairy Wind (Vento Encantado)",
         "type": "Fada",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -2053,7 +2053,7 @@
     },
     {
         "id": 171,
-        "name": "Out (Fingimento)",
+        "name": "Fake Out (Fingimento)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2065,7 +2065,7 @@
     },
     {
         "id": 172,
-        "name": "Tears (Lágrimas Falsas)",
+        "name": "Fake Tears (Lágrimas Falsas)",
         "type": "Sombrio",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -2077,7 +2077,7 @@
     },
     {
         "id": 173,
-        "name": "Swipe (Corte Artificial)",
+        "name": "False Swipe (Corte Artificial)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2089,7 +2089,7 @@
     },
     {
         "id": 174,
-        "name": "Dance (Dança das Penas)",
+        "name": "Feather Dance (Dança das Penas)",
         "type": "Voador",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -2113,7 +2113,7 @@
     },
     {
         "id": 176,
-        "name": "Attack (Ataque Ligeiro)",
+        "name": "Feint Attack (Ataque Ligeiro)",
         "type": "Sombrio",
         "move": "FOR/DES/CAR",
         "casting": "1 ação",
@@ -2125,7 +2125,7 @@
     },
     {
         "id": 177,
-        "name": "Stinger (Ferroada)",
+        "name": "Fell Stinger (Ferroada)",
         "type": "Inseto",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2137,7 +2137,7 @@
     },
     {
         "id": 178,
-        "name": "Dance (Dança Ardente)",
+        "name": "Fiery Dance (Dança Ardente)",
         "type": "Fogo",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -2149,7 +2149,7 @@
     },
     {
         "id": 179,
-        "name": "Gambit (Gambito Final)",
+        "name": "Finel Gambit (Gambito Final)",
         "type": "Lutador",
         "move": "FOR",
         "casting": "1 ação",
@@ -2161,7 +2161,7 @@
     },
     {
         "id": 180,
-        "name": "Blast (Rajada de Fogo)",
+        "name": "Fire Blast (Rajada de Fogo)",
         "type": "Fogo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2173,7 +2173,7 @@
     },
     {
         "id": 181,
-        "name": "Fang (Presa de Fogo)",
+        "name": "Fire Fang (Presa de Fogo)",
         "type": "Fogo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2185,7 +2185,7 @@
     },
     {
         "id": 182,
-        "name": "Lash (Chicote de Fogo)",
+        "name": "Fire Lash (Chicote de Fogo)",
         "type": "Fogo",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -2197,7 +2197,7 @@
     },
     {
         "id": 183,
-        "name": "Pledge (Pilar de Fogo)",
+        "name": "Fire Pledge (Pilar de Fogo)",
         "type": "Fogo",
         "move": "FOR",
         "casting": "1 ação",
@@ -2209,7 +2209,7 @@
     },
     {
         "id": 184,
-        "name": "Punch (Soco de Fogo)",
+        "name": "Fire Punch (Soco de Fogo)",
         "type": "Fogo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2221,7 +2221,7 @@
     },
     {
         "id": 185,
-        "name": "Spin (Furacão de Chamas)",
+        "name": "Fire Spin (Furacão de Chamas)",
         "type": "Fogo",
         "move": "DES",
         "casting": "1 ação",
@@ -2233,7 +2233,7 @@
     },
     {
         "id": 186,
-        "name": "Impression (Primeira Impressão)",
+        "name": "First Impression (Primeira Impressão)",
         "type": "Inseto",
         "move": "DES",
         "casting": "1 ação bônus",
@@ -2269,7 +2269,7 @@
     },
     {
         "id": 189,
-        "name": "Burst (Rajada de Chamas)",
+        "name": "Fleme Burst (Rajada de Chamas)",
         "type": "Fogo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2281,7 +2281,7 @@
     },
     {
         "id": 190,
-        "name": "Charge (Ataque de Chamas)",
+        "name": "Flame Charge (Ataque de Chamas)",
         "type": "Fogo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2293,7 +2293,7 @@
     },
     {
         "id": 191,
-        "name": "Wheel (Roda de Fogo)",
+        "name": "Flame Wheel (Roda de Fogo)",
         "type": "Fogo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2317,7 +2317,7 @@
     },
     {
         "id": 193,
-        "name": "Blitz (Blitz de Labaredas)",
+        "name": "Flare Blitz (Blitz de Labaredas)",
         "type": "Fogo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2341,7 +2341,7 @@
     },
     {
         "id": 195,
-        "name": "Cannon (Canhão de Luz)",
+        "name": "Flash Cannon (Canhão de Luz)",
         "type": "Aço",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2365,7 +2365,7 @@
     },
     {
         "id": 197,
-        "name": "Cannon (Canhão de Flor)",
+        "name": "Fleur Cannon (Canhão de Flor)",
         "type": "Fada",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -2389,7 +2389,7 @@
     },
     {
         "id": 199,
-        "name": "Healing (Cura Floral)",
+        "name": "Floral Healing (Cura Floral)",
         "type": "Fada",
         "move": "CON",
         "casting": "1 ação",
@@ -2401,7 +2401,7 @@
     },
     {
         "id": 200,
-        "name": "Shield (Escudo Florido)",
+        "name": "Flower Shield (Escudo Florido)",
         "type": "Fada",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -2425,7 +2425,7 @@
     },
     {
         "id": 202,
-        "name": "Press (Aperto Voador)",
+        "name": "Flying Press (Aperto Voador)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2437,7 +2437,7 @@
     },
     {
         "id": 203,
-        "name": "Blast (Explosão Focalizada)",
+        "name": "Focus Blast (Explosão Focalizada)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2449,7 +2449,7 @@
     },
     {
         "id": 204,
-        "name": "Energy (Focalizar Energia)",
+        "name": "Focus Energy (Focalizar Energia)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação bônus",
@@ -2461,7 +2461,7 @@
     },
     {
         "id": 205,
-        "name": "Punch (Soco Focalizado)",
+        "name": "Focus Punch (Soco Focalizado)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2473,7 +2473,7 @@
     },
     {
         "id": 206,
-        "name": "Me (Isca-Viva)",
+        "name": "Fallow Me (Isca-Viva)",
         "type": "Normal",
         "move": "SAB/CAR",
         "casting": "1 reação",
@@ -2485,7 +2485,7 @@
     },
     {
         "id": 207,
-        "name": "Palm (Palma da Força)",
+        "name": "Force Palm (Palma da Força)",
         "type": "Lutador",
         "move": "FOR",
         "casting": "1 ação",
@@ -2509,7 +2509,7 @@
     },
     {
         "id": 209,
-        "name": "Curse (Maldição da Floresta)",
+        "name": "Forest's Curse (Maldição da Floresta)",
         "type": "Grama",
         "move": "CON/SAB",
         "casting": "1 ação",
@@ -2521,7 +2521,7 @@
     },
     {
         "id": 210,
-        "name": "Play (Jogo Sujo)",
+        "name": "Foul Play (Jogo Sujo)",
         "type": "Sombrio",
         "move": "FOR/SAB",
         "casting": "1 ação",
@@ -2533,7 +2533,7 @@
     },
     {
         "id": 211,
-        "name": "Shock (Choque Congelante)",
+        "name": "Freeze Shock (Choque Congelante)",
         "type": "Gelo",
         "move": "DES",
         "casting": "1 ação, carga",
@@ -2545,7 +2545,7 @@
     },
     {
         "id": 212,
-        "name": "Dry (Liofilização)",
+        "name": "Frezze-Dry (Liofilização)",
         "type": "Gelo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2557,7 +2557,7 @@
     },
     {
         "id": 213,
-        "name": "Plant (Planta Mortal)",
+        "name": "Frenzy Plant (Planta Mortal)",
         "type": "Grama",
         "move": "DES",
         "casting": "1 ação, recarga",
@@ -2569,7 +2569,7 @@
     },
     {
         "id": 214,
-        "name": "Breath (Respiração de Gelo)",
+        "name": "Frost Breath (Respiração de Gelo)",
         "type": "Gelo",
         "move": "CON/DES",
         "casting": "1 ação",
@@ -2593,7 +2593,7 @@
     },
     {
         "id": 216,
-        "name": "Attack (Ataque Furioso)",
+        "name": "Fury Attack (Ataque Furioso)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2605,7 +2605,7 @@
     },
     {
         "id": 217,
-        "name": "Cutter (Corte Furioso)",
+        "name": "Fury Cutter (Corte Furioso)",
         "type": "Inseto",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2617,7 +2617,7 @@
     },
     {
         "id": 218,
-        "name": "Swipes (Golpes de Fúria)",
+        "name": "Fury Swipes (Golpes de Fúria)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2629,7 +2629,7 @@
     },
     {
         "id": 219,
-        "name": "Bolt (Raio de Fusão)",
+        "name": "Fusion Bolt (Raio de Fusão)",
         "type": "Elétrico",
         "move": "FOR",
         "casting": "1 ação",
@@ -2641,7 +2641,7 @@
     },
     {
         "id": 220,
-        "name": "Flare (Chama de Fusão)",
+        "name": "Fusion Flare (Chama de Fusão)",
         "type": "Fogo",
         "move": "FOR",
         "casting": "1 ação",
@@ -2653,7 +2653,7 @@
     },
     {
         "id": 221,
-        "name": "Sight (Visão Futura)",
+        "name": "Fusion Sight (Visão Futura)",
         "type": "Psíquico",
         "move": "FOR/SAB",
         "casting": "1 ação",
@@ -2665,7 +2665,7 @@
     },
     {
         "id": 222,
-        "name": "Acid (Ácido Gástrico)",
+        "name": "Gastro Acid (Ácido Gástrico)",
         "type": "Venenoso",
         "move": "DES/CON",
         "casting": "1 ação",
@@ -2677,7 +2677,7 @@
     },
     {
         "id": 223,
-        "name": "Grind (Moedor)",
+        "name": "Gear Grind (Moedor)",
         "type": "Aço",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2689,7 +2689,7 @@
     },
     {
         "id": 224,
-        "name": "Up (Engrenar)",
+        "name": "Gear Up (Engrenar)",
         "type": "Aço",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -2713,7 +2713,7 @@
     },
     {
         "id": 226,
-        "name": "Drain (Giga Dreno)",
+        "name": "Giga Drain (Giga Dreno)",
         "type": "Grama",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2725,7 +2725,7 @@
     },
     {
         "id": 227,
-        "name": "Impact (Giga Impacto)",
+        "name": "Giga Impact (Giga Impacto)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação, recarga",
@@ -2761,7 +2761,7 @@
     },
     {
         "id": 230,
-        "name": "Knot (Nó de Grama)",
+        "name": "Grass Knot (Nó de Grama)",
         "type": "Grama",
         "move": "DES",
         "casting": "1 ação",
@@ -2773,7 +2773,7 @@
     },
     {
         "id": 231,
-        "name": "Pledge (Pilar de Grama)",
+        "name": "Grass Pledge (Pilar de Grama)",
         "type": "Grama",
         "move": "FOR",
         "casting": "1 ação",
@@ -2785,7 +2785,7 @@
     },
     {
         "id": 232,
-        "name": "Whistle (Apito de Grama)",
+        "name": "Grass Whistle (Apito de Grama)",
         "type": "Grama",
         "move": "CON/CAR",
         "casting": "1 ação",
@@ -2797,7 +2797,7 @@
     },
     {
         "id": 233,
-        "name": "Terrain (Terreno de Plantas)",
+        "name": "Grassy Terrain (Terreno de Plantas)",
         "type": "Grama",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -2857,7 +2857,7 @@
     },
     {
         "id": 238,
-        "name": "Split (Divisão de Defesa)",
+        "name": "Guard Split (Divisão de Defesa)",
         "type": "Psíquico",
         "move": "INT/SAB",
         "casting": "1 ação",
@@ -2869,7 +2869,7 @@
     },
     {
         "id": 239,
-        "name": "Swap (Troca de Defesas)",
+        "name": "Guard Swap (Troca de Defesas)",
         "type": "Psíquico",
         "move": "INT/SAB",
         "casting": "1 ação",
@@ -2893,7 +2893,7 @@
     },
     {
         "id": 241,
-        "name": "Shot (Tiro de Sujeira)",
+        "name": "Gunk Shot (Tiro de Sujeira)",
         "type": "Venenoso",
         "move": "DES",
         "casting": "1 ação",
@@ -2917,7 +2917,7 @@
     },
     {
         "id": 243,
-        "name": "Ball (Giro-Bola)",
+        "name": "Gyro Ball (Giro-Bola)",
         "type": "Aço",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -2941,7 +2941,7 @@
     },
     {
         "id": 245,
-        "name": "Arm (Braço-Martelo)",
+        "name": "Hammer Arm (Braço-Martelo)",
         "type": "Lutador",
         "move": "FOR",
         "casting": "1 ação",
@@ -2953,7 +2953,7 @@
     },
     {
         "id": 246,
-        "name": "Hour (Happy Hour)",
+        "name": "Happy Hour (Happy Hour)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -2989,7 +2989,7 @@
     },
     {
         "id": 249,
-        "name": "Charge (Ataque de Cabeça)",
+        "name": "Head Charge (Ataque de Cabeça)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação",
@@ -3001,7 +3001,7 @@
     },
     {
         "id": 250,
-        "name": "Smash (Bate-Cabeça)",
+        "name": "Head Smash (Bate-Cabeça)",
         "type": "Pedra",
         "move": "FOR",
         "casting": "1 ação",
@@ -3025,7 +3025,7 @@
     },
     {
         "id": 252,
-        "name": "Bell (Sino da Cura)",
+        "name": "Heal Bell (Sino da Cura)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -3037,7 +3037,7 @@
     },
     {
         "id": 253,
-        "name": "Block (Bloqueio de Cura)",
+        "name": "Heal Block (Bloqueio de Cura)",
         "type": "Psíquico",
         "move": "Nenhum",
         "casting": "1 reação",
@@ -3049,7 +3049,7 @@
     },
     {
         "id": 254,
-        "name": "Order (Ordem de Cura)",
+        "name": "Heal Order (Ordem de Cura)",
         "type": "Inseto",
         "move": "CON",
         "casting": "1 ação",
@@ -3061,7 +3061,7 @@
     },
     {
         "id": 255,
-        "name": "Pulse (Pulso da Cura)",
+        "name": "Heal Pulse (Pulso da Cura)",
         "type": "Psíquico",
         "move": "CON/SAB",
         "casting": "1 ação",
@@ -3073,7 +3073,7 @@
     },
     {
         "id": 256,
-        "name": "Wish (Desejo de Cura)",
+        "name": "Healing Wish (Desejo de Cura)",
         "type": "Psíquico",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -3085,7 +3085,7 @@
     },
     {
         "id": 257,
-        "name": "Stamp (Selo de Coração)",
+        "name": "Heart Stamp (Selo de Coração)",
         "type": "Psíquico",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -3097,7 +3097,7 @@
     },
     {
         "id": 258,
-        "name": "Swap (Troca de Coração)",
+        "name": "Heart Swap (Troca de Coração)",
         "type": "Psíquico",
         "move": "INT/SAB",
         "casting": "1 ação",
@@ -3109,7 +3109,7 @@
     },
     {
         "id": 259,
-        "name": "Crash (Choque de Calor)",
+        "name": "Heat Crash (Choque de Calor)",
         "type": "Fogo",
         "move": "FOR",
         "casting": "1 ação",
@@ -3121,7 +3121,7 @@
     },
     {
         "id": 260,
-        "name": "Wave (Onda de Calor)",
+        "name": "Heat Wave (Onda de Calor)",
         "type": "Fogo",
         "move": "DES/CON",
         "casting": "1 ação",
@@ -3133,7 +3133,7 @@
     },
     {
         "id": 261,
-        "name": "Slam (Golpe Pesado)",
+        "name": "Heavy Slam (Golpe Pesado)",
         "type": "Aço",
         "move": "FOR",
         "casting": "1 ação",
@@ -3145,7 +3145,7 @@
     },
     {
         "id": 262,
-        "name": "Hand (Mãozinha)",
+        "name": "Helping Hand (Mãozinha)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação bônus",
@@ -3169,19 +3169,19 @@
     },
     {
         "id": 264,
-        "name": "Power (Poder Oculto)",
+        "name": "Hidden Power (Poder Oculto)",
         "type": "Normal",
         "move": "Qualquer",
         "casting": "1 ação",
         "pp": 10,
         "duration": "Instantânea",
         "range": "30 pés (9 metros)",
-        "description": "Você libera uma onda de força de poder desconhecido em uma criatura no alcance. Faça um ataque à distância em uma criatura, causando 1d10 + MOVE de dano de um tipo aleatório. Role um d20 para determinar qual tipo de dano é causado. d20 Tipo d20 Tipo 1 Normal 11 Psíquico 2 Fogo 12 Inseto 3 Água 13 Pedra 4 Elétrico 14 Fantasma 5 Grama 15 Dragão 6 Gelo 16 Sombrio 7 Lutador 17 Aço 8 Venenoso 18 Fada 9 Terra 19 Role novamente 10 Voador 20 Role novamente",
+        "description": "Você libera uma onda de força de poder desconhecido em uma criatura no alcance. Faça um ataque à distância em uma criatura, causando 1d10 + MOVE de dano de um tipo aleatório. Role um d20 para determinar qual tipo de dano é causado. 1: Normal; 2: Fogo; 3: Água; 4: Elétrico; 5: Grama; 6: Gelo; 7: Lutador; 8: Venenoso; 9: Terra; 10: Voador; 11: Psíquico; 12: Inseto; 13: Pedra; 14: Fantasma; 15: Dragão; 16: Sombrio; 17: Aço; 18: Fada; 19: Role novamente; 20: Role novamente",
         "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 5d4 no nível 10, e 4d8 no nível 17."
     },
     {
         "id": 265,
-        "name": "Horsepower (Potência Equina)",
+        "name": "High Horsepower (Potência Equina)",
         "type": "Terra",
         "move": "FOR",
         "casting": "1 ação",
@@ -3193,7 +3193,7 @@
     },
     {
         "id": 266,
-        "name": "Kick (Chute de Pulo Alto)",
+        "name": "High Jump Kick (Chute de Pulo Alto)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3205,7 +3205,7 @@
     },
     {
         "id": 267,
-        "name": "Back (Reter)",
+        "name": "Hold Back (Reter)",
         "type": "Normal",
         "move": "DES",
         "casting": "1 ação",
@@ -3217,7 +3217,7 @@
     },
     {
         "id": 268,
-        "name": "Hands (Dar as Mãos)",
+        "name": "Hold Hands (Dar as Mãos)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 reação",
@@ -3229,7 +3229,7 @@
     },
     {
         "id": 269,
-        "name": "Claws (Garras Afiadas)",
+        "name": "Hone Claws (Garras Afiadas)",
         "type": "Sombrio",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -3253,7 +3253,7 @@
     },
     {
         "id": 271,
-        "name": "Attack (Ataque de Chifres)",
+        "name": "Horn Attack (Ataque de Chifres)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação",
@@ -3265,7 +3265,7 @@
     },
     {
         "id": 272,
-        "name": "Drill (Broca de Chifre)",
+        "name": "Horn Drill (Broca de Chifre)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -3277,7 +3277,7 @@
     },
     {
         "id": 273,
-        "name": "Leech (Chifre Sugador)",
+        "name": "Horn Leech (Chifre Sugador)",
         "type": "Grama",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3301,7 +3301,7 @@
     },
     {
         "id": 275,
-        "name": "Cannon (Hidro Canhão)",
+        "name": "Hydro Cannon (Hidro Canhão)",
         "type": "Água",
         "move": "FOR/DES",
         "casting": "1 ação, recarga",
@@ -3313,7 +3313,7 @@
     },
     {
         "id": 276,
-        "name": "Pump (Hidro Bomba)",
+        "name": "Hydro Pump (Hidro Bomba)",
         "type": "Água",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3325,7 +3325,7 @@
     },
     {
         "id": 277,
-        "name": "Beam (Hiper Raio)",
+        "name": "Hyper Beam (Hiper Raio)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação, recarga",
@@ -3337,7 +3337,7 @@
     },
     {
         "id": 278,
-        "name": "Fang (Hiper Presa)",
+        "name": "Hyper Fang (Hiper Presa)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3349,7 +3349,7 @@
     },
     {
         "id": 279,
-        "name": "Voice (Hiper Voz)",
+        "name": "Hyper Voice (Hiper Voz)",
         "type": "Normal",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -3361,7 +3361,7 @@
     },
     {
         "id": 280,
-        "name": "Fury (Fúria de Hiperespaço)",
+        "name": "Hyperspace Fury (Fúria de Hiperespaço)",
         "type": "Sombrio",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -3373,7 +3373,7 @@
     },
     {
         "id": 281,
-        "name": "Hole (Buraco Dimensional)",
+        "name": "Hyperspace Hole (Buraco Dimensional)",
         "type": "Psíquico",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3397,7 +3397,7 @@
     },
     {
         "id": 283,
-        "name": "Ball (Bola de Gelo)",
+        "name": "Ice Ball (Bola de Gelo)",
         "type": "Gelo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3409,7 +3409,7 @@
     },
     {
         "id": 284,
-        "name": "Beam (Raio de gelo)",
+        "name": "Ice Beam (Raio de gelo)",
         "type": "Gelo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3421,7 +3421,7 @@
     },
     {
         "id": 285,
-        "name": "Burn (Queimadura de Gelo)",
+        "name": "Ice Burn (Queimadura de Gelo)",
         "type": "Gelo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3433,7 +3433,7 @@
     },
     {
         "id": 286,
-        "name": "Fang (Presa de Gelo)",
+        "name": "Ice Fang (Presa de Gelo)",
         "type": "Gelo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3445,7 +3445,7 @@
     },
     {
         "id": 287,
-        "name": "Hammer (Martelo de Gelo)",
+        "name": "Ice Hammer (Martelo de Gelo)",
         "type": "Gelo",
         "move": "FOR",
         "casting": "1 ação",
@@ -3457,7 +3457,7 @@
     },
     {
         "id": 288,
-        "name": "Punch (Soco de gelo)",
+        "name": "Ice Punch (Soco de gelo)",
         "type": "Gelo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3469,7 +3469,7 @@
     },
     {
         "id": 289,
-        "name": "Shard (Caco de Gelo)",
+        "name": "Ice Shard (Caco de Gelo)",
         "type": "Gelo",
         "move": "DES",
         "casting": "1 ação bônus",
@@ -3481,7 +3481,7 @@
     },
     {
         "id": 290,
-        "name": "Crash (Choque de Gelo)",
+        "name": "Icicle Crash (Choque de Gelo)",
         "type": "Gelo",
         "move": "DES",
         "casting": "1 ação",
@@ -3493,7 +3493,7 @@
     },
     {
         "id": 291,
-        "name": "Spear (Lança de Gelo)",
+        "name": "Icicle Spear (Lança de Gelo)",
         "type": "Gelo",
         "move": "DES",
         "casting": "1 ação",
@@ -3505,7 +3505,7 @@
     },
     {
         "id": 292,
-        "name": "Wind (Vento Gelado)",
+        "name": "icy Wind (Vento Gelado)",
         "type": "Gelo",
         "move": "DES",
         "casting": "1 ação",
@@ -3589,7 +3589,7 @@
     },
     {
         "id": 299,
-        "name": "Deluge (Dilúvio de Íons)",
+        "name": "Ion Deluge (Dilúvio de Íons)",
         "type": "Elétrico",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -3601,7 +3601,7 @@
     },
     {
         "id": 300,
-        "name": "Defense (Defesa de Ferro)",
+        "name": "Iron Defense (Defesa de Ferro)",
         "type": "Aço",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -3613,7 +3613,7 @@
     },
     {
         "id": 301,
-        "name": "Head (Cabeça de Ferro)",
+        "name": "iron Head (Cabeça de Ferro)",
         "type": "Aço",
         "move": "FOR",
         "casting": "1 ação",
@@ -3625,7 +3625,7 @@
     },
     {
         "id": 302,
-        "name": "Tail (Cauda de Ferro)",
+        "name": "Iron Tail (Cauda de Ferro)",
         "type": "Aço",
         "move": "FOR",
         "casting": "1 ação",
@@ -3649,7 +3649,7 @@
     },
     {
         "id": 304,
-        "name": "Kick (Chute Pulo)",
+        "name": "Jump Kick (Chute Pulo)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3661,7 +3661,7 @@
     },
     {
         "id": 305,
-        "name": "Chop (Golpe Caratê)",
+        "name": "Karate Chop (Golpe Caratê)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3685,7 +3685,7 @@
     },
     {
         "id": 307,
-        "name": "Shield (Escudo do Rei)",
+        "name": "King's Shield (Escudo do Rei)",
         "type": "Aço",
         "move": "Nenhum",
         "casting": "1 reação",
@@ -3697,7 +3697,7 @@
     },
     {
         "id": 308,
-        "name": "Off (Nocaute)",
+        "name": "knock Off (Nocaute)",
         "type": "Sombrio",
         "move": "DES",
         "casting": "1 ação",
@@ -3709,7 +3709,7 @@
     },
     {
         "id": 309,
-        "name": "Wrath (Ira da Terra)",
+        "name": "Land's Wrath (Ira da Terra)",
         "type": "Terra",
         "move": "FOR",
         "casting": "1 ação",
@@ -3721,7 +3721,7 @@
     },
     {
         "id": 310,
-        "name": "Focus (Laser Concentrado)",
+        "name": "Laser Focus (Laser Concentrado)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -3733,7 +3733,7 @@
     },
     {
         "id": 311,
-        "name": "Resort (Último Recurso)",
+        "name": "Last Resort (Último Recurso)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3745,7 +3745,7 @@
     },
     {
         "id": 312,
-        "name": "Plume (Bruma de Lava)",
+        "name": "Lava Plume (Bruma de Lava)",
         "type": "Fogo",
         "move": "FOR",
         "casting": "1 ação",
@@ -3757,7 +3757,7 @@
     },
     {
         "id": 313,
-        "name": "Blade (Lâmina de Folha)",
+        "name": "Leaf Blade (Lâmina de Folha)",
         "type": "Grama",
         "move": "DES",
         "casting": "1 ação",
@@ -3769,7 +3769,7 @@
     },
     {
         "id": 314,
-        "name": "Storm (Tempestade de Folhas)",
+        "name": "Leaf Storm (Tempestade de Folhas)",
         "type": "Grama",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3781,7 +3781,7 @@
     },
     {
         "id": 315,
-        "name": "Tornado (Tornado de Folhas)",
+        "name": "Leaf Tornado (Tornado de Folhas)",
         "type": "Grama",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3805,7 +3805,7 @@
     },
     {
         "id": 317,
-        "name": "Life (Suga-Vidas)",
+        "name": "Leech Life (Suga-Vidas)",
         "type": "Inseto",
         "move": "DES",
         "casting": "1 ação",
@@ -3817,7 +3817,7 @@
     },
     {
         "id": 318,
-        "name": "Seed (Semente Sanguessuga)",
+        "name": "Leech Seed (Semente Sanguessuga)",
         "type": "Grama",
         "move": "DES",
         "casting": "1 ação",
@@ -3853,7 +3853,7 @@
     },
     {
         "id": 321,
-        "name": "Ruin (Luz da Ruína)",
+        "name": "Light of Ruin (Luz da Ruína)",
         "type": "Fada",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -3865,7 +3865,7 @@
     },
     {
         "id": 322,
-        "name": "Screen (Tela de Luz)",
+        "name": "Light Screen (Tela de Luz)",
         "type": "Psíquico",
         "move": "Nenhum",
         "casting": "1 reação",
@@ -3889,7 +3889,7 @@
     },
     {
         "id": 324,
-        "name": "On (Mira)",
+        "name": "Lock-On (Mira)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -3901,7 +3901,7 @@
     },
     {
         "id": 325,
-        "name": "Kiss (Beijo Amoroso)",
+        "name": "Lovely Kiss (Beijo Amoroso)",
         "type": "Normal",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -3913,7 +3913,7 @@
     },
     {
         "id": 326,
-        "name": "Kick (Chute baixo)",
+        "name": "Low Kick (Chute baixo)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3925,7 +3925,7 @@
     },
     {
         "id": 327,
-        "name": "Sweep (Movimento Baixo)",
+        "name": "Low Sweep (Movimento Baixo)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -3937,7 +3937,7 @@
     },
     {
         "id": 328,
-        "name": "Chant (Golpe de Sorte)",
+        "name": "Lucky Chant (Golpe de Sorte)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 reação",
@@ -3949,7 +3949,7 @@
     },
     {
         "id": 329,
-        "name": "Dance (Dança Lunar)",
+        "name": "Lunar Dance (Dança Lunar)",
         "type": "Psíquico",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -3973,7 +3973,7 @@
     },
     {
         "id": 331,
-        "name": "Purge (Purga de Esplendor)",
+        "name": "Luster Purge (Purga de Esplendor)",
         "type": "Psíquico",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -3985,7 +3985,7 @@
     },
     {
         "id": 332,
-        "name": "Punch (Soco Rápido)",
+        "name": "Mach Punch (Soco Rápido)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação bônus",
@@ -3997,7 +3997,7 @@
     },
     {
         "id": 333,
-        "name": "Coat (Tela Mágica)",
+        "name": "Magic Coat (Tela Mágica)",
         "type": "Psíquico",
         "move": "SAB/CON",
         "casting": "1 reação",
@@ -4009,7 +4009,7 @@
     },
     {
         "id": 334,
-        "name": "Room (Sala Mágica)",
+        "name": "Magic Room (Sala Mágica)",
         "type": "Psíquico",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -4021,7 +4021,7 @@
     },
     {
         "id": 335,
-        "name": "Leaf (Folha Mágica)",
+        "name": "Magical Leaf (Folha Mágica)",
         "type": "Grama",
         "move": "DES",
         "casting": "1 ação",
@@ -4033,7 +4033,7 @@
     },
     {
         "id": 336,
-        "name": "Storm (Tempestade de Magma)",
+        "name": "Magma Storm (Tempestade de Magma)",
         "type": "Fogo",
         "move": "FOR",
         "casting": "1 ação",
@@ -4045,7 +4045,7 @@
     },
     {
         "id": 337,
-        "name": "Bomb (Bomba Magnética)",
+        "name": "Magnet Bomb (Bomba Magnética)",
         "type": "Aço",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4057,7 +4057,7 @@
     },
     {
         "id": 338,
-        "name": "Rise (Levitação Magnética)",
+        "name": "Magnet Rise (Levitação Magnética)",
         "type": "Elétrico",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -4069,7 +4069,7 @@
     },
     {
         "id": 339,
-        "name": "Flux (Fluxo Magnético)",
+        "name": "Magnetic Flux (Fluxo Magnético)",
         "type": "Elétrico",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -4088,12 +4088,12 @@
         "pp": 5,
         "duration": "Instantânea",
         "range": "Pessoal (30 pés / 9 metros de raio)",
-        "description": "Você sacode o chão com um terremoto destruidor. Todas as criaturas dentro do alcance devem fazer um teste de DES contra sua CD de Move, sofrendo metade do dano em caso de sucesso e o dano total em caso de falha. Criaturas dentro do alcance que estiverem escavadas ou na fase invulnerável de Dig sofrem o dobro do dano deste Move. Role um d100 na tabela abaixo para determinar o dano. Criaturas elevadas são imunes aos efeitos e dano deste Move. d100 Dano 01-05 1d4 + MOVE 06-15 1d8 + MOVE 16-35 1d10 + MOVE 36-65 1d12 + MOVE 66-85 2d6 + MOVE 86-95 2d8 + MOVE 96-100 2d12 + MOVE",
+        "description": "Você sacode o chão com um terremoto destruidor. Todas as criaturas dentro do alcance devem fazer um teste de DES contra sua CD de Move, sofrendo metade do dano em caso de sucesso e o dano total em caso de falha. Criaturas dentro do alcance que estiverem escavadas ou na fase invulnerável de Dig sofrem o dobro do dano deste Move. Role um d100 na tabela abaixo para determinar o dano. Criaturas elevadas são imunes aos efeitos e dano deste Move. 1 a 5: 1d4 + MOVE; 06 a 15: 1d8 + MOVE; 16 a 35: 1d10 + MOVE; 36 a 65: 1d12 + MOVE; 66 a 85: 2d6 + MOVE; 86 a 95: 2d8 + MOVE; 96 a 100 2d12 + MOVE",
         "highLevel": "Para rolagens de dano, use 2x os dados no nível 5, 3x os dados no nível 10 e 4x os dados no nível 17."
     },
     {
         "id": 341,
-        "name": "Block (Esteira Bloqueio)",
+        "name": "Mat Block (Esteira Bloqueio)",
         "type": "Lutador",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -4105,7 +4105,7 @@
     },
     {
         "id": 342,
-        "name": "First (Primeiro Eu)",
+        "name": "Me First (Primeiro Eu)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 reação",
@@ -4117,7 +4117,7 @@
     },
     {
         "id": 343,
-        "name": "Look (Olhar Malvado)",
+        "name": "Mean Look (Olhar Malvado)",
         "type": "Normal",
         "move": "FOR/CAR",
         "casting": "1 ação",
@@ -4141,7 +4141,7 @@
     },
     {
         "id": 345,
-        "name": "Drain (Mega Dreno)",
+        "name": "Mega Drain (Mega Dreno)",
         "type": "Grama",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4153,7 +4153,7 @@
     },
     {
         "id": 346,
-        "name": "Kick (Mega Chute)",
+        "name": "Mega Kick (Mega Chute)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação",
@@ -4165,7 +4165,7 @@
     },
     {
         "id": 347,
-        "name": "Punch (Mega Soco)",
+        "name": "Mega Punch (Mega Soco)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação",
@@ -4201,7 +4201,7 @@
     },
     {
         "id": 350,
-        "name": "Burst (Explosão Metálica)",
+        "name": "Metal Burst (Explosão Metálica)",
         "type": "Aço",
         "move": "FOR/DES",
         "casting": "1 reação",
@@ -4213,7 +4213,7 @@
     },
     {
         "id": 351,
-        "name": "Claw (Garra de Metal)",
+        "name": "Metal Claw (Garra de Metal)",
         "type": "Aço",
         "move": "FOR",
         "casting": "1 ação",
@@ -4225,7 +4225,7 @@
     },
     {
         "id": 352,
-        "name": "Sound (Som de Metal)",
+        "name": "Metal Sound (Som de Metal)",
         "type": "Aço",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4237,7 +4237,7 @@
     },
     {
         "id": 353,
-        "name": "Mash (Esmaga-Meteoro)",
+        "name": "Meteor Mash (Esmaga-Meteoro)",
         "type": "Aço",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4261,7 +4261,7 @@
     },
     {
         "id": 355,
-        "name": "Drink (Leite de Cura)",
+        "name": "Milk Drink (Leite de Cura)",
         "type": "Normal",
         "move": "CON",
         "casting": "1 ação",
@@ -4285,7 +4285,7 @@
     },
     {
         "id": 357,
-        "name": "Blown (Explosão Mental)",
+        "name": "Mind Blown (Explosão Mental)",
         "type": "Fogo",
         "move": "DES/CON",
         "casting": "1 ação",
@@ -4297,7 +4297,7 @@
     },
     {
         "id": 358,
-        "name": "Reader (Leitura Mental)",
+        "name": "Mind Reader (Leitura Mental)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -4321,7 +4321,7 @@
     },
     {
         "id": 360,
-        "name": "Eye (Olho Milagroso)",
+        "name": "Miracle Eye (Olho Milagroso)",
         "type": "Psíquico",
         "move": "INT/SAB",
         "casting": "1 ação",
@@ -4333,7 +4333,7 @@
     },
     {
         "id": 361,
-        "name": "Coat (Casaco Espelhado)",
+        "name": "Mirror Coat (Casaco Espelhado)",
         "type": "Psíquico",
         "move": "CON/SAB",
         "casting": "1 reação",
@@ -4345,7 +4345,7 @@
     },
     {
         "id": 362,
-        "name": "Move (Ataque Espelhado)",
+        "name": "Mirror Move (Ataque Espelhado)",
         "type": "Voador",
         "move": "Variável",
         "casting": "1 ação",
@@ -4357,7 +4357,7 @@
     },
     {
         "id": 363,
-        "name": "Shot (Tiro Espelhado)",
+        "name": "Mirror Shot (Tiro Espelhado)",
         "type": "Aço",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4381,7 +4381,7 @@
     },
     {
         "id": 365,
-        "name": "Ball (Bola de Névoa)",
+        "name": "Mist Ball (Bola de Névoa)",
         "type": "Psíquico",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -4393,7 +4393,7 @@
     },
     {
         "id": 366,
-        "name": "Terrain (Campo Enevoado)",
+        "name": "Misty Terrain (Campo Enevoado)",
         "type": "Fada",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -4417,7 +4417,7 @@
     },
     {
         "id": 368,
-        "name": "Beam (Feixe Espectral)",
+        "name": "Moongeist Beam (Feixe Espectral)",
         "type": "Fantasma",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -4441,7 +4441,7 @@
     },
     {
         "id": 370,
-        "name": "Sun (Sol da Manhã)",
+        "name": "Morning Sun (Sol da Manhã)",
         "type": "Normal",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -4453,7 +4453,7 @@
     },
     {
         "id": 371,
-        "name": "Bomb (Bomba de Lama)",
+        "name": "Mud Bomb (Bomba de Lama)",
         "type": "Terra",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4465,7 +4465,7 @@
     },
     {
         "id": 372,
-        "name": "Shot (Tiro de Lama)",
+        "name": "Mud Shot (Tiro de Lama)",
         "type": "Terra",
         "move": "DES",
         "casting": "1 ação",
@@ -4477,7 +4477,7 @@
     },
     {
         "id": 373,
-        "name": "Sport (Campo de Lama)",
+        "name": "Mud Sport (Campo de Lama)",
         "type": "Terra",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -4489,7 +4489,7 @@
     },
     {
         "id": 374,
-        "name": "Slap (Ataque de Lama)",
+        "name": "Mud-Slap (Ataque de Lama)",
         "type": "Terra",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4501,7 +4501,7 @@
     },
     {
         "id": 375,
-        "name": "Water (Água Viscosa)",
+        "name": "Muddy Water (Água Viscosa)",
         "type": "Água",
         "move": "DES/CON",
         "casting": "1 ação",
@@ -4513,7 +4513,7 @@
     },
     {
         "id": 376,
-        "name": "Attack (Multi-Ataque)",
+        "name": "Multi-Attack (Multi-Ataque)",
         "type": "Variável",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4525,7 +4525,7 @@
     },
     {
         "id": 377,
-        "name": "Fire (Fogo Místico)",
+        "name": "Mystical Fire (Fogo Místico)",
         "type": "Fogo",
         "move": "DES",
         "casting": "1 ação",
@@ -4537,7 +4537,7 @@
     },
     {
         "id": 378,
-        "name": "Plot (Trama Maldosa)",
+        "name": "Nasty Plot (Trama Maldosa)",
         "type": "Sombrio",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -4549,31 +4549,31 @@
     },
     {
         "id": 379,
-        "name": "Gift (Presente Natural)",
+        "name": "Natural Gift (Presente Natural)",
         "type": "Variável",
         "move": "FOR/DES",
         "casting": "1 ação",
         "pp": 10,
         "duration": "Instantânea",
         "range": "40 pés (12 metros)",
-        "description": "Você absorve poder de sua berry segurada, liberando-o em um ataque à distância. Faça um ataque à distância, causando 1d12 + MOVE de dano em um acerto. O tipo depende da berry que você está segurando, de acordo com o gráfico abaixo: Tipo Berry Tipo Berry Normal Chilan Voador Lum, Coba Fogo Cherri, Occa Psíquico Sitrus, Payapa Água Chesto, Passho Inseto Tanga Elétrico Pecha, Waccan Pedra Charti Grama Rawst, Rindo Fantasma Kasib Gelo Aspear, Yache Dragão Haban Lutador Leppa, Chople Sombrio Colbur Venenoso Oran, Kebia Aço Babiri, Razz Terra Persim, Shucca Fada Roseli",
+        "description": "Você absorve poder de sua berry segurada, liberando-o em um ataque à distância. Faça um ataque à distância, causando 1d12 + MOVE de dano em um acerto. O tipo depende da berry que você está segurando, de acordo com o gráfico abaixo: Normal= Chilan; Voador= Lum, Coba; Fogo= Cherri, Occa; Psíquico= Sitrus, Payapa; Água= Chesto, Passho; Inseto= Tanga; Elétrico= Pecha, Waccan; Pedra= Charti; Grama= Rawst, Rindo; Fantasma= Kasib; Gelo= Aspear, Yache; Dragão= Haban; Lutador= Leppa, Chople; Sombrio= Colbur; Venenoso= Oran, Kebia; Aço= Babiri, Razz; Terra= Persim, Shucca; Fada= Roseli",
         "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 2d12 no nível 10 e 6d6 no nível 17."
     },
     {
         "id": 380,
-        "name": "Power (Poder da Natureza)",
+        "name": "Nature Power (Poder da Natureza)",
         "type": "Normal",
         "move": "Variável",
         "casting": "1 ação",
         "pp": 10,
         "duration": "Variável",
         "range": "Variável",
-        "description": "Você invoca os poderes da natureza próxima e ativa um Move com base no terreno. O Mestre decide qual Move você ativa, mas aqui estão exemplos de tipos de terreno: Terreno Move Cidades/Estradas/Construções Swift Áreas arenosas Earthquake Vulcões/Áreas de lava Fire Blast Cavernas, Áreas escuras Shadow Ball Terreno rochoso, Montanhas Rock Slide Campos, Planícies Stun Spore Florestas, Campos de grama alta Razor Leaf Lagos/Pântanos Bubble Beam No mar Surf Subaquático Hydro Pump Neve Blizzard",
+        "description": "Você invoca os poderes da natureza próxima e ativa um Move com base no terreno. O Mestre decide qual Move você ativa, mas aqui estão exemplos de tipos de terreno: Cidades/Estradas/Construções → Swift; Áreas arenosas → Earthquake; Vulcões/Áreas de lava → Fire Blast; Cavernas, Áreas escuras → Shadow Ball; Terreno rochoso, Montanhas → Rock Slide; Campos, Planícies → Stun Spore; Florestas, Campos de grama alta → Razor Leaf; Lagos/Pântanos → Bubble Beam; No mar → Surf; Subaquático → Hydro Pump; Neve → Blizzard",
         "highLevel": ""
     },
     {
         "id": 381,
-        "name": "Madness (Ira da Natureza)",
+        "name": "Nature's Madness (Ira da Natureza)",
         "type": "Fada",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -4585,7 +4585,7 @@
     },
     {
         "id": 382,
-        "name": "Arm (Braço de Agulha)",
+        "name": "Needle Arm (Braço de Agulha)",
         "type": "Grama",
         "move": "DES",
         "casting": "1 ação",
@@ -4597,7 +4597,7 @@
     },
     {
         "id": 383,
-        "name": "Daze (Ofuscamento Noturno)",
+        "name": "Night Daze (Ofuscamento Noturno)",
         "type": "Sombrio",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -4609,7 +4609,7 @@
     },
     {
         "id": 384,
-        "name": "Shade (Sombra Ofuscante)",
+        "name": "Night Shade (Sombra Ofuscante)",
         "type": "Fantasma",
         "move": "INT/SAB",
         "casting": "1 ação",
@@ -4621,7 +4621,7 @@
     },
     {
         "id": 385,
-        "name": "Slash (Corte Noturno)",
+        "name": "Night Slash (Corte Noturno)",
         "type": "Sombrio",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4645,7 +4645,7 @@
     },
     {
         "id": 387,
-        "name": "Roar (Rugido Nobre)",
+        "name": "Noble Roar (Rugido Nobre)",
         "type": "Normal",
         "move": "FOR/CAR",
         "casting": "1 reação",
@@ -4669,7 +4669,7 @@
     },
     {
         "id": 389,
-        "name": "Wing (Asa do Esquecimento)",
+        "name": "Oblivion Wing (Asa do Esquecimento)",
         "type": "Voador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4693,7 +4693,7 @@
     },
     {
         "id": 391,
-        "name": "Sleuth (Rastrear Odor)",
+        "name": "Odor Sleuth (Rastrear Odor)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -4705,7 +4705,7 @@
     },
     {
         "id": 392,
-        "name": "Wind (Vento Nefasto)",
+        "name": "Ominous Wind (Vento Nefasto)",
         "type": "Fantasma",
         "move": "SAB/DES",
         "casting": "1 ação",
@@ -4717,7 +4717,7 @@
     },
     {
         "id": 393,
-        "name": "Pulse (Pulso Original)",
+        "name": "Origin Pulse (Pulso Original)",
         "type": "Água",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4753,7 +4753,7 @@
     },
     {
         "id": 396,
-        "name": "Split (Divisão de Dor)",
+        "name": "Pain Split (Divisão de Dor)",
         "type": "Normal",
         "move": "CON/CAR",
         "casting": "1 ação",
@@ -4765,7 +4765,7 @@
     },
     {
         "id": 397,
-        "name": "Charge (Ataque Parabólico)",
+        "name": "Parabolic Charge (Ataque Parabólico)",
         "type": "Elétrico",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4777,7 +4777,7 @@
     },
     {
         "id": 398,
-        "name": "Shot (Tiro Divisor)",
+        "name": "Parting Shot (Tiro Divisor)",
         "type": "Sombrio",
         "move": "CAR",
         "casting": "1 ação bônus",
@@ -4789,7 +4789,7 @@
     },
     {
         "id": 399,
-        "name": "Day (Dia do Pagamento)",
+        "name": "Pay Day (Dia do Pagamento)",
         "type": "Normal",
         "move": "FOR/DES/CAR",
         "casting": "1 ação",
@@ -4825,7 +4825,7 @@
     },
     {
         "id": 402,
-        "name": "Song (Canção do Perecer)",
+        "name": "Perish Song (Canção do Perecer)",
         "type": "Normal",
         "move": "CAR",
         "casting": "1 ação",
@@ -4837,7 +4837,7 @@
     },
     {
         "id": 403,
-        "name": "Blizzard (Nevasca de Pétalas)",
+        "name": "Petal Blizzard (Nevasca de Pétalas)",
         "type": "Grama",
         "move": "DES",
         "casting": "1 ação",
@@ -4849,7 +4849,7 @@
     },
     {
         "id": 404,
-        "name": "Dance (Dança das Pétalas)",
+        "name": "Petal Dance (Dança das Pétalas)",
         "type": "Grama",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -4861,7 +4861,7 @@
     },
     {
         "id": 405,
-        "name": "Force (Golpe Fantasma)",
+        "name": "Phantom Force (Golpe Fantasma)",
         "type": "Fantasma",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -4873,7 +4873,7 @@
     },
     {
         "id": 406,
-        "name": "Geyser (Gêiser de Fótons)",
+        "name": "Phonton Geyser (Gêiser de Fótons)",
         "type": "Psíquico",
         "move": "FOR/SAB",
         "casting": "1 ação",
@@ -4885,7 +4885,7 @@
     },
     {
         "id": 407,
-        "name": "Missile (Míssil de Espinhos)",
+        "name": "Pin Missile (Míssil de Espinhos)",
         "type": "Inseto",
         "move": "DES",
         "casting": "1 ação",
@@ -4897,7 +4897,7 @@
     },
     {
         "id": 408,
-        "name": "Fists (Punhos de Plasma)",
+        "name": "Plasma Fists (Punhos de Plasma)",
         "type": "Elétrico",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4909,7 +4909,7 @@
     },
     {
         "id": 409,
-        "name": "Nice (Jogo Limpo)",
+        "name": "Play Nice (Jogo Limpo)",
         "type": "Normal",
         "move": "CAR",
         "casting": "1 ação",
@@ -4921,7 +4921,7 @@
     },
     {
         "id": 410,
-        "name": "Rough (Jogo Duro)",
+        "name": "Play Rough (Jogo Duro)",
         "type": "Fada",
         "move": "FOR/DES/CAR",
         "casting": "1 ação",
@@ -4945,7 +4945,7 @@
     },
     {
         "id": 412,
-        "name": "Fang (Presa Venenosa)",
+        "name": "Poison Fang (Presa Venenosa)",
         "type": "Venenoso",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4957,7 +4957,7 @@
     },
     {
         "id": 413,
-        "name": "Gas (Gás Venenoso)",
+        "name": "Poison Gas (Gás Venenoso)",
         "type": "Venenoso",
         "move": "CON",
         "casting": "1 ação",
@@ -4969,7 +4969,7 @@
     },
     {
         "id": 414,
-        "name": "Jab (Golpe Envenenado)",
+        "name": "Poison Jab (Golpe Envenenado)",
         "type": "Venenoso",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -4981,7 +4981,7 @@
     },
     {
         "id": 415,
-        "name": "Powder (Pó Venenoso)",
+        "name": "Poison Powder (Pó Venenoso)",
         "type": "Venenoso",
         "move": "CON",
         "casting": "1 ação",
@@ -4993,7 +4993,7 @@
     },
     {
         "id": 416,
-        "name": "Sting (Picada Venenosa)",
+        "name": "Poison Sting (Picada Venenosa)",
         "type": "Venenoso",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -5005,7 +5005,7 @@
     },
     {
         "id": 417,
-        "name": "Tail (Cauda Venenosa)",
+        "name": "Poison Tail (Cauda Venenosa)",
         "type": "Venenoso",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -5017,7 +5017,7 @@
     },
     {
         "id": 418,
-        "name": "Puff (Bola de Pólen)",
+        "name": "Pollen Puff (Bola de Pólen)",
         "type": "Inseto",
         "move": "DES/CON",
         "casting": "1 ação",
@@ -5053,7 +5053,7 @@
     },
     {
         "id": 421,
-        "name": "Snow (Pó de Neve)",
+        "name": "Powder Snow (Pó de Neve)",
         "type": "Gelo",
         "move": "DES",
         "casting": "1 ação",
@@ -5065,7 +5065,7 @@
     },
     {
         "id": 422,
-        "name": "Gem (Joia do Poder)",
+        "name": "Power Gem (Joia do Poder)",
         "type": "Pedra",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -5077,7 +5077,7 @@
     },
     {
         "id": 423,
-        "name": "Split (Divisão do Poder)",
+        "name": "Power Split (Divisão do Poder)",
         "type": "Psíquico",
         "move": "INT/SAB",
         "casting": "1 ação",
@@ -5089,7 +5089,7 @@
     },
     {
         "id": 424,
-        "name": "Swap (Troca de Poderes)",
+        "name": "Power Swap (Troca de Poderes)",
         "type": "Psíquico",
         "move": "INT/SAB",
         "casting": "1 ação bônus",
@@ -5101,7 +5101,7 @@
     },
     {
         "id": 425,
-        "name": "Trick (Truque da Troca)",
+        "name": "Power Trick (Truque da Troca)",
         "type": "Psíquico",
         "move": "Nenhum",
         "casting": "1 ação bônus",
@@ -5113,7 +5113,7 @@
     },
     {
         "id": 426,
-        "name": "Trip (Topada de Poder)",
+        "name": "Power Trip (Topada de Poder)",
         "type": "Sombrio",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -5125,7 +5125,7 @@
     },
     {
         "id": 427,
-        "name": "Whip (Chicote Poderoso)",
+        "name": "Power Whip (Chicote Poderoso)",
         "type": "Grama",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -5137,7 +5137,7 @@
     },
     {
         "id": 428,
-        "name": "Punch (Soco Empoderador)",
+        "name": "Power-Up Punch (Soco Empoderador)",
         "type": "Lutador",
         "move": "FOR",
         "casting": "1 ação",
@@ -5149,7 +5149,7 @@
     },
     {
         "id": 429,
-        "name": "Blades (Lâmina Abissal)",
+        "name": "Precipice Blades (Lâmina Abissal)",
         "type": "Terra",
         "move": "FOR",
         "casting": "1 ação",
@@ -5173,7 +5173,7 @@
     },
     {
         "id": 431,
-        "name": "Laser (Laser Prismático)",
+        "name": "Prismatic Laser (Laser Prismático)",
         "type": "Psíquico",
         "move": "DES/SAB",
         "casting": "1 ação, recarga",
@@ -5209,7 +5209,7 @@
     },
     {
         "id": 434,
-        "name": "Up (Carga Psíquica)",
+        "name": "Psych Up (Carga Psíquica)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -5233,7 +5233,7 @@
     },
     {
         "id": 436,
-        "name": "Fangs (Caninos Psíquicos)",
+        "name": "Psychic Fangs (Caninos Psíquicos)",
         "type": "Psíquico",
         "move": "FOR/SAB",
         "casting": "1 ação",
@@ -5245,7 +5245,7 @@
     },
     {
         "id": 437,
-        "name": "Terrain (Terreno Psíquico)",
+        "name": "Psychic Terrain (Terreno Psíquico)",
         "type": "Psíquico",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -5257,7 +5257,7 @@
     },
     {
         "id": 438,
-        "name": "Boost (Impulso Psíquico)",
+        "name": "Psycho Boost (Impulso Psíquico)",
         "type": "Psíquico",
         "move": "INT/SAB",
         "casting": "1 ação",
@@ -5269,7 +5269,7 @@
     },
     {
         "id": 439,
-        "name": "Cut (Corte Psíquico)",
+        "name": "Psycho Cut (Corte Psíquico)",
         "type": "Psíquico",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -5281,7 +5281,7 @@
     },
     {
         "id": 440,
-        "name": "Shift (Mudança Psíquica)",
+        "name": "Psycho Shift (Mudança Psíquica)",
         "type": "Psíquico",
         "move": "INT/SAB",
         "casting": "1 ação",
@@ -5377,7 +5377,7 @@
     },
     {
         "id": 448,
-        "name": "Attack (Ataque Rápido)",
+        "name": "Quick Attack (Ataque Rápido)",
         "type": "Normal",
         "move": "DES",
         "casting": "1 ação bônus",
@@ -5389,7 +5389,7 @@
     },
     {
         "id": 449,
-        "name": "Guard (Prevenção)",
+        "name": "Quick Guard (Prevenção)",
         "type": "Lutador",
         "move": "Nenhum",
         "casting": "1 reação",
@@ -5401,7 +5401,7 @@
     },
     {
         "id": 450,
-        "name": "Dance (Dança Vibratória)",
+        "name": "Quick Dance (Dança Vibratória)",
         "type": "Inseto",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -5425,7 +5425,7 @@
     },
     {
         "id": 452,
-        "name": "Powder (Pó da Fúria)",
+        "name": "Rage Powder (Pó da Fúria)",
         "type": "Inseto",
         "move": "CON/CAR",
         "casting": "1 ação",
@@ -5437,7 +5437,7 @@
     },
     {
         "id": 453,
-        "name": "Dance (Dança da Chuva)",
+        "name": "Rain Dance (Dança da Chuva)",
         "type": "Água",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -5449,7 +5449,7 @@
     },
     {
         "id": 454,
-        "name": "Spin (Giro Rápido)",
+        "name": "Rapid Spin (Giro Rápido)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -5461,7 +5461,7 @@
     },
     {
         "id": 455,
-        "name": "Leaf (Folha Navalha)",
+        "name": "Razor Leaf (Folha Navalha)",
         "type": "Grama",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -5473,7 +5473,7 @@
     },
     {
         "id": 456,
-        "name": "Shell (Concha Navalha)",
+        "name": "Razor Shell (Concha Navalha)",
         "type": "Água",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -5485,7 +5485,7 @@
     },
     {
         "id": 457,
-        "name": "Wind (Lâmina de Vento)",
+        "name": "Razor Wind (Lâmina de Vento)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação, carga",
@@ -5533,7 +5533,7 @@
     },
     {
         "id": 461,
-        "name": "Type (Refletir Tipo)",
+        "name": "Reflect Type (Refletir Tipo)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -5557,7 +5557,7 @@
     },
     {
         "id": 463,
-        "name": "Song (Canção da Relíquia)",
+        "name": "Relic Song (Canção da Relíquia)",
         "type": "Normal",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -5605,14 +5605,14 @@
     },
     {
         "id": 467,
-        "name": "Dance (Dança Reveladora)",
+        "name": "Revelation Dance (Dança Reveladora)",
         "type": "Normal",
         "move": "DES/CAR",
         "casting": "1 ação",
         "pp": 10,
         "duration": "Instantânea",
         "range": "Corpo a corpo",
-        "description": "Você ataca um alvo com uma dança agressiva. Faça um ataque corpo a corpo, causando 2d8 + MOVE de dano em um acerto. Revelation Dance causa dano com um tipo diferente dependendo do estilo de Oricorio: Estilo Tipo de Dano Estilo Baile Fogo Estilo Pom-Pom Elétrico Estilo Pa’u Psíquico Estilo Sensu Fantasma",
+        "description": "Você ataca um alvo com uma dança agressiva. Faça um ataque corpo a corpo, causando 2d8 + MOVE de dano em um acerto. Revelation Dance causa dano com um tipo diferente dependendo do estilo de Oricorio: Estilo Baile → Fogo; Estilo Pom-Pom → Elétrico; Estilo Pa’u → Psíquico; Estilo Sensu → Fantasma",
         "highLevel": "O dado de dano para este Move muda para 2d10 no nível 5, 3d10 no nível 10 e 4d12 no nível 17."
     },
     {
@@ -5653,7 +5653,7 @@
     },
     {
         "id": 471,
-        "name": "Time (Rugido do Tempo)",
+        "name": "Roar of Time (Rugido do Tempo)",
         "type": "Dragão",
         "move": "FOR/SAB",
         "casting": "1 ação, recarga",
@@ -5665,7 +5665,7 @@
     },
     {
         "id": 472,
-        "name": "Blast (Explosão de Rocha)",
+        "name": "Rock Blast (Explosão de Rocha)",
         "type": "Pedra",
         "move": "FOR",
         "casting": "1 ação",
@@ -5677,7 +5677,7 @@
     },
     {
         "id": 473,
-        "name": "Climb (Escalada)",
+        "name": "Rock Climb (Escalada)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação",
@@ -5689,7 +5689,7 @@
     },
     {
         "id": 474,
-        "name": "Polish (Rocha Polida)",
+        "name": "Rock Polish (Rocha Polida)",
         "type": "Pedra",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -5701,7 +5701,7 @@
     },
     {
         "id": 475,
-        "name": "Slide (Deslizamento de Rochas)",
+        "name": "Rock Slide (Deslizamento de Rochas)",
         "type": "Pedra",
         "move": "FOR",
         "casting": "1 ação",
@@ -5713,7 +5713,7 @@
     },
     {
         "id": 476,
-        "name": "Smash (Esmagamento de Rochas)",
+        "name": "Rock Smash (Esmagamento de Rochas)",
         "type": "Lutador",
         "move": "FOR",
         "casting": "1 ação",
@@ -5725,7 +5725,7 @@
     },
     {
         "id": 477,
-        "name": "Throw (Arremesso de Pedras)",
+        "name": "Rock Throw (Arremesso de Pedras)",
         "type": "Pedra",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -5737,7 +5737,7 @@
     },
     {
         "id": 478,
-        "name": "Tomb (Tumba de Pedra)",
+        "name": "Rock Tomb (Tumba de Pedra)",
         "type": "Pedra",
         "move": "FOR",
         "casting": "1 ação",
@@ -5749,7 +5749,7 @@
     },
     {
         "id": 479,
-        "name": "Wrecker (Demolidor de Pedras)",
+        "name": "Rock Wrecker (Demolidor de Pedras)",
         "type": "Pedra",
         "move": "FOR",
         "casting": "1 ação, recarga",
@@ -5761,7 +5761,7 @@
     },
     {
         "id": 480,
-        "name": "Play (Jogo Teatral)",
+        "name": "Role Play (Jogo Teatral)",
         "type": "Psíquico",
         "move": "SAB",
         "casting": "1 ação",
@@ -5773,7 +5773,7 @@
     },
     {
         "id": 481,
-        "name": "Kick (Chute Giratório)",
+        "name": "Rolling Kick (Chute Giratório)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -5833,7 +5833,7 @@
     },
     {
         "id": 486,
-        "name": "Fire (Fogo Sagrado)",
+        "name": "Sacred Fire (Fogo Sagrado)",
         "type": "Fogo",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -5845,7 +5845,7 @@
     },
     {
         "id": 487,
-        "name": "Sword (Espada Sagrada)",
+        "name": "Sacred Sword (Espada Sagrada)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -5869,7 +5869,7 @@
     },
     {
         "id": 489,
-        "name": "Attack (Ataque de Areia)",
+        "name": "Sand Attack (Ataque de Areia)",
         "type": "Terra",
         "move": "DES/CON",
         "casting": "1 ação",
@@ -5881,7 +5881,7 @@
     },
     {
         "id": 490,
-        "name": "Tomb (Tumba de Areia)",
+        "name": "Sand Tomb (Tumba de Areia)",
         "type": "Terra",
         "move": "FOR",
         "casting": "1 ação",
@@ -5917,7 +5917,7 @@
     },
     {
         "id": 493,
-        "name": "Face (Cara Assustadora)",
+        "name": "Scary Face (Cara Assustadora)",
         "type": "Normal",
         "move": "FOR/CAR",
         "casting": "1 ação",
@@ -5953,7 +5953,7 @@
     },
     {
         "id": 496,
-        "name": "Shot (Tiro Secante)",
+        "name": "Searing Shot (Tiro Secante)",
         "type": "Fogo",
         "move": "DES",
         "casting": "1 ação",
@@ -5965,19 +5965,19 @@
     },
     {
         "id": 497,
-        "name": "Power (Poder Secreto)",
+        "name": "Secret Power (Poder Secreto)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
         "pp": 10,
         "duration": "Instantânea",
         "range": "Corpo a corpo",
-        "description": "Você atinge um alvo com poder desconhecido. Faça um rolagem de ataque corpo a corpo contra uma criatura, causando 1d12 + MOVE de dano normal em um acerto. Em uma rolagem de ataque natural de 15 ou mais, role um d6 e cause o efeito aleatório.  d6 Efeito 1 Envenenado 2 Queimado 3 Confuso 4 Congelado 5 Paralisado 6 Dormindo",
+        "description": "Você atinge um alvo com poder desconhecido. Faça um rolagem de ataque corpo a corpo contra uma criatura, causando 1d12 + MOVE de dano normal em um acerto. Em uma rolagem de ataque natural de 15 ou mais, role um d6 e cause o efeito aleatório.  1 → Envenenado; 2 → Queimado; 3 → Confuso; 4 → Congelado; 5 → Paralisado; 6 → Dormindo",
         "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 2d12 no nível 10 e 6d6 no nível 17."
     },
     {
         "id": 498,
-        "name": "Sword (Espada Secreta)",
+        "name": "Secret Sword (Espada Secreta)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -5989,7 +5989,7 @@
     },
     {
         "id": 499,
-        "name": "Bomb (Bomba de Sementes)",
+        "name": "Seed Bomb (Bomba de Sementes)",
         "type": "Grama",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -6001,7 +6001,7 @@
     },
     {
         "id": 500,
-        "name": "Flare (Semente Ofuscante)",
+        "name": "Seed Flare (Semente Ofuscante)",
         "type": "Grama",
         "move": "CON",
         "casting": "1 ação",
@@ -6013,7 +6013,7 @@
     },
     {
         "id": 501,
-        "name": "Toss (Arremesso Sísmico)",
+        "name": "Seismic Toss (Arremesso Sísmico)",
         "type": "Lutador",
         "move": "FOR",
         "casting": "1 ação",
@@ -6025,7 +6025,7 @@
     },
     {
         "id": 502,
-        "name": "Destruct (Autodestruição)",
+        "name": "Self-Destruct (Autodestruição)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação",
@@ -6037,7 +6037,7 @@
     },
     {
         "id": 503,
-        "name": "Ball (Bola Sombria)",
+        "name": "Shadow Ball (Bola Sombria)",
         "type": "Fantasma",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -6049,7 +6049,7 @@
     },
     {
         "id": 504,
-        "name": "Bone (Osso Sombrio)",
+        "name": "Shedow Bone (Osso Sombrio)",
         "type": "Fantasma",
         "move": "FOR/SAB",
         "casting": "1 ação",
@@ -6061,7 +6061,7 @@
     },
     {
         "id": 505,
-        "name": "Claw (Garra Sombria)",
+        "name": "Shadow Claw (Garra Sombria)",
         "type": "Fantasma",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -6073,7 +6073,7 @@
     },
     {
         "id": 506,
-        "name": "Force (Força Sombria)",
+        "name": "shadow Force (Força Sombria)",
         "type": "Fantasma",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -6085,7 +6085,7 @@
     },
     {
         "id": 507,
-        "name": "Punch (Soco Sombrio)",
+        "name": "Shadow Punch (Soco Sombrio)",
         "type": "Fantasma",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -6097,7 +6097,7 @@
     },
     {
         "id": 508,
-        "name": "Sneak (Furtividade nas Sombras)",
+        "name": "Shedow Sneak (Furtividade nas Sombras)",
         "type": "Fantasma",
         "move": "DES/SAB",
         "casting": "1 ação bônus",
@@ -6121,7 +6121,7 @@
     },
     {
         "id": 510,
-        "name": "Cold (Frio Extremo)",
+        "name": "Sheer Cold (Frio Extremo)",
         "type": "Gelo",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -6133,7 +6133,7 @@
     },
     {
         "id": 511,
-        "name": "Smash (Quebra-Concha)",
+        "name": "Shell Smash (Quebra-Concha)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -6145,7 +6145,7 @@
     },
     {
         "id": 512,
-        "name": "Trap (Armadilha de Carapaça)",
+        "name": "Shell Trap (Armadilha de Carapaça)",
         "type": "Fogo",
         "move": "FOR/DES",
         "casting": "1 ação bônus",
@@ -6157,7 +6157,7 @@
     },
     {
         "id": 513,
-        "name": "Gear (Troca de Marcha)",
+        "name": "Shift Gear (Troca de Marcha)",
         "type": "Aço",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -6169,7 +6169,7 @@
     },
     {
         "id": 514,
-        "name": "Wave (Onda de Choque)",
+        "name": "Shock Wave (Onda de Choque)",
         "type": "Elétrico",
         "move": "DES",
         "casting": "1 ação",
@@ -6181,7 +6181,7 @@
     },
     {
         "id": 515,
-        "name": "Up (Suporte)",
+        "name": "Shore Up (Suporte)",
         "type": "Terra",
         "move": "CON",
         "casting": "1 ação",
@@ -6193,7 +6193,7 @@
     },
     {
         "id": 516,
-        "name": "Beam (Raio Sinalizador)",
+        "name": "Signal Beam (Raio Sinalizador)",
         "type": "Inseto",
         "move": "DES",
         "casting": "1 ação",
@@ -6205,7 +6205,7 @@
     },
     {
         "id": 517,
-        "name": "Wind (Vento de Prata)",
+        "name": "Silve Wind (Vento de Prata)",
         "type": "Inseto",
         "move": "DES",
         "casting": "1 ação",
@@ -6217,7 +6217,7 @@
     },
     {
         "id": 518,
-        "name": "Beam (Raio Simplificador)",
+        "name": "Simple Beam (Raio Simplificador)",
         "type": "Normal",
         "move": "INT/SAB",
         "casting": "1 ação",
@@ -6253,7 +6253,7 @@
     },
     {
         "id": 521,
-        "name": "Swap (Troca de Habilidade)",
+        "name": "Skill Swap (Troca de Habilidade)",
         "type": "Psíquico",
         "move": "SAB",
         "casting": "1 ação",
@@ -6265,7 +6265,7 @@
     },
     {
         "id": 522,
-        "name": "Bash (Quebra-Crânio)",
+        "name": "Skull Bash (Quebra-Crânio)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação, carga",
@@ -6277,7 +6277,7 @@
     },
     {
         "id": 523,
-        "name": "Attack (Ataque do Céu)",
+        "name": "Sky Attack (Ataque do Céu)",
         "type": "Voador",
         "move": "FOR/DES",
         "casting": "1 ação, carga",
@@ -6289,7 +6289,7 @@
     },
     {
         "id": 524,
-        "name": "Drop (Queda Livre)",
+        "name": "Sky Drop (Queda Livre)",
         "type": "Voador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -6301,7 +6301,7 @@
     },
     {
         "id": 525,
-        "name": "Uppercut (Soco no céu)",
+        "name": "Sky Uppercut (Soco no céu)",
         "type": "Lutador",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -6313,7 +6313,7 @@
     },
     {
         "id": 526,
-        "name": "Off (Relaxar)",
+        "name": "Slack Off (Relaxar)",
         "type": "Normal",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -6349,7 +6349,7 @@
     },
     {
         "id": 529,
-        "name": "Powder (Pó do Sono)",
+        "name": "Sleep Powder (Pó do Sono)",
         "type": "Grama",
         "move": "CON",
         "casting": "1 ação",
@@ -6361,7 +6361,7 @@
     },
     {
         "id": 530,
-        "name": "Talk (Ataque Sonâmbulo)",
+        "name": "Sleep Talk (Ataque Sonâmbulo)",
         "type": "Normal",
         "move": "Variável",
         "casting": "1 ação",
@@ -6385,7 +6385,7 @@
     },
     {
         "id": 532,
-        "name": "Bomb (Bomba de Lodo)",
+        "name": "Sludge Bomb (Bomba de Lodo)",
         "type": "Venenoso",
         "move": "DES/CON",
         "casting": "1 ação",
@@ -6397,7 +6397,7 @@
     },
     {
         "id": 533,
-        "name": "Wave (Onda de Lama)",
+        "name": "Sludge Wave (Onda de Lama)",
         "type": "Venenoso",
         "move": "DES/CON",
         "casting": "1 ação",
@@ -6409,7 +6409,7 @@
     },
     {
         "id": 534,
-        "name": "Down (Derrubada)",
+        "name": "Smack Down (Derrubada)",
         "type": "Pedra",
         "move": "FOR",
         "casting": "1 ação",
@@ -6421,7 +6421,7 @@
     },
     {
         "id": 535,
-        "name": "Strike (Strike Esperto)",
+        "name": "Smart Strike (Strike Esperto)",
         "type": "Aço",
         "move": "FOR/INT",
         "casting": "1 ação",
@@ -6433,7 +6433,7 @@
     },
     {
         "id": 536,
-        "name": "Salts (Estímulo)",
+        "name": "Smelling Salts (Estímulo)",
         "type": "Normal",
         "move": "CON",
         "casting": "1 ação",
@@ -6517,7 +6517,7 @@
     },
     {
         "id": 543,
-        "name": "Boiled (Ovo de Cura)",
+        "name": "Soft-Boiled (Ovo de Cura)",
         "type": "Normal",
         "move": "CON/CAR",
         "casting": "1 ação",
@@ -6529,7 +6529,7 @@
     },
     {
         "id": 544,
-        "name": "Beam (Raio Solar)",
+        "name": "Solar Beam (Raio Solar)",
         "type": "Grama",
         "move": "FOR/DES",
         "casting": "1 ação, carga",
@@ -6541,7 +6541,7 @@
     },
     {
         "id": 545,
-        "name": "Blade (Lâmina Solar)",
+        "name": "Solar Blade (Lâmina Solar)",
         "type": "Grama",
         "move": "FOR/DES",
         "casting": "1 ação, carga",
@@ -6553,7 +6553,7 @@
     },
     {
         "id": 546,
-        "name": "Boom (Explosão Sônica)",
+        "name": "Sonic Boom (Explosão Sônica)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -6565,7 +6565,7 @@
     },
     {
         "id": 547,
-        "name": "Rend (Laceração Espacial)",
+        "name": "Spacial Rend (Laceração Espacial)",
         "type": "Dragão",
         "move": "FOR/SAB",
         "casting": "1 ação",
@@ -6589,7 +6589,7 @@
     },
     {
         "id": 549,
-        "name": "Aria (Ária Cintilante)",
+        "name": "Sparkling Aria (Ária Cintilante)",
         "type": "Água",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -6601,7 +6601,7 @@
     },
     {
         "id": 550,
-        "name": "Thief (Ladrão Espectral)",
+        "name": "Spectral Thief (Ladrão Espectral)",
         "type": "Fantasma",
         "move": "FOR/SAB",
         "casting": "1 ação",
@@ -6613,7 +6613,7 @@
     },
     {
         "id": 551,
-        "name": "Swap (Troca de Velocidade)",
+        "name": "Speed Swap (Troca de Velocidade)",
         "type": "Psíquico",
         "move": "INT/SAB",
         "casting": "1 ação",
@@ -6625,7 +6625,7 @@
     },
     {
         "id": 552,
-        "name": "Web (Teia de Aranha)",
+        "name": "Spider Web (Teia de Aranha)",
         "type": "Inseto",
         "move": "DES",
         "casting": "1 ação",
@@ -6637,7 +6637,7 @@
     },
     {
         "id": 553,
-        "name": "Cannon (Canhão de Espinhos)",
+        "name": "Spike Cannon (Canhão de Espinhos)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -6661,7 +6661,7 @@
     },
     {
         "id": 555,
-        "name": "Shield (Escudo Espinhoso)",
+        "name": "Spiky Shield (Escudo Espinhoso)",
         "type": "Grama",
         "move": "Nenhum",
         "casting": "1 reação",
@@ -6673,7 +6673,7 @@
     },
     {
         "id": 556,
-        "name": "Shackle (Manilha Sombria)",
+        "name": "Spirit Shackle (Manilha Sombria)",
         "type": "Fantasma",
         "move": "DES/CAR",
         "casting": "1 ação",
@@ -6685,7 +6685,7 @@
     },
     {
         "id": 557,
-        "name": "Up (Liberação)",
+        "name": "Spit Up (Liberação)",
         "type": "Normal",
         "move": "CON/DES",
         "casting": "1 ação",
@@ -6745,7 +6745,7 @@
     },
     {
         "id": 562,
-        "name": "Rock (Pedra Oculta)",
+        "name": "Stealth Rock (Pedra Oculta)",
         "type": "Pedra",
         "move": "FOR/DES",
         "casting": "1 reação",
@@ -6757,7 +6757,7 @@
     },
     {
         "id": 563,
-        "name": "Eruption (Erupção de Vapor)",
+        "name": "Steam Eruption (Erupção de Vapor)",
         "type": "Água",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -6781,7 +6781,7 @@
     },
     {
         "id": 565,
-        "name": "Wing (Asa de Aço)",
+        "name": "Steel Wing (Asa de Aço)",
         "type": "Aço",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -6793,7 +6793,7 @@
     },
     {
         "id": 566,
-        "name": "Web (Teia Pegajosa)",
+        "name": "Sticky Web (Teia Pegajosa)",
         "type": "Inseto",
         "move": "DES",
         "casting": "1 reação",
@@ -6829,7 +6829,7 @@
     },
     {
         "id": 569,
-        "name": "Tantrum (Pisoteada de Birra)",
+        "name": "Stomping Tantrum (Pisoteada de Birra)",
         "type": "Terra",
         "move": "FOR",
         "casting": "1 ação",
@@ -6841,7 +6841,7 @@
     },
     {
         "id": 570,
-        "name": "Edge (Gume de Pedra)",
+        "name": "Stone Edge (Gume de Pedra)",
         "type": "Pedra",
         "move": "FOR",
         "casting": "1 ação",
@@ -6853,7 +6853,7 @@
     },
     {
         "id": 571,
-        "name": "Power (Poder Armazenado)",
+        "name": "Stored Power (Poder Armazenado)",
         "type": "Psíquico",
         "move": "FOR/SAB",
         "casting": "1 ação",
@@ -6865,7 +6865,7 @@
     },
     {
         "id": 572,
-        "name": "Throw (Lançamento de Tempestade)",
+        "name": "Storm Throw (Lançamento de Tempestade)",
         "type": "Lutador",
         "move": "FOR",
         "casting": "1 ação",
@@ -6889,7 +6889,7 @@
     },
     {
         "id": 574,
-        "name": "Sap (Seiva Forte)",
+        "name": "Strength Sap (Seiva Forte)",
         "type": "Grama",
         "move": "CON",
         "casting": "1 reação",
@@ -6901,7 +6901,7 @@
     },
     {
         "id": 575,
-        "name": "Shot (Jato de Seda)",
+        "name": "String Shot (Jato de Seda)",
         "type": "Inseto",
         "move": "DES",
         "casting": "1 ação",
@@ -6925,7 +6925,7 @@
     },
     {
         "id": 577,
-        "name": "Bug (Ira de Inseto)",
+        "name": "Struggle Bug (Ira de Inseto)",
         "type": "Inseto",
         "move": "FOR/DES",
         "casting": "1 reação",
@@ -6937,7 +6937,7 @@
     },
     {
         "id": 578,
-        "name": "Spore (Esporos Atordoantes)",
+        "name": "Stun Spore (Esporos Atordoantes)",
         "type": "Grama",
         "move": "CON",
         "casting": "1 reação",
@@ -6973,7 +6973,7 @@
     },
     {
         "id": 581,
-        "name": "Punch (Soco Surpresa)",
+        "name": "Sucker Punch (Soco Surpresa)",
         "type": "Sombrio",
         "move": "FOR/DES",
         "casting": "1 reação",
@@ -6985,7 +6985,7 @@
     },
     {
         "id": 582,
-        "name": "Day (Dia Ensolarado)",
+        "name": "Sunny Day (Dia Ensolarado)",
         "type": "Fogo",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -6997,7 +6997,7 @@
     },
     {
         "id": 583,
-        "name": "Strike (Ataque Solaraço)",
+        "name": "Sunsteel Strike (Ataque Solaraço)",
         "type": "Aço",
         "move": "FOR",
         "casting": "1 ação",
@@ -7009,7 +7009,7 @@
     },
     {
         "id": 584,
-        "name": "Fang (Super Presa)",
+        "name": "Super Fang (Super Presa)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação",
@@ -7081,7 +7081,7 @@
     },
     {
         "id": 590,
-        "name": "Kiss (Beijo Doce)",
+        "name": "Sweet Kiss (Beijo Doce)",
         "type": "Fada",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -7093,7 +7093,7 @@
     },
     {
         "id": 591,
-        "name": "Scent (Aroma Doce)",
+        "name": "Sweet Scent (Aroma Doce)",
         "type": "Normal",
         "move": "CON/CAR",
         "casting": "1 ação",
@@ -7129,7 +7129,7 @@
     },
     {
         "id": 594,
-        "name": "Dance (Dança das Espadas)",
+        "name": "Swords Dance (Dança das Espadas)",
         "type": "Normal",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -7177,7 +7177,7 @@
     },
     {
         "id": 598,
-        "name": "Glow (Brilho de Cauda)",
+        "name": "Tail Glow (Brilho de Cauda)",
         "type": "Inseto",
         "move": "Nenhum",
         "casting": "1 ação",
@@ -7189,7 +7189,7 @@
     },
     {
         "id": 599,
-        "name": "Slap (Tapa de Cauda)",
+        "name": "Tail Slap (Tapa de Cauda)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -7201,7 +7201,7 @@
     },
     {
         "id": 600,
-        "name": "Whip (Chicote de Cauda)",
+        "name": "Tail Whip (Chicote de Cauda)",
         "type": "Normal",
         "move": "CAR/DES",
         "casting": "1 ação",
@@ -7225,7 +7225,7 @@
     },
     {
         "id": 602,
-        "name": "Down (Desmantelar)",
+        "name": "Take Down (Desmantelar)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação",
@@ -7249,7 +7249,7 @@
     },
     {
         "id": 604,
-        "name": "Look (Olhar Choroso)",
+        "name": "Tearful Look (Olhar Choroso)",
         "type": "Normal",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -7261,7 +7261,7 @@
     },
     {
         "id": 605,
-        "name": "Blast (Explosão Técnica)",
+        "name": "Techno Blast (Explosão Técnica)",
         "type": "Normal",
         "move": "FOR/DES",
         "casting": "1 ação",
@@ -7273,7 +7273,7 @@
     },
     {
         "id": 606,
-        "name": "Dance (Dança da Confusão)",
+        "name": "Teeter Dance (Dança da Confusão)",
         "type": "Normal",
         "move": "SAB/CAR",
         "casting": "1 ação",
@@ -7321,7 +7321,7 @@
     },
     {
         "id": 610,
-        "name": "Arrows (Mil Flechas)",
+        "name": "Thousand Arrows (Mil Flechas)",
         "type": "Terra",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -7333,7 +7333,7 @@
     },
     {
         "id": 611,
-        "name": "Waves (Mil Ondas)",
+        "name": "Thousand Waves (Mil Ondas)",
         "type": "Terra",
         "move": "DES/SAB",
         "casting": "1 ação",
@@ -7355,32 +7355,704 @@
         "description": "Você se agita loucamente, fazendo vários ataques sem controle. Faça um teste de ataque corpo a corpo, causando 1d10 + MOVE de dano normal em um acerto. Depois de acertar um alvo com sucesso, role um d4. Em um resultado de 3 ou 4, você pode imediatamente fazer outro ataque adicional, causando 1d10 de dano normal. Continue este processo até falhar em rolar um 3 ou 4 no dado d4, até um máximo de dois ataques adicionais. No final deste ataque, você fica confuso.",
         "highLevel": "Os dados de dano para este Move mudam para 2d8 no nível 5, 2d10 no nível 10 e 4d6 no nível 17.  124"
     },
-    {
+        {
         "id": 613,
-        "name": "Out (Despedaçar)",
+        "name": "Throat Chop (Golpe Enfeitiçado)",
+        "type": "Sombrio",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você se concentra em um ataque na garganta do alvo. Faça um ataque corpo a corpo, causando 2d6 + MOVE de dano sombrio em um acerto. Ao acertar, o alvo não pode ativar ataques baseados em som por seus próximos 1d4 turnos.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 4d6 no nível 10 e 6d6 no nível 17."
+    },
+    {
+        "id": 614,
+        "name": "Thunder (Trovão)",
+        "type": "Elétrico",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "Instantânea",
+        "range": "Pessoal (raio de 20 pés / 6 metros)",
+        "description": "Descrição: Uma poderosa energia elétrica se arremessa para fora de você, atingindo qualquer criatura em um raio de 20 pés (6 metros), centrado em você. Criaturas pegas na área devem fazer um teste de resistência de DES contra sua CD de Move, sofrendo 3d6 + MOVE de dano elétrico em caso de falha, e metade disso em caso de sucesso. Criaturas que falharem na jogada de resistência por 5 ou mais ficam paralisadas. Criaturas no alcance que estão voando ou na fase invulnerável de Fly ou Bounce recebem o dobro do dano deste Move.",
+        "highLevel": "O dado de dano para este Move muda para 3d8 no nível 5, 6d6 no nível 10 e 7d8 no nível 17."
+    },
+    {
+        "id": 615,
+        "name": "Thunder Fang (Presa do Trovão)",
+        "type": "Elétrico",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você tenta perfurar uma criatura com presas elétricas. Faça um ataque corpo a corpo, causando 1d10 + MOVE de dano elétrico em um acerto. Em um resultado natural de ataque de 19 ou 20, o alvo fica paralisado e atordoado.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 5d4 no nível 10 e 4d8 no nível 17."
+    },
+    {
+        "id": 616,
+        "name": "Thunder Punch (Soco do Trovão)",
+        "type": "Elétrico",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Seus socos são imbuidos de energia elétrica. Faça um ataque corpo a corpo em um alvo, causando 1d12 + MOVE de dano elétrico em um acerto. Em um resultado natural de ataque de 19 ou 20, o alvo fica paralisado.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 2d12 no nível 10 e 6d6 no nível 17."
+    },
+    {
+        "id": 617,
+        "name": "Thunder Shock (Trovoada de Choques)",
+        "type": "Elétrico",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 15,
+        "duration": "Instantânea",
+        "range": "20 pés (6 metros)",
+        "description": "Descrição: Você entrega um choque elétrico a um alvo dentro do alcance. Faça um ataque à distância, causando 1d6 + MOVE de dano elétrico em um acerto.",
+        "highLevel": "O dado de dano para este Move muda para 1d12 no nível 5, 2d8 no nível 10 e 4d6 no nível 17."
+    },
+    {
+        "id": 618,
+        "name": "Thunder Wave (Onda de Trovão)",
+        "type": "Elétrico",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "60 pés (18 metros)",
+        "description": "Descrição: Você envia uma onda de energia elétrica que envolve uma criatura dentro do alcance. O alvo deve fazer um teste de resistência de CON contra sua CD de Move ou ficará paralisado.",
+        "highLevel": ""
+    },
+    {
+        "id": 619,
+        "name": "Thunderbolt (Choque do Trovão)",
+        "type": "Elétrico",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "60 pés (18 metros)",
+        "description": "Descrição: Você envia um poderoso raio de eletricidade a um alvo dentro do alcance. Faça um teste de ataque à distância, causando 2d8 + MOVE de dano elétrico em um acerto. Em um resultado natural de ataque de 19 ou 20, o alvo fica paralisado.",
+        "highLevel": "O dado de dano para este Move muda para 2d10 no nível 5, 3d10 no nível 10 e 4d12 no nível 17."
+    },
+    {
+        "id": 620,
+        "name": "Tickle (Cócegas)",
+        "type": "Normal",
+        "move": "DES",
+        "casting": "1 ação bônus",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você transforma seu ataque corpo a corpo em uma cócega divertida. Como uma ação bônus no final de um turno em que você usou um ataque corpo a corpo, force uma criatura a fazer um teste de resistência de CON contra sua CD de Move. Em caso de falha, o alvo recebe o status Atordoado.  118",
+        "highLevel": ""
+    },
+    {
+        "id": 621,
+        "name": "Topsy-Turvy (Reversão)",
+        "type": "Sombrio",
+        "move": "SAB",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "30 pés (9 metros)",
+        "description": "Descrição: Você libera uma energia sombria que tem o poder de reverter as mudanças de status de uma criatura. Force uma criatura dentro do alcance a fazer um teste de resistência de CAR contra sua CD de Move. Em caso de falha, quaisquer mudanças de status atualmente afetando o alvo têm o efeito oposto.",
+        "highLevel": ""
+    },
+    {
+        "id": 622,
+        "name": "Torment (Tormento)",
+        "type": "Sombrio",
+        "move": "FOR/DES",
+        "casting": "1 reação",
+        "pp": 3,
+        "duration": "Instantânea",
+        "range": "30 pés (9 metros)",
+        "description": "Descrição: Você envia uma energia sombria para atormentar uma criatura que o ataca. Quando atingido por um ataque corpo a corpo ou à distância, force o alvo a fazer um teste de resistência de SAB contra sua CD de Move. Em caso de falha, o alvo não pode usar o mesmo Move que o atingiu em seu próximo turno.",
+        "highLevel": ""
+    },
+    {
+        "id": 623,
+        "name": "Toxic (Tóxico)",
+        "type": "Venenoso",
+        "move": "CON",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "Instantânea",
+        "range": "30 pés (9 metros)",
+        "description": "Descrição: Você envia uma chuva potente e venenosa em um raio de 5 pés (1,5 metros), centrado em um ponto dentro do alcance. Alvos na área devem fazer um teste de resistência de CON contra sua CD de Move ou ficarão envenenados. Criaturas envenenadas por este Move sofrem o dobro do dano de veneno normal.",
+        "highLevel": ""
+    },
+    {
+        "id": 624,
+        "name": "Toxic Spikes (Espinhos Venenosos)",
+        "type": "Venenoso",
+        "move": "CON/DES",
+        "casting": "1 reação",
+        "pp": 3,
+        "duration": "Instantânea",
+        "range": "50 pés (15 metros)",
+        "description": "Descrição: Você rapidamente convoca uma armadilha de espinhos venenosos ao redor de uma criatura que entra na batalha. Quando uma criatura entra na batalha, você pode usar sua reação para forçar uma criatura a fazer um teste de resistência de CON contra sua CD de Move, ficando envenenada em caso de falha.",
+        "highLevel": ""
+    },
+    {
+        "id": 625,
+        "name": "Toxic Thread (Fio Tóxico)",
+        "type": "Venenoso",
+        "move": "DES",
+        "casting": "1 ação",
+        "pp": 15,
+        "duration": "Instantânea",
+        "range": "60 pés (18 metros)",
+        "description": "Descrição: Você dispara uma coleção de fios venenosos em uma criatura dentro do alcance. Faça um teste de ataque à distância contra um alvo, cobrindo-o com fios em um acerto. Desde que os fios entrem em contato com o alvo, ele fica envenenado e sua velocidade é reduzida em 10. Este Move é acumulável em qualquer quantidade, no entanto, o efeito de veneno não afeta o alvo mais de uma vez. Se essa redução de velocidade fizer com que a velocidade seja 0, o alvo fica impedido. O alvo pode usar uma ação para remover os fios de seu corpo, curando o status envenenado.",
+        "highLevel": ""
+    },
+    {
+        "id": 626,
+        "name": "Transform (Transformação)",
+        "type": "Normal",
+        "move": "Nenhum",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "1 minuto, Concentração",
+        "range": "50 pés (15 metros)",
+        "description": "Descrição: Você tenta se transformar em uma cópia quase exata de uma criatura dentro do alcance. O seu treinador deve ser capaz de controlar o SR base do alvo ou o Move falha. Durante a duração, você copia o tipo, os valores de habilidade, perícias, velocidades, sentidos, habilidades passivas e Moves atuais do alvo. Você retém seus próprios talentos, nível e PV (Mudanças de CON não afetam seu PV).",
+        "highLevel": ""
+    },
+    {
+        "id": 627,
+        "name": "Tri Attack (Ataque Triplo)",
+        "type": "Normal",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "Instantânea",
+        "range": "Pessoal (cone de 30 pés / 9 metros)",
+        "description": "Descrição: Você realiza um ataque de três feixes simultâneos. Cada criatura em um cone de 30 pés (9 metros), centrado em você, deve fazer um teste de DES contra sua CD de Move, sofrendo 2d6 + MOVE de dano normal em uma falha e metade disso em um sucesso. Alvos que falham no teste por 5 ou mais devem rolar um d4, ganhando a condição de status conforme a seguir: 1. O alvo fica queimado. 2. O alvo fica congelado. 3. O alvo fica paralisado. 4. Deve rerrolar até que um número diferente de 4 apareça.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 4d6 no nível 10 e 6d6 no nível 17."
+    },
+    {
+        "id": 628,
+        "name": "Trick (Truque)",
+        "type": "Psíquico",
+        "move": "SAB",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você se move rapidamente para tentar trocar itens segurados com uma criatura. Faça um ataque corpo a corpo contra uma criatura, trocando itens segurados com ela em um acerto.  119..........",
+        "highLevel": ""
+    },
+    {
+        "id": 629,
+        "name": "Trick Room (Truque de Agilidade)",
+        "type": "Psíquico",
+        "move": "Nenhum",
+        "casting": "1 ação",
+        "pp": 3,
+        "duration": "Instantânea",
+        "range": "Pessoal",
+        "description": "Descrição: O mundo ao seu redor parece girar por um momento, e toda a arena é atingida por uma sensação bizarra. A partir do início da próxima rodada de combate após você ativar este Move, a ordem de iniciativa é revertida permanentemente.",
+        "highLevel": ""
+    },
+    {
+        "id": 630,
+        "name": "Trick-or-Treat (Doces ou Travessuras)",
+        "type": "Fantasma",
+        "move": "SAB/CAR",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "3 rodadas",
+        "range": "30 pés (9 metros)",
+        "description": "Descrição: Você tenta assustar o espírito de uma criatura. Force uma criatura dentro do alcance a fazer um teste de resistência de CAR contra sua CD de Move. Em caso de falha, o tipo dela é alterado para Fantasma durante as próximas três rodadas dela em batalha.",
+        "highLevel": ""
+    },
+    {
+        "id": 631,
+        "name": "Triple Kick (Chute Triplo)",
+        "type": "Lutador",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você golpeia com três chutes consecutivos. Faça três rolagens de ataque corpo a corpo em ordem, causando 1d4 + MOVE de dano lutador em cada acerto. Assim que um ataque falhar, o Move termina.",
+        "highLevel": "O dado de dano para este Move muda para 1d6 no nível 5, 1d8 no nível 10 e 2d6 no nível 17."
+    },
+    {
+        "id": 632,
+        "name": "Trop Kick (Chute Tropical)",
+        "type": "Grama",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você tenta acertar um chute intenso de origens tropicais no alvo. Faça um ataque corpo a corpo, causando 1d12 + MOVE de dano de grama em um acerto. Em um resultado natural de 16 ou mais, o alvo adiciona -1 a qualquer ataque que fizer pelo resto do combate. Este modificador pode ser acumulado até um máximo de -3.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 2d12 no nível 10 e 6d6 no nível 17."
+    },
+    {
+        "id": 633,
+        "name": "Trump Card (Coringa)",
+        "type": "Normal",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "Instantânea",
+        "range": "30 pés (9 metros)",
+        "description": "Descrição: Você ataca com uma explosão de energia que aumenta em força quanto mais é usada. Faça um ataque à distância em uma criatura, causando 1d6 + MOVE de dano normal em um acerto. Aumente o dano pelo seu modificador de MOVE para cada PP que foi gasto para o Move antes dele ser ativado. Usar um restaurador para recuperar PP redefine o dano para este ataque.",
+        "highLevel": "O dado de dano para este Move muda para 1d8 no nível 5, 2d6 no nível 10 e 4d6 no nível 17."
+    },
+    {
+        "id": 634,
+        "name": "Twineedle (Agulhas Gêmeas)",
+        "type": "Inseto",
+        "move": "DES",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "Instantânea",
+        "range": "40 pés (12 metros)",
+        "description": "Descrição: Você dispara dois projéteis afiados em uma criatura dentro do alcance. Eles não precisam mirar na mesma criatura. Faça dois ataques à distância, causando 1d4 + MOVE de dano inseto em cada acerto. Se o resultado natural de qualquer ataque for 19 ou 20, o alvo fica envenenado.",
+        "highLevel": "O dado de dano para este Move muda para 2d4 no nível 5, 1d12 no nível 10 e 4d4 no nível 17."
+    },
+    {
+        "id": 635,
+        "name": "Twister (Ciclone)",
+        "type": "Dragão",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "80 pés (24 metros)",
+        "description": "Descrição: Você envia uma rajada de vento giratório que atravessa uma criatura. Faça um ataque à distância em uma criatura, causando 1d6 + MOVE de dano dragão em um acerto. Se o resultado do ataque natural for 16 ou mais, o alvo fica atordoado.",
+        "highLevel": "O dado de dano para este Move muda para 1d12 no nível 5, 2d8 no nível 10 e 4d6 no nível 17."
+    },
+    {
+        "id": 636,
+        "name": "U-Turn (Giro em U)",
+        "type": "Inseto",
+        "move": "DES",
+        "casting": "1 ação",
+        "pp": 3,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você desfere um golpe rápido antes de se afastar. Faça um ataque corpo a corpo, causando 1d12 + MOVE de dano inseto em um acerto. Após este Move ser ativado, um treinador deve trocar o usuário como uma ação livre.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 2d12 no nível 10 e 6d6 no nível 17.  120"
+    },
+    {
+        "id": 637,
+        "name": "Uproar (Tumulto)",
+        "type": "Normal",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "3 rodadas, Concentração",
+        "range": "Pessoal (raio de 30 pés / 9 metros)",
+        "description": "Descrição: Você causa um alvoroço no campo de batalha em um círculo de 60 pés (18 metros), centrado em você, por três rodadas de combate. Durante o alvoroço, sua ação é gasta continuando o Move (sem gastar PP), e qualquer criatura dentro do alcance acorda e é impedida de adormecer. (Isso inclui criaturas que adormeceriam usando Moves como Rest). Além disso, as criaturas na área no início de seus turnos devem fazer um teste de CON contra sua CD de Move, sofrendo 2d8 + MOVE de dano normal em uma falha, ou metade disso em um sucesso.",
+        "highLevel": "O dado de dano para este Move muda para 2d10 no nível 5, 3d10 no nível 10 e 4d12 no nível 17."
+    },
+    {
+        "id": 638,
+        "name": "V-Create (Criação-V)",
+        "type": "Fogo",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Sua testa queima como carvões quentes enquanto você bate sua cabeça em uma criatura. Faça um ataque corpo a corpo, causando 3d10 + MOVE de dano de fogo em um acerto. Após ativar este Move, sua CA diminui em 2 até o início de seu próximo turno.",
+        "highLevel": "O dado de dano para este Move muda para 6d6 no nível 5, 8d6 no nível 10 e 7d12 no nível 17."
+    },
+    {
+        "id": 639,
+        "name": "Vacuum Wave (Onda de Vácuo)",
+        "type": "Lutador",
+        "move": "DES",
+        "casting": "1 ação bônus",
+        "pp": 20,
+        "duration": "Instantânea",
+        "range": "25 pés (7,5 metros)",
+        "description": "Descrição: Você gira seus punhos com um ataque rápido que empurra uma explosão de vento rápida em uma criatura dentro do alcance. Faça um ataque à distância em uma criatura, causando 1d4 de dano lutador em um acerto.",
+        "highLevel": "O dado de dano para este Move muda para 1d6 no nível 5, 1d10 no nível 10 e 1d12 no nível 17."
+    },
+    {
+        "id": 640,
+        "name": "Venom Drench (Poção Venenosa)",
+        "type": "Venenoso",
+        "move": "DES/CON",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "20 pés (6 metros)",
+        "description": "Descrição: Você encharca uma criatura com um líquido venenoso. Force uma criatura a fazer um teste de CON contra sua CD de Move, ficando envenenada em caso de falha. Se o alvo já estiver envenenado, este Move acerta automaticamente, fazendo com que a criatura agora receba o dobro do dano base da condição envenenado no final de cada um de seus turnos.",
+        "highLevel": ""
+    },
+    {
+        "id": 641,
+        "name": "Venoshock (Venochoque)",
+        "type": "Venenoso",
+        "move": "DES/CON",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "Instantânea",
+        "range": "15 pés (4,5 metros)",
+        "description": "Descrição: Você tenta encharcar uma criatura com líquido venenoso. Faça um ataque à distância em uma criatura, causando 1d10 + MOVE de dano venenoso em um acerto. Se o alvo já estiver envenenado, dobre os dados para o dano.",
+        "highLevel": "O dado de dano para este Move muda para 2d6 no nível 5, 2d12 no nível 10 e 3d10 no nível 17."
+    },
+    {
+        "id": 642,
+        "name": "Vine Whip (Chicote de Cipó)",
+        "type": "Grama",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 15,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo (alcance de 15 pés / 4,5 metros)",
+        "description": "Descrição: Você estende uma vinha afiada para chicotear o alvo. Faça um ataque corpo a corpo contra um alvo a até 15 pés (4,5 metros) de você, causando 1d6 + MOVE de dano de grama em um acerto.",
+        "highLevel": "O dado de dano para este Move muda para 1d12 no nível 5, 2d8 no nível 10 e 4d6 no nível 17."
+    },
+    {
+        "id": 643,
+        "name": "Vise Grip (Aperto com Garra)",
+        "type": "Normal",
+        "move": "FOR",
+        "casting": "1 ação",
+        "pp": 15,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você esmaga uma criatura com um ataque de aperto poderoso. Faça um ataque corpo a corpo, causando 1d8 + MOVE de dano normal em um acerto, agarrando o alvo. Em cada turno sucessivo, se a criatura ainda estiver agarrada, você pode usar este Move novamente (como uma ação) e acertar automaticamente. Uma criatura pode tentar escapar do agarrão no início de seus turnos com um teste de FOR contra sua CD de Move.",
+        "highLevel": "O dado de dano para este Move muda para 2d6 no nível 5, 4d4 no nível 10 e 3d10 no nível 17."
+    },
+    {
+        "id": 644,
+        "name": "Vital Throw (Lançamento Vital)",
+        "type": "Lutador",
+        "move": "FOR",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Um ataque lutador lento que espanca uma criatura. Como uma ação em seu turno, você segura este Move até o próximo turno, onde automaticamente acertará causando 1d12 + MOVE de dano lutador desde que o alvo permaneça dentro do alcance corpo a corpo.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 2d12 no nível 10 e 6d6 no nível 17.  121.........."
+    },
+    {
+        "id": 645,
+        "name": "Volt Switch (Troca Elétrica)",
+        "type": "Elétrico",
+        "move": "DES",
+        "casting": "1 ação",
+        "pp": 3,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você ataca com um golpe elétrico rápido antes de se afastar. Faça um ataque corpo a corpo, causando 1d12 + MOVE de dano elétrico em um acerto. Após este Move ser ativado, um treinador deve trocar o usuário como uma ação livre.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 2d12 no nível 10 e 6d6 no nível 17."
+    },
+    {
+        "id": 646,
+        "name": "Volt Tackle (Investida Trovão)",
+        "type": "Elétrico",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "15 pés (4,5 metros)",
+        "description": "Descrição: Você avança em um lampejo de eletricidade com alcance estendido, se chocando contra uma criatura. Ao ativar este Move, você avança 15 pés (4,5 metros) e faz um teste de ataque corpo a corpo contra uma criatura, causando 2d10 + MOVE de dano elétrico em um acerto. Em um acerto, você também sofre 1/3 do total (arredondado para baixo) em dano de recuo sem tipo.",
+        "highLevel": "O dado de dano para este Move muda para 3d8 no nível 5, 4d10 no nível 10 e 7d8 no nível 17."
+    },
+    {
+        "id": 647,
+        "name": "Wake-Up Slap (Tapa do Despertar)",
+        "type": "Lutador",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você ataca com um tapa estimulante de suas palmas. Faça um ataque corpo a corpo em uma criatura, causando 1d12 + MOVE de dano lutador em um acerto. Se o alvo estiver dormindo, dobre seu modificador de MOVE ao adicionar o dano, mas o alvo acorda automaticamente.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 2d12 no nível 10 e 6d6 no nível 17."
+    },
+    {
+        "id": 648,
+        "name": "Water Gun (Jato d'Água)",
+        "type": "Água",
+        "move": "DES",
+        "casting": "1 ação",
+        "pp": 15,
+        "duration": "Instantânea",
+        "range": "40 pés (12 metros)",
+        "description": "Descrição: Você dispara um jato rápido de água em uma criatura dentro do alcance. Faça um ataque à distância, causando 1d6 + MOVE de dano de água em um acerto.",
+        "highLevel": "O dado de dano para este Move muda para 1d12 no nível 5, 2d8 no nível 10 e 4d6 no nível 17."
+    },
+    {
+        "id": 649,
+        "name": "Water Pledge (Pilar de Água)",
+        "type": "Água",
+        "move": "FOR",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "Instantânea",
+        "range": "40 pés (12 metros)",
+        "description": "Descrição: Você envia uma coluna de água em direção a uma criatura. Faça um ataque à distância, causando 2d6 + MOVE de dano de água em um acerto. Após acertar, qualquer aliado que usar outro Move de Pledge na mesma rodada acertará automaticamente.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 4d6 no nível 10 e 6d6 no nível 17."
+    },
+    {
+        "id": 650,
+        "name": "Water Pulse (Pulso d'Água)",
+        "type": "Água",
+        "move": "DES",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "30 pés (9 metros)",
+        "description": "Descrição: Você envia uma onda de energia aquática ultrassônica em uma criatura dentro do alcance. Faça um teste de ataque à distância, causando 1d10 + MOVE de dano de água em um acerto. Em um resultado natural de ataque de 17 ou mais, o alvo fica confuso.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 5d4 no nível 10 e 4d8 no nível 17."
+    },
+    {
+        "id": 651,
+        "name": "Water Shuriken (Estrela Ninja de Água)",
+        "type": "Água",
+        "move": "DES",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "50 pés (15 metros)",
+        "description": "Descrição: Você dispara uma salva de shurikens afiados em um alvo. Faça um teste de ataque à distância, causando 1d4 + MOVE de dano de água em um acerto. Após atingir com sucesso um alvo, role um d4. Em um resultado de 3 ou 4, outra shuriken atinge o alvo causando dano adicional de 1d4 de água. Continue este processo até falhar em rolar um 3 ou 4 no d4, até um máximo de quatro acertos adicionais.",
+        "highLevel": "O dado de dano para este Move muda para 1d6 no nível 5, 1d8 no nível 10 e 2d6 no nível 17."
+    },
+    {
+        "id": 652,
+        "name": "Water Sport (Esporte Aquático)",
+        "type": "Água",
+        "move": "Nenhum",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "1 minuto",
+        "range": "Pessoal (raio de 5 pés / 1,5 metros)",
+        "description": "Descrição: Você encharca a si e todos os aliados com água, reduzindo a quantidade de dano de fogo recebido por qualquer um afetado. Durante a duração, você e qualquer aliado dentro do alcance (quando você ativou este Move inicialmente) têm resistência a ataques do tipo fogo. Se você já era resistente, agora é imune. Se você era vulnerável, agora recebe dano normal. Se você já é imune a Moves do tipo fogo, nada acontece.  122",
+        "highLevel": ""
+    },
+    {
+        "id": 653,
+        "name": "Water Spout (Tromba d'Água)",
+        "type": "Água",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 3,
+        "duration": "Instantânea",
+        "range": "30 pés (9 metros)",
+        "description": "Descrição: Você dispara uma explosão de água em uma criatura, que aumenta em poder quanto mais saudável você está. Faça um teste de ataque à distância contra uma criatura, causando 3d8 + MOVE de dano de água em um acerto se você estiver em ou acima de 50% de sua saúde. Se estiver abaixo de 50%, reduza pela metade o dano total causado.",
+        "highLevel": "O dado de dano para este Move muda para 5d6 no nível 5, 4d12 no nível 10 e 8d8 no nível 17."
+    },
+    {
+        "id": 654,
+        "name": "Waterfall (Queda d'Água)",
+        "type": "Água",
+        "move": "FOR/CON",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "80 pés (24 metros)",
+        "description": "Descrição: Você cria uma cascata intensa que cai sobre criaturas em um raio de 10 pés (3 metros), centrado em um ponto dentro do alcance. Criaturas na área devem fazer um teste de FOR contra sua CD de Move ou sofrer 2d6 + MOVE de dano de água e ficarem caídas em uma falha, ou metade disso e sem ficarem caídas em um sucesso.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 4d6 no nível 10 e 6d6 no nível 17."
+    },
+    {
+        "id": 655,
+        "name": "Weather Ball (Esfera Climática)",
+        "type": "Normal",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "Instantânea",
+        "range": "30 pés (9 metros)",
+        "description": "Descrição: Você envia uma bola de energia poderosa que muda de tipo com base no clima circundante, causando 1d8 + MOVE de dano desse tipo. Clima Tipo Luz solar intensa Fogo Chuva Água Tempestade de Areia Pedra Granizo ou Neve Gelo Nevoeiro ou Nublado Normal",
+        "highLevel": "O dado de dano para este Move muda para 2d6 no nível 5, 4d4 no nível 10 e 3d10 no nível 17."
+    },
+    {
+        "id": 656,
+        "name": "Whirlpool (Redemoinho)",
+        "type": "Água",
+        "move": "FOR",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "60 pés (18 metros)",
+        "description": "Descrição: Você cria uma onda de água que gira em torno de uma criatura dentro do alcance. Faça um teste de ataque à distância. Em um acerto, o alvo sofre 1d6 + MOVE de dano de água e fica impedido. No início de cada um de seus turnos, ele pode tentar escapar com um teste de FOR contra sua CD de Move. Em cada turno sucessivo, se a criatura ainda estiver impedida, você pode usar este Move novamente (como uma ação) e acertar automaticamente.",
+        "highLevel": "O dado de dano para este Move muda para 1d10 no nível 5, 2d8 no nível 10 e 5d4 no nível 17."
+    },
+    {
+        "id": 657,
+        "name": "Whirlwind (Ataque de Vento)",
+        "type": "Normal",
+        "move": "DES",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "Pessoal (raio de 5 pés / 1,5 metros)",
+        "description": "Descrição: Você cria um redemoinho de ar giratório ao seu redor, aumentando sua CA em +2 até o início do seu próximo turno. Quando você ativa este Move, qualquer criatura dentro de 5 pés (1,5 metros) de você deve ter sucesso em um teste de FOR contra sua CD de Move ou ficar caída. Em batalhas contra criaturas selvagens, este Move pode ser ativado para contar automaticamente como um sucesso em um teste de DES em grupo para fugir.",
+        "highLevel": ""
+    },
+    {
+        "id": 658,
+        "name": "Wide Guard (Defesa Aberta)",
+        "type": "Pedra",
+        "move": "Nenhum",
+        "casting": "1 reação",
+        "pp": 3,
+        "duration": "Instantânea",
+        "range": "50 pés (15 metros)",
+        "description": "Descrição: Você tem a habilidade de proteger seus aliados de Moves de área de efeito. Como uma reação, quando uma criatura ativa um Move que causa dano a vários aliados dentro do alcance, você pode reduzir pela metade o dano causado. Em instâncias futuras desta reação na mesma batalha, você deve rolar mais de 15 em um d20 ou perder a reação sem efeito.",
+        "highLevel": ""
+    },
+    {
+        "id": 659,
+        "name": "Wild Charge (Ataque Selvagem)",
+        "type": "Elétrico",
+        "move": "FOR",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você se envolve em eletricidade e avança contra uma criatura. Faça um ataque corpo a corpo, causando 2d8 + MOVE de dano elétrico em um acerto, mas recebendo 1/4 do dano (arredondado para baixo) em dano de recuo sem tipo.",
+        "highLevel": "O dado de dano para este Move muda para 2d10 no nível 5, 3d10 no nível 10 e 4d12 no nível 17.  123.........."
+    },
+    {
+        "id": 660,
+        "name": "Will-O-Wisp (Fogo Fátuo)",
+        "type": "Fogo",
+        "move": "DES/SAB",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "30 pés (9 metros)",
+        "description": "Descrição: Você envia uma chama sinistra e incandescente em uma criatura tentando causar queimaduras. Faça um teste de ataque à distância em um alvo, causando queimaduras em um acerto.",
+        "highLevel": ""
+    },
+    {
+        "id": 661,
+        "name": "Wing Attack (Ataque de Asas)",
+        "type": "Voador",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 20,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você ataca uma criatura alvo com suas asas. Faça um teste de ataque corpo a corpo, causando 1d10 + MOVE de dano voador em um acerto.",
+        "highLevel": "O dado de dano para este Move muda para 2d8 no nível 5, 5d4 no nível 10 e 4d8 no nível 17."
+    },
+    {
+        "id": 662,
+        "name": "Wish (Desejo)",
+        "type": "Normal",
+        "move": "SAB/CAR",
+        "casting": "1 ação, carga",
+        "pp": 5,
+        "duration": "1 rodada",
+        "range": "50 pés (15 metros)",
+        "description": "Descrição: Você envia um desejo de cura que leva tempo para se tornar realidade. No final do seu próximo turno, como uma ação livre, cure um alvo dentro do alcance para 3d8 + MOVE pontos de vida.",
+        "highLevel": "O dado de cura para este Move muda para 5d6 no nível 5, 4d12 no nível 10 e 8d8 no nível 17."
+    },
+    {
+        "id": 663,
+        "name": "Withdraw (Retirada)",
+        "type": "Água",
+        "move": "Nenhum",
+        "casting": "1 reação",
+        "pp": 3,
+        "duration": "Instantânea",
+        "range": "Pessoal",
+        "description": "Descrição: Quando sujeito a um ataque corpo a corpo ou à distância, você pode gastar sua reação para aumentar sua CA em +2 caso isso faça com que o ataque erre.",
+        "highLevel": "Aumente sua CA em +3 no nível 10 e acima. "
+    },
+    {
+        "id": 664,
+        "name": "Wonder Room (Quarto Maravilha)",
+        "type": "Psíquico",
+        "move": "Nenhum",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "1 minuto, Concentração",
+        "range": "Pessoal (raio de 50 pés / 15 metros)",
+        "description": "Descrição: Você cria uma vibração bizarra no ar em um círculo de 100 pés (30 metros), centrado em você. Durante a duração, todos os testes de SAB se tornam testes de CON e todos os testes de CON se tornam testes de SAB.",
+        "highLevel": ""
+    },
+    {
+        "id": 665,
+        "name": "Wood Hammer (Martelo de Madeira)",
+        "type": "Grama",
+        "move": "FOR",
+        "casting": "1 ação",
+        "pp": 10,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você bate seu corpo áspero contra uma criatura, sofrendo um sério dano de recuo. Faça um teste de ataque contra um alvo, causando 2d10 + MOVE de dano de grama em um acerto. Em um acerto, você também sofre 1/3 do dano causado em dano de recuo sem tipo.",
+        "highLevel": "O dado de dano para este Move muda para 3d8 no nível 5, 4d10 no nível 10 e 7d8 no nível 17."
+    },
+    {
+        "id": 666,
+        "name": "Work Up (Elaborar)",
+        "type": "Normal",
+        "move": "Nenhum",
+        "casting": "1 ação bônus",
+        "pp": 3,
+        "duration": "1 minuto",
+        "range": "Pessoal",
+        "description": "Descrição: Você acelera sua adrenalina e entra em frenesi. Enquanto estiver agitado, você adiciona +2 a todas as rolagens de ataque. Seu estado agitado termina se você estiver incapacitado ou se não tiver atacado um alvo hostil desde seu último turno, ou se não tiver sofrido nenhum dano desde então.",
+        "highLevel": ""
+    },
+    {
+        "id": 667,
+        "name": "Worry Seed (Semente de Preocupação)",
+        "type": "Grama",
+        "move": "DES/CAR",
+        "casting": "1 ação",
+        "pp": 5,
+        "duration": "1 minuto",
+        "range": "30 pés (9 metros)",
+        "description": "Descrição: Você dispara uma semente bizarra que implanta preocupação em outra criatura. O alvo deve ter sucesso em um teste de CON contra sua CD de Move ou substituir a habilidade passiva do alvo por Insomnia, impedindo o sono durante a duração. Se o Move for usado em um alvo adormecido, ele acordará no próximo turno dele.",
+        "highLevel": ""
+    },
+    {
+        "id": 668,
+        "name": "Wrap (Enrolar)",
+        "type": "Normal",
+        "move": "FOR/DES",
+        "casting": "1 ação",
+        "pp": 15,
+        "duration": "Instantânea",
+        "range": "Corpo a corpo",
+        "description": "Descrição: Você tenta imobilizar um alvo. Faça um teste de ataque corpo a corpo. Em um acerto, o alvo sofre 1d4 + MOVE de dano normal e fica agarrado. No início de cada um de seus turnos, ele pode tentar escapar com um teste de FOR contra sua CD de Move. Enquanto o alvo estiver agarrado em seus turnos subsequentes, este Move pode ser ativado novamente como uma ação bônus com um acerto automático, causando 1d4 de dano normal.",
+        "highLevel": "Os dados de dano para este Move mudam para 1d6 no nível 5, 1d8 no nível 10 e 2d6 no nível 17.  124"
+    },
+    {
+        "id": 669,
+        "name": "Wring Out (Despedaçar)",
         "type": "Normal",
         "move": "FOR",
         "casting": "1 ação",
         "pp": 3,
         "duration": "Instantânea",
         "range": "Corpo a corpo",
-        "description": "Você envolve suas mãos em torno do alvo e aperta com força. Faça um ataque corpo a corpo contra uma criatura, causando 3d8 + MOVE de dano normal em um acerto. Se o alvo tiver 50% ou mais de seus pontos de vida máximos, dobre seu modificador de MOVE para o resultado do dano.",
+        "description": "Descrição: Você envolve suas mãos em torno do alvo e aperta com força. Faça um ataque corpo a corpo contra uma criatura, causando 3d8 + MOVE de dano normal em um acerto. Se o alvo tiver 50% ou mais de seus pontos de vida máximos, dobre seu modificador de MOVE para o resultado do dano.",
         "highLevel": "Os dados de dano para este Move mudam para 5d6 no nível 5, 4d12 no nível 10 e 8d8 no nível 17."
     },
     {
-        "id": 614,
-        "name": "Scissor (Tesoura X)",
+        "id": 670,
+        "name": "X-Scissor (Tesoura X)",
         "type": "Inseto",
         "move": "FOR/DES",
         "casting": "1 ação",
         "pp": 10,
         "duration": "Instantânea",
         "range": "Corpo a corpo",
-        "description": "Você cruza suas garras para um ataque de corte tipo tesoura. Faça um ataque corpo a corpo contra uma criatura, causando 2d6 + MOVE de dano inseto em um acerto.",
+        "description": "Descrição: Você cruza suas garras para um ataque de corte tipo tesoura. Faça um ataque corpo a corpo contra uma criatura, causando 2d6 + MOVE de dano inseto em um acerto.",
         "highLevel": "Os dados de dano para este Move mudam para 2d8 no nível 5, 4d6 no nível 10 e 6d6 no nível 17."
     },
     {
-        "id": 615,
+        "id": 671,
         "name": "Yawn (Bocejo)",
         "type": "Normal",
         "move": "Nenhum",
@@ -7388,43 +8060,43 @@
         "pp": 5,
         "duration": "1 rodada",
         "range": "30 pés (9 metros)",
-        "description": "Você solta um grande bocejo que faz uma criatura ficar muito sonolenta. Escolha um alvo no alcance. Se esse alvo ainda estiver na batalha ao final do próximo turno dele, ele adormece.",
+        "description": "Descrição: Você solta um grande bocejo que faz uma criatura ficar muito sonolenta. Escolha um alvo no alcance. Se esse alvo ainda estiver na batalha ao final do próximo turno dele, ele adormece.",
         "highLevel": ""
     },
     {
-        "id": 616,
-        "name": "Cannon (Canhão Elétrico)",
+        "id": 672,
+        "name": "Zap Cannon (Canhão Elétrico)",
         "type": "Elétrico",
         "move": "FOR/DES",
         "casting": "1 ação",
         "pp": 3,
         "duration": "Instantânea",
         "range": "80 pés (24 metros)",
-        "description": "Você dispara um intenso jato de energia elétrica pura em uma criatura. Faça um ataque à distância contra um alvo no alcance, causando 2d10 + MOVE de dano elétrico. Se o resultado natural do ataque for 15 ou mais, o alvo fica paralisado.",
+        "description": "Descrição: Você dispara um intenso jato de energia elétrica pura em uma criatura. Faça um ataque à distância contra um alvo no alcance, causando 2d10 + MOVE de dano elétrico. Se o resultado natural do ataque for 15 ou mais, o alvo fica paralisado.",
         "highLevel": "Os dados de dano para este Move mudam para 3d8 no nível 5, 4d10 no nível 10 e 7d8 no nível 17."
     },
     {
-        "id": 617,
-        "name": "Headbutt (Cabeçada Zen)",
+        "id": 673,
+        "name": "Zen Headbutt (Cabeçada Zen)",
         "type": "Psíquico",
         "move": "FOR/SAB",
         "casting": "1 ação",
         "pp": 10,
         "duration": "Instantânea",
         "range": "Corpo a corpo",
-        "description": "Você concentra toda a sua força de vontade em sua cabeça e a arremete contra uma criatura. Faça um ataque corpo a corpo, causando 2d6 + MOVE de dano psíquico em um acerto. Se o resultado natural do ataque for 17 ou mais, o alvo fica atordoado.",
+        "description": "Descrição: Você concentra toda a sua força de vontade em sua cabeça e a arremete contra uma criatura. Faça um ataque corpo a corpo, causando 2d6 + MOVE de dano psíquico em um acerto. Se o resultado natural do ataque for 17 ou mais, o alvo fica atordoado.",
         "highLevel": "Os dados de dano para este Move mudam para 2d8 no nível 5, 4d6 no nível 10 e 6d6 no nível 17."
     },
     {
-        "id": 618,
-        "name": "Zap (Eletrozap)",
+        "id": 674,
+        "name": "Zing Zap (Eletrozap)",
         "type": "Elétrico",
         "move": "DES",
         "casting": "1 ação",
         "pp": 5,
         "duration": "Instantânea",
         "range": "30 pés (9 metros)",
-        "description": "Uma forte explosão elétrica atinge dois alvos únicos no alcance, dando-lhes um choque elétrico. Faça dois ataques à distância, causando 1d10 + MOVE de dano elétrico em um acerto. Se o resultado natural do ataque for 18 ou mais, o alvo fica atordoado.",
+        "description": "Descrição: Uma forte explosão elétrica atinge dois alvos únicos no alcance, dando-lhes um choque elétrico. Faça dois ataques à distância, causando 1d10 + MOVE de dano elétrico em um acerto. Se o resultado natural do ataque for 18 ou mais, o alvo fica atordoado.",
         "highLevel": "Os dados de dano para este Move mudam para 2d8 no nível 5, 4d6 no nível 10 e 6d6 no nível 17."
     }
 ]

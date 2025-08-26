@@ -5,7 +5,6 @@ import dados from "../../../dados/baseHabilidades"
 import "./Habilidades.css"
 
 const Habilidades = () => {
-    const [fontSize, setFontSize] = useState(15);
     const [search, setSearch] = useState('')
     const [filter, setFilter] = useState([])
     const [quantHabili, setQuantHabili] = useState(20)
@@ -27,14 +26,11 @@ const Habilidades = () => {
         setQuantHabili(quant)
     }
 
-    const fontCallback = (font) => {
-        setFontSize(font)
-    }
 
     return (
         <div>
             <h1 className='tituloSite'>Habilidade dos Pokemon</h1>
-            <BarraLateral onResult={quantHabiliCallback} onFontSize={fontCallback} />
+            <BarraLateral onResult={quantHabiliCallback} />
             <div id='pesquisa'>
                 <input value={search} onChange={handleSearchChange} />
                 <p>{quantHabili}/236</p>
@@ -47,7 +43,7 @@ const Habilidades = () => {
                         {filter.map(item => (
                             <li key={item.id} className="habilidade-item">
                                 <h1>{item.nome}</h1>
-                                <p style={{ fontSize: fontSize }}>{item.descrição}</p>
+                                <p className="pAdapitavel">{item.descrição}</p>
                             </li>
                         ))}
                     </ul>

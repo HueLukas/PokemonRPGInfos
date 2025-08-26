@@ -46,3 +46,11 @@ a{
   margin: 15px;
   border-radius: 15px;
 }
+
+.barraMenu a h2:hover{
+  background-color:  #151515;
+}
+
+.barraMenu a h2:active{
+  background-color: green;
+}

@@ -4,6 +4,8 @@ import { PageMoves } from "../pages/Moves";
 import { Habilidades } from "../pages/Habilidades";
 import { Natures } from "../pages/Natures";
 import { Usuario } from "../pages/Usuario";
+import { TurnOrder } from "../TurnOrder";
+import { CriaFicha } from "../CriaFicha";
 
 const AppRouted = () => {
     return(
@@ -13,7 +15,10 @@ const AppRouted = () => {
                 <Route exact path="/Moves" element={<PageMoves/>}/>
                 <Route exact path="/Habilidades" element={<Habilidades/>}/>
                 <Route exact path="/Natures" element={<Natures/>}/>
-                <Route exact path="/Usuario" element={<Usuario/>}/>
+                <Route path="/Usuario" element={<Usuario/>}>
+                    <Route path="TurnOrder" element={<TurnOrder/>}/>
+                    <Route path="Ficha" element={<CriaFicha/>}/>
+                </Route>
             </Routes>
         </BrowserRouter>
     )

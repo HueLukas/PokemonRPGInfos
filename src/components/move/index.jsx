@@ -17,9 +17,9 @@ const Move = (props) => {
                 <Freme titulo="Duração" item={move.duration} />
                 <Freme titulo="Alcance" item={move.range} />
             </div>
-            <p className="description"  style={{ fontSize: `${props.font}px`}}>{move.description}</p>
-            <h2 id="HLevel" style={{ fontSize: `${props.font}px`}}>Níveis Superiores</h2>
-            <p className="description" style={{ fontSize: `${props.font}px`}}>{move.highLevel}</p>
+            <p className="description pAdapitavel">{move.description}</p>
+            <h2 id="HLevel" className="pAdapitavel">Níveis Superiores</h2>
+            <p className="description pAdapitavel" >{move.highLevel}</p>
         </div>
     )
 }
