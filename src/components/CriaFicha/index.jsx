@@ -109,9 +109,9 @@ const CriaFicha = () => {
         }
     };
 
-    useEffect(() => {
-        console.log(valor)
-    }, [valor]);
+    // useEffect(() => {
+    //     console.log(valor)
+    // }, [valor]);
     
 
     const handleButtonClick = () => {
@@ -149,8 +149,7 @@ const CriaFicha = () => {
                     <input type="number" id='vida' value={valor.vida} onChange={valorSetar} />
                     <input type="number" id='ac' value={valor.ac} onChange={valorSetar} />
                     <input type="number" id='str' value={valor.str} onChange={valorSetar} />
-                    <input type="number" id='dex' value={valor.dex} onChange={valorSetar} />
-                    <input type="number" id='con' value={valor.con} onChange={valorSetar} />
+                    <input type="number" id='dex' value={valor.dex} onChange={valorSetar} />                   <input type="number" id='con' value={valor.con} onChange={valorSetar} />
                     <input type="number" id='int' value={valor.int} onChange={valorSetar} />
                     <input type="number" id='wis' value={valor.wis} onChange={valorSetar} />
                     <input type="number" id='car' value={valor.car} onChange={valorSetar} />

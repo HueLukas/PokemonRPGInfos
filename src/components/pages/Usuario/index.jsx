@@ -1,4 +1,3 @@
-
 import styled from "styled-components";
 import { BarraLateral } from "../../BarraLateral";
 import "./Usuario.css"
