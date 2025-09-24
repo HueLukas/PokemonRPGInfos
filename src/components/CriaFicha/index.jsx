@@ -209,6 +209,10 @@ const CriaFicha = () => {
                                 <p className="pAdapitavel">{value.int}</p>
                             </div>
                             <div className="statusItem">
+                                <p className="pAdapitavel">Sabedoria: </p>
+                                <p className="pAdapitavel">{value.wis}</p>
+                            </div>
+                            <div className="statusItem">
                                 <p className="pAdapitavel">Carisma: </p>
                                 <p className="pAdapitavel">{value.car}</p>
                             </div>

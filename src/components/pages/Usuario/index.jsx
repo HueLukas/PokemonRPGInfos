@@ -19,6 +19,7 @@ const Usuario = () => {
 const Options = styled.section`
     display: flex;
     justify-content: space-between;
+    gap: 20px;
 `
 
 export { Usuario }
