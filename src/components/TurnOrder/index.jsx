@@ -5,6 +5,7 @@ import { BarraDinamica } from "../BarraDinamica";
 // import { Link } from "react-router-dom"
 import { Freme } from "../FremePequeno";
 import imagemPerfil from "../../assets/Perfil-00.png"
+import { useConfigs } from "../../contexts/Configs";
 
 
 const TurnOrder = () => {
@@ -12,21 +13,20 @@ const TurnOrder = () => {
    const [bat, setBat] = useState({})
    const [maxid, setMaxid] = useState(0)
 
+   const { inf } = useConfigs()
+
    useEffect(() => {
-      const savedData = localStorage.getItem('save');
-      const savedBatalha = localStorage.getItem('Batalha');
-      console.log(savedBatalha)
+      const savedData = localStorage.getItem(`save${inf}`);
+      const savedBatalha = localStorage.getItem(`Batalha${inf}`);
       if (savedData) {
          setInfos(JSON.parse(savedData));
       }
       if ( savedBatalha) {
          setBat(JSON.parse(savedBatalha))
       }
-   }, []);
+   }, [inf]);
 
-   useEffect(() => {
-      console.log(bat)
-   }, [bat]);
+   
 
    const adicionarParticipante = (participante) => {
       const novoParticipante = { turno: 0, nome: participante, vidaA: infos[participante]?.vida || 0 }
@@ -35,21 +35,11 @@ const TurnOrder = () => {
       setBat(newBat)
    }
 
-   const valorTurno = (event) => {
-      const { id, value } = event.target;
-      setBat({ ...bat, [id]: { ...bat[id], turno: value } })
-   }
-
-   const valorVida = (event) => {
-      const { id, value } = event.target;
-      setBat({ ...bat, [id]: { ...bat[id], vidaA: value } })
-   }
-
    const handleChange = (event, chave) => {
       const { value, name } = event.target;
       const newBat = { ...bat, [chave]: { ...bat[chave], [name]: value } }
       setBat(newBat)
-      localStorage.setItem("Batalha", JSON.stringify(newBat))
+      localStorage.setItem(`Batalha${inf}`, JSON.stringify(newBat))
    }
 
    const ordenar = Object.keys(bat).sort((a, b) => {
@@ -66,8 +56,14 @@ const TurnOrder = () => {
       setBat({})
       setMaxid(0)
       const newBat = {}
-      localStorage.setItem("Batalha", JSON.stringify(newBat))
+      localStorage.setItem(`Batalha${inf}`, JSON.stringify(newBat))
    }
+
+   
+
+   // useEffect(() => {
+   //    console.log(bat)
+   // }, [bat]);
 
    return (
       <div>
